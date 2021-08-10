@@ -27,8 +27,9 @@
 - 当我们压制一种自然现象时，那种现象只会加强。
 - 号令自然，必先遵守自然
 - 主啊，请赐我安详，接纳我不能改变的事物。请赐我勇气，去改变我可以改变的东西。并赐我智慧去认识这两者的差别
-- 信念即自我完成预言。人是怎样便怎样待他，他便还是那样的人。一个人能够或应该怎样便怎样待他，他便会成为能够怎样或是应当怎样的人
+- Beliefs are self-fullifing prophecies.
+- Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will became he can and should be.
 - 奖励喜欢的人或物的照片，或名言放在房间周围以作为映射。
-
-
+- 当内部思维和外界现实不一致时会：改变内部思维、忽视外界现实或是创造现实。
+- learn to fail and learn from failure.
 
