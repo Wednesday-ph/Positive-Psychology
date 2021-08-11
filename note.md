@@ -32,4 +32,5 @@
 - 奖励喜欢的人或物的照片，或名言放在房间周围以作为映射。
 - When intertnal thinking is not consistent with external reality: change internal thinking, ignore external reality , or create reality.
 - learn to fail and learn from failure.
+- I didn't fail 5000 times. I succeeded 5000 times. I succeeded in showing what doesn't work.
 
