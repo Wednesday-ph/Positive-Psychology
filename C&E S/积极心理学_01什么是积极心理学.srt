@@ -1,0 +1,6704 @@
+1
+00:00:09,290 --> 00:00:10,440
+Hi Good morning.
+各位 早上好
+
+2
+00:00:13,220 --> 00:00:15,550
+It's wonderful to be back here.
+很高兴能回到这里
+
+3
+00:00:16,100 --> 00:00:17,740
+Wonderful to see you here.
+很高兴见到你们
+
+4
+00:00:19,840 --> 00:00:21,770
+I'm teaching this class
+我教授这门课是因为
+
+5
+00:00:21,770 --> 00:00:26,620
+because I wish a class like this had been taught
+在我读本科阶段时
+
+6
+00:00:27,110 --> 00:00:30,050
+when I was sitting in your seat as an undergrad here.
+非常希望能学习这样一门课程
+
+7
+00:00:30,730 --> 00:00:33,600
+This does not mean it is a class you wish to be taught,
+可能这门课并不是你希望的那样
+
+8
+00:00:33,600 --> 00:00:36,210
+nor does it mean that it is the right class for you.
+也可能并不适合你
+
+9
+00:00:36,210 --> 00:00:42,620
+But I hope to doing the next couple of lectures is giving you an idea what this class is about
+但希望几堂课后 你能有个大概印象
+
+10
+00:00:42,750 --> 00:00:47,110
+so that you can decide whether or not it is for you.
+让你决定这门课是否适合你
+
+11
+00:00:49,400 --> 00:00:51,480
+I came here in 1992
+我1992年来到哈佛求学
+
+12
+00:00:54,050 --> 00:00:58,470
+一开始主修计算机科学
+
+13
+00:00:59,440 --> 00:01:03,450
+And then I had a mini epiphany half way through my sophomore year.
+大二期间 突然顿悟了
+
+14
+00:01:05,730 --> 00:01:09,660
+I realized that I was in a wonderful place
+我意识到我身处让人神往大学校园
+
+15
+00:01:09,660 --> 00:01:14,500
+with wonderful students around me, wonderful teachers.
+周围都是出色的同学 优秀的导师
+
+16
+00:01:15,090 --> 00:01:17,150
+I was doing well academically.
+我成绩优异
+
+17
+00:01:17,150 --> 00:01:19,250
+I was doing well in athletics.
+擅长体育运动
+
+18
+00:01:19,830 --> 00:01:22,670
+i was playing varsity squash at the time.
+我当时在校队打壁球
+
+19
+00:01:23,410 --> 00:01:25,200
+I was doing well socially.
+社交也游刃有余
+
+20
+00:01:25,200 --> 00:01:26,880
+Everything was going well.
+一切都很顺利
+
+21
+00:01:27,340 --> 00:01:28,820
+Except for the fact.
+除了一点
+
+22
+00:01:28,820 --> 00:01:30,250
+That I was unhappy.
+我不快乐
+
+23
+00:01:31,900 --> 00:01:34,250
+And I didn't understand why.
+而且我不明白为什么
+
+24
+00:01:35,930 --> 00:01:39,460
+It was then in a matter of moments,
+也就是在那时
+
+25
+00:01:39,460 --> 00:01:43,170
+that I decided that I had to find out why and become happier.
+我决定要找出原因 变得快乐
+
+26
+00:01:43,540 --> 00:01:46,260
+And that was when I switched my concentration
+于是我将研究方向
+
+27
+00:01:46,730 --> 00:01:51,190
+from computer science to philosophy and psychology
+从计算机科学转向了哲学及心理系
+
+28
+00:01:52,060 --> 00:01:53,570
+with a single question:
+目标只有一个
+
+29
+00:01:53,570 --> 00:01:55,290
+how can I become happier?
+如何变得更快乐?
+
+30
+00:01:57,500 --> 00:01:59,550
+Over time I did become happier.
+渐渐地 我的确变得更快乐了
+
+31
+00:01:59,550 --> 00:02:05,390
+What contributed most to my happiness was when I encountered a new emerging field
+主要因为我接触了一个新的领域
+
+32
+00:02:05,390 --> 00:02:08,050
+that at that time didn't have the name that it has today.
+那时并未正式命名
+
+33
+00:02:08,610 --> 00:02:14,930
+But essentially research that falls under or within the field of positive psychology.
+但本质上属于积极心理学范畴
+
+34
+00:02:17,220 --> 00:02:19,380
+Positive psychology, studying it,
+研究积极心理学
+
+35
+00:02:19,380 --> 00:02:22,830
+applying the ideas to my life has made me significantly happier.
+把其理念应用到生活中 让我无比快乐
+
+36
+00:02:22,830 --> 00:02:25,620
+It continues to make me happier.
+而且这种快乐继续着
+
+37
+00:02:26,120 --> 00:02:33,270
+And it was when I realized the impact that it had on me that I decided to share it with others.
+于是我决定将其与更多的人分享
+
+38
+00:02:33,270 --> 00:02:37,260
+That's when I decided that I wanted to be a teacher and teach in this field.
+选择教授这门学科
+
+39
+00:02:40,890 --> 00:02:42,830
+So this is positive psychology,
+这就是积极心理学
+
+40
+00:02:42,830 --> 00:02:45,340
+psychology 1504.
+1504号心理学课程
+
+41
+00:02:46,270 --> 00:02:48,270
+And we'll be exploring this new,
+我们将一起探索这一全新
+
+42
+00:02:48,270 --> 00:02:50,860
+relatively new and fascinating field.
+相对新兴 令人倾倒的领域
+
+43
+00:02:51,140 --> 00:02:56,280
+And hopefully, we will be exploring more than the field ourselves.
+希望同时还能探索我们自己
+
+44
+00:02:57,710 --> 00:03:00,980
+When I first taught this class that was back in 2002,
+我第一次开设这门课程 是在2002年
+
+45
+00:03:00,980 --> 00:03:04,920
+I taught it at a seminar and had eight students.
+是以讨论会的形式 只有8名学生
+
+46
+00:03:05,880 --> 00:03:07,140
+Two dropped out.
+两名退出了
+
+47
+00:03:08,910 --> 00:03:11,580
+That left me with six.
+只剩我和其他六个人
+
+48
+00:03:12,470 --> 00:03:13,510
+The year after,
+一年后
+
+49
+00:03:15,120 --> 00:03:17,520
+the class became slightly larger.
+学生稍微多了一点
+
+50
+00:03:17,520 --> 00:03:19,860
+I had over three hundred students.
+有300多人参加
+
+51
+00:03:21,410 --> 00:03:24,680
+And then third year when I taught it which was the last time,
+到了第三年 也就是上一次开课
+
+52
+00:03:25,220 --> 00:03:29,960
+I had 850 students in the class,
+有850人参加
+
+53
+00:03:29,960 --> 00:03:33,720
+making it at that point the largest course at Harvard.
+是当时哈佛人数最多的课程
+
+54
+00:03:34,160 --> 00:03:36,280
+And that's when the media became interested.
+这引起了媒体的关注
+
+55
+00:03:36,730 --> 00:03:39,180
+Because they wanted to understand why.
+因为他们想知道为什么
+
+56
+00:03:39,180 --> 00:03:42,350
+They wanted to understand this phenomenon that "here you have a class,
+他们对这一奇特现象非常好奇
+
+57
+00:03:42,350 --> 00:03:45,390
+that's larger than Introduction to Economics".
+"竟然有比经济学导论更热门的课程
+
+58
+00:03:46,460 --> 00:03:47,830
+How could that be?
+怎么可能呢?"
+
+59
+00:03:47,830 --> 00:03:50,770
+So I was invited by the media for interviews,
+于是我被请去参加各类媒体采访
+
+60
+00:03:50,770 --> 00:03:54,330
+whether it was newspapers, radio, television.
+报纸 广播 电视
+
+61
+00:03:56,000 --> 00:03:59,750
+And I started to notice a pattern during those interviews.
+从这些采访中 我发现了一种有趣的模式
+
+62
+00:04:00,080 --> 00:04:01,740
+So I would walk into the interview.
+我前去参加采访
+
+63
+00:04:01,740 --> 00:04:03,200
+We would have the interview.
+进行采访
+
+64
+00:04:03,200 --> 00:04:07,080
+And afterwards, the producer or the interviewer would walk me out
+结束后 制片人或主持人会送我出来
+
+65
+00:04:07,080 --> 00:04:11,620
+and say something to the effects of "well thank you Tal for the interview.
+说些诸如"Tal 多谢你抽空参加采访
+
+66
+00:04:12,080 --> 00:04:15,970
+But you know I expected you to be different".
+"不过你跟我想象的不太一样"的话
+
+67
+00:04:17,350 --> 00:04:20,120
+And I would ask, as nonchalant as I could of course.
+我漫不经心地问
+
+68
+00:04:20,500 --> 00:04:23,070
+I didn't really care but had to ask anyway,
+我无所谓 不过总得回应
+
+69
+00:04:23,610 --> 00:04:26,950
+"how different?" And they would say,
+"有何不同?" 他们会说
+
+70
+00:04:26,950 --> 00:04:30,900
+"Well you know, we expected you to be more outgoing."
+"这个嘛 我们以为你很外向"
+
+71
+00:04:32,040 --> 00:04:34,090
+Next interview, the end of the interview, same thing.
+下一次采访 结束时仍是如此
+
+72
+00:04:34,090 --> 00:04:35,350
+"Thank you for doing the interview.
+"多谢接受采访
+
+73
+00:04:35,350 --> 00:04:39,170
+But you know Tal, I expected you to be different."
+"不过Tal 你跟我想象得不太一样"
+
+74
+00:04:39,410 --> 00:04:41,280
+And once again, nonchalant of course.
+又一次 我漫不经心地问
+
+75
+00:04:41,280 --> 00:04:43,770
+would ask"how different?"
+"有何不同?"
+
+76
+00:04:45,380 --> 00:04:47,170
+And she would say,
+她说
+
+77
+00:04:47,630 --> 00:04:52,440
+"Well you know, we expected you to be less, less itrovert."
+"这个嘛 我们没想到你会这么内向"
+
+78
+00:04:54,580 --> 00:04:57,410
+Next interview, same thing.
+下一次采访 仍是如此
+
+79
+00:04:57,670 --> 00:04:58,900
+"How different?"
+"有何不同?"
+
+80
+00:04:58,920 --> 00:05:02,070
+"Well, you know, more extroverted. More outgoing."
+"这个嘛 更开朗 更外向"
+
+81
+00:05:02,850 --> 00:05:06,530
+Next interview. "Well, you know, less shy."
+下一次采访 "这个嘛 太害羞了"
+
+82
+00:05:07,010 --> 00:05:09,530
+Coz I get very nervous in interviews.
+因为采访中我容易紧张
+
+83
+00:05:10,550 --> 00:05:13,330
+Interview after interview, literally dozens.
+差不多有几十次采访
+
+84
+00:05:14,080 --> 00:05:16,020
+More outgoing, more cheerful.
+每次都是"好交际 更开朗"
+
+85
+00:05:16,020 --> 00:05:18,030
+Less introverted, more extroverted.
+"不含蓄 更外向"
+
+86
+00:05:19,010 --> 00:05:20,460
+And on and on.
+诸如此类
+
+87
+00:05:20,710 --> 00:05:22,530
+But here is the best one.
+最绝的一次
+
+88
+00:05:22,750 --> 00:05:28,060
+So this is one of the local channels here around Boston.
+是波士顿一家地方台
+
+89
+00:05:28,480 --> 00:05:29,390
+I was going to the interview.
+我去参加采访
+
+90
+00:05:29,390 --> 00:05:30,740
+We had a quite long interview,
+聊了很多
+
+91
+00:05:30,740 --> 00:05:32,870
+which I thought was actually pretty good.
+我觉得进行得不错
+
+92
+00:05:33,840 --> 00:05:35,080
+And at the end of the interview,
+采访结束
+
+93
+00:05:35,080 --> 00:05:37,200
+the interviewer is a very jolly guy.
+主持人是个热情开朗的男生
+
+94
+00:05:37,200 --> 00:05:39,370
+He walks me out and puts his hands on my shoulder,
+他送我出门 拍着我的肩说
+
+95
+00:05:39,380 --> 00:05:43,040
+and says, "thank you very much for doing the interview."
+"多谢接受我们采访"
+
+96
+00:05:44,020 --> 00:05:45,240
+And then the usual comes.
+然后又是那句
+
+97
+00:05:45,240 --> 00:05:48,550
+"But you know Tal, I expected you to be different."
+"不过 Tal 你跟我想象得不太一样"
+
+98
+00:05:49,950 --> 00:05:51,230
+And I said,
+我问
+
+99
+00:05:52,930 --> 00:05:54,750
+"How different?" Just so you understand,
+"有何不同" 你要知道
+
+100
+00:05:54,750 --> 00:05:57,350
+by this time, my self-esteem is short.
+那时候 我已经完全被打击了
+
+101
+00:05:57,350 --> 00:06:01,130
+But still with some resemblance of nonchalance I asked,
+不过我还是漫不经心地问
+
+102
+00:06:01,130 --> 00:06:02,320
+"how different?"
+"有何不同?"
+
+103
+00:06:03,520 --> 00:06:06,200
+And he looks at me and says,
+他看着我说
+
+104
+00:06:06,820 --> 00:06:10,630
+"Well I don't know Tal. I expected you to be taller."
+"我也说不上 Tal 我以为你会更高些"
+
+105
+00:06:13,420 --> 00:06:15,440
+Taller? What?
+更高些?什么?
+
+106
+00:06:15,440 --> 00:06:20,660
+Five seven, well ok five six and a half is not enough to teach happiness?
+1米70...是1米69不够格传授快乐吗
+
+107
+00:06:23,100 --> 00:06:25,040
+And I thought about it. I thought about it a lot.
+我考虑了很久 仔细思量了
+
+108
+00:06:25,040 --> 00:06:27,330
+The whole pattern from the beginning.
+整件事从头到尾
+
+109
+00:06:28,250 --> 00:06:31,280
+And I think I understand why they expected someone different.
+我似乎明白为什么他们期望不同了
+
+110
+00:06:31,280 --> 00:06:34,480
+You see they had to explain to themselves as well as the audience,
+因为他们要说服自己 说服观众
+
+111
+00:06:35,180 --> 00:06:38,420
+"how come this lecture is larger than the Introduction to Economics?"
+"这门课怎么会比经济学导论更热门?"
+
+112
+00:06:38,920 --> 00:06:42,960
+And the way to explain it must be that
+唯一的解释就是
+
+113
+00:06:43,640 --> 00:06:46,470
+the teacher is very outgoing,
+导师非常外向
+
+114
+00:06:46,470 --> 00:06:48,010
+extremely charismatic,
+充满领袖气质
+
+115
+00:06:48,010 --> 00:06:52,190
+very cheerful and extrovert and of course, tall.
+乐观开朗 当然了 还很高
+
+116
+00:06:54,500 --> 00:06:58,470
+Well, there is one L missing there.
+可惜我的名字少了一个L
+
+117
+00:06:58,470 --> 00:06:59,260
+But...
+但是
+
+118
+00:07:02,330 --> 00:07:03,250
+Yeah.
+是啊
+
+119
+00:07:04,680 --> 00:07:05,740
+If only.
+真可惜
+
+120
+00:07:05,740 --> 00:07:09,760
+So the problem though is
+所以问题是
+
+121
+00:07:10,120 --> 00:07:13,650
+that they were looking in the wrong place for the explanation.
+他们找答案找错了地方
+
+122
+00:07:13,650 --> 00:07:17,020
+In other words, they were looking at the messenger.
+也就是说 他们不该关注信息传达者
+
+123
+00:07:17,340 --> 00:07:20,940
+What they needed to look at was the message.
+而应该关注信息本身
+
+124
+00:07:21,280 --> 00:07:22,930
+Now how do I know that?
+我怎么知道的呢
+
+125
+00:07:22,930 --> 00:07:28,380
+You see because I see other positive psychology classes on other campuses
+因为我参与过其他大学积极心理学课
+
+126
+00:07:28,380 --> 00:07:29,860
+around the country and around the world.
+遍及全国 乃至全球
+
+127
+00:07:29,860 --> 00:07:34,280
+There are over 200 hundred campuses here in United States that teach positive psychology.
+美国有超过200所大学开设了本课程
+
+128
+00:07:34,280 --> 00:07:38,000
+On almost every campus where this class is taught,
+而且几乎其中所有院校 这门课
+
+129
+00:07:38,000 --> 00:07:41,430
+it's either one of the or the largest class.
+都是参与人数最多的或者最多的之一
+
+130
+00:07:42,180 --> 00:07:43,550
+It's about the message.
+信息是关键
+
+131
+00:07:43,560 --> 00:07:48,080
+I see more and more organizations taking up positive psychology in their,
+越来越多的机构组织开设这门课
+
+132
+00:07:49,210 --> 00:07:50,300
+as consultant companies,
+还有咨询公司
+
+133
+00:07:50,300 --> 00:07:53,750
+some of them the leading big consultant companies are taking it on.
+其中一些甚至是全球知名咨询公司
+
+134
+00:07:54,160 --> 00:07:57,440
+More and more high schools are introducing positive psychology class.
+越来越多的中学开始引入积极心理学
+
+135
+00:07:57,440 --> 00:07:59,750
+Elementary schools are introducing it.
+小学也是
+
+136
+00:07:59,750 --> 00:08:05,230
+The governments around the world are expressing interest in this new emerging field.
+各国政府都对这一新领域表现出兴趣
+
+137
+00:08:08,830 --> 00:08:11,660
+Why? Because it works.
+为什么?因为它有效
+
+138
+00:08:11,660 --> 00:08:12,740
+Because it really works.
+它的的确确有效
+
+139
+00:08:12,740 --> 00:08:15,530
+You see this whole realm on life flourishing,
+殷盛人生 快乐 幸福感这一整个领域
+
+140
+00:08:15,530 --> 00:08:21,220
+on happiness, on well-being has been until recently dominated by the self-health movement.
+在此之前一直被心理自助运动统治
+
+141
+00:08:21,220 --> 00:08:23,310
+What do we have in the self-health movement?
+心理自助运动带来了什么
+
+142
+00:08:23,310 --> 00:08:25,910
+We have books that are very interesting,
+生动有趣
+
+143
+00:08:26,150 --> 00:08:27,480
+that are very accessible.
+通俗易懂的书籍
+
+144
+00:08:28,250 --> 00:08:31,630
+We have speakers who are very outgoing,
+热情外向的宣讲者
+
+145
+00:08:31,630 --> 00:08:33,300
+very charismatic and tall,
+颇具领袖气质 且身材高大
+
+146
+00:08:33,300 --> 00:08:39,270
+attracting the masses into these workshops, seminars and lectures.
+吸引大众参与他们的专题讨论讲座
+
+147
+00:08:39,940 --> 00:08:42,720
+But, there is a very big "but" here.
+但是 有一个大大的转折
+
+148
+00:08:42,720 --> 00:08:48,990
+Many of these books, many of these workshops and seminars lack substance.
+其中许多书籍讨论都缺少实质内容
+
+149
+00:08:49,120 --> 00:08:52,160
+Very often, overpromising and under-delivering.
+通常都言过其实 无法兑现
+
+150
+00:08:52,160 --> 00:08:56,530
+So these are five things you need to know to be happy.
+比如 快乐的五个关键
+
+151
+00:08:56,860 --> 00:08:59,740
+The three things to be the great leader.
+成功领袖的三个要素
+
+152
+00:09:00,940 --> 00:09:06,920
+The one secret of success, happiness and a perfect love life.
+成功 快乐 完美爱情的唯一秘诀
+
+153
+00:09:07,510 --> 00:09:10,620
+Overpromising. Under-delivering.
+夸大其词 效果甚微
+
+154
+00:09:11,710 --> 00:09:13,310
+On the other hand, we have academia.
+再来说说学术界
+
+155
+00:09:13,310 --> 00:09:15,110
+What do we have in academia?
+学术界给我们带来了什么
+
+156
+00:09:15,110 --> 00:09:17,720
+We have a lot of rigor, a lot of substance.
+大量精确的实质内容
+
+157
+00:09:17,720 --> 00:09:21,670
+We have datas analyzed, reanalyzed and meta-analyzed.
+数据被一而再 再而三地反复分析
+
+158
+00:09:22,130 --> 00:09:25,770
+Things that actually work, good stuff.
+行之有效的好东西
+
+159
+00:09:26,240 --> 00:09:30,020
+But, and there is also a very big "but" here.
+但是 又有一个大大的转折
+
+160
+00:09:31,150 --> 00:09:36,770
+Very few people read refereed academic journals.
+很少有人会阅读专业学术期刊
+
+161
+00:09:36,770 --> 00:09:40,110
+I mean Think about it: how many people outside this room of course
+想想看 这间教室之外有多少人
+
+162
+00:09:40,470 --> 00:09:45,300
+have read the last twelve issues of the Journal of Personality and Social Psychology?
+读过最近12期《个性与社会心理学》杂志?
+
+163
+00:09:47,070 --> 00:09:49,280
+Most people don't even know what that means.
+大多数人甚至不知道那是什么东西
+
+164
+00:09:50,820 --> 00:09:55,980
+The head of my PHD programs actually estimated the average academic journal article
+我博士班的主任估算过
+
+165
+00:09:56,550 --> 00:09:58,320
+is read by seven people.
+学术期刊上的一篇论文平均只有7人阅读
+
+166
+00:10:01,440 --> 00:10:02,390
+You know...
+这话...
+
+167
+00:10:06,450 --> 00:10:08,290
+And that includes the author's mother.
+其中还包括作者的母亲
+
+168
+00:10:08,290 --> 00:10:13,270
+So you know I say half in jest but it's actually really sad.
+这话虽然是半开玩笑 但其实很可悲
+
+169
+00:10:13,270 --> 00:10:16,130
+Because...certainly sad for me, as an academic.
+因为...作为学者 我觉得很可悲
+
+170
+00:10:16,300 --> 00:10:17,630
+Because these things are good.
+因为这些论文都非常精彩
+
+171
+00:10:17,630 --> 00:10:18,530
+They are important.
+非常重要
+
+172
+00:10:18,530 --> 00:10:19,550
+These things make a difference,
+能大有作为
+
+173
+00:10:19,550 --> 00:10:22,080
+can even make more of a difference.
+甚至不仅仅是作为
+
+174
+00:10:22,910 --> 00:10:24,990
+But not accessible to most people.
+但是对大众来说晦涩难懂
+
+175
+00:10:24,990 --> 00:10:27,720
+And this is where positive psychology comes in.
+所以我们需要积极心理学
+
+176
+00:10:27,720 --> 00:10:31,420
+And this is also where this class comes in.
+需要这门课程
+
+177
+00:10:31,420 --> 00:10:35,750
+The explicit mandate of positive psychology as well as of this class
+积极心理学及本课程的宗旨非常明确
+
+178
+00:10:36,130 --> 00:10:40,440
+is to create a bridge between Ivory tower and mainstreet.
+就是要在象牙塔及大众间构建桥梁
+
+179
+00:10:41,240 --> 00:10:43,460
+In other words, it is to bring the rigor,
+换句话说 就是要把严谨
+
+180
+00:10:43,460 --> 00:10:46,080
+the substance, the empirical foundation,
+实质 经验基础
+
+181
+00:10:47,390 --> 00:10:50,280
+the science from academia
+学术科学
+
+182
+00:10:50,280 --> 00:10:57,300
+and merge it with accessibility of the self-help or New Age movement.
+与自助或新纪元运动的通俗易懂相结合
+
+183
+00:10:58,080 --> 00:10:59,850
+In a way the best of both worlds.
+充分发挥两者所长
+
+184
+00:10:59,850 --> 00:11:05,520
+And this explains the popularity of the field of positive psychology:
+这也是积极心理学大受欢迎的原因:
+
+185
+00:11:06,120 --> 00:11:08,310
+science that works.
+有用的科学
+
+186
+00:11:11,610 --> 00:11:14,290
+This class will be taught on two levels.
+本课程将分为两个部分
+
+187
+00:11:14,730 --> 00:11:18,300
+The first level it will be taught as any other class in psychology
+第一部分会和其他心理学
+
+188
+00:11:18,300 --> 00:11:20,980
+or any of the classes you've taken here.
+或者其他任何课程一样
+
+189
+00:11:21,720 --> 00:11:23,650
+You'll be introduced here to studies,
+我将向你们介绍相关知识
+
+190
+00:11:23,650 --> 00:11:28,230
+to research, to rigorous academic work.
+调查研究 严谨的学术作品
+
+191
+00:11:28,760 --> 00:11:32,220
+You'll be writing paper, academic paper.
+需要你们撰写报告 学术论文
+
+192
+00:11:32,910 --> 00:11:34,180
+You'll be taking exams.
+参加考试
+
+193
+00:11:34,180 --> 00:11:35,920
+Just like every other class.
+跟其他课程一样
+
+194
+00:11:37,540 --> 00:11:40,480
+But then it will also be taught at the second level,
+而教学内容的另一部分
+
+195
+00:11:40,910 --> 00:11:43,730
+which is for every paper that you'll read,
+你们读每一篇论文
+
+196
+00:11:43,730 --> 00:11:46,660
+every paper that you'll write,
+写每一篇论文时
+
+197
+00:11:46,660 --> 00:11:47,560
+you'll always be thinking,
+都需要思考
+
+198
+00:11:47,560 --> 00:11:52,130
+"Ok, how can I take these ideas and apply them to my life?
+如何把这些理念运用到生活中去
+
+199
+00:11:52,130 --> 00:11:53,830
+How can I apply them to my relationship?
+运用到恋爱中去
+
+200
+00:11:53,830 --> 00:11:56,260
+How can I apply them to my community?"
+运用到社交圈里去
+
+201
+00:11:57,500 --> 00:11:58,670
+Two levels.
+就是这两个部分
+
+202
+00:11:58,670 --> 00:12:01,150
+The academic. Applied.
+学术与应用
+
+203
+00:12:02,580 --> 00:12:08,450
+I did not just introduce whether it's in the readings or in the lectures ideas
+无论是论文还是讲座 我不会因为
+
+204
+00:12:08,450 --> 00:12:11,580
+just because they are interesting for the sake of the idea.
+某个理论有趣而去介绍它
+
+205
+00:12:11,970 --> 00:12:16,300
+It is always an idea that is both rigorous and can be applied.
+而是因为这个理论严谨且能被应用
+
+206
+00:12:25,160 --> 00:12:27,790
+Just a few words about housekeeping.
+再唠叨几句题外话
+
+207
+00:12:27,790 --> 00:12:31,990
+Some of the questions that I have already received from you before the class started.
+有几个问题课前就有人问我了
+
+208
+00:12:32,350 --> 00:12:34,090
+So this, unfortunately,
+不幸的是这学期将是我最后一次
+
+209
+00:12:34,090 --> 00:12:40,370
+is the last time that I am teaching positive psychology or any other class for that matter at Harvard.
+在哈佛开设积极心理学或其他课程
+
+210
+00:12:40,560 --> 00:12:44,450
+Hopefully within two years, probably not next year,
+但愿两年内 明年可能性不大
+
+211
+00:12:44,450 --> 00:12:45,530
+but within two years,
+但是两年内
+
+212
+00:12:45,530 --> 00:12:48,050
+there will be positive psychology class offered,
+学校会再次开设积极心理学课程
+
+213
+00:12:48,050 --> 00:12:51,100
+but I certainly cannot guarantee it.
+但我无法保证
+
+214
+00:12:56,030 --> 00:12:58,420
+About feedback and questions.
+关于反馈与提问
+
+215
+00:12:59,510 --> 00:13:01,750
+If you have any questions, anything that's not clear,
+如果你有任何问题或不明白的地方
+
+216
+00:13:01,760 --> 00:13:03,910
+if you agree or disagree with something,
+如果你同意或反对什么观点
+
+217
+00:13:03,920 --> 00:13:06,750
+email me or email your TF (Teaching Fellow at Harvard, just like TA at other schools)
+请给我或助教写邮件
+
+218
+00:13:06,750 --> 00:13:08,170
+and we'll always respond.
+我们一定会回复的
+
+219
+00:13:08,180 --> 00:13:10,500
+Sometimes if the question is asked by enough people,
+如果某个问题问的人数较多
+
+220
+00:13:10,500 --> 00:13:12,130
+we'll respond to it publicly.
+我们会公开回答
+
+221
+00:13:12,130 --> 00:13:13,880
+Always anonymously.
+当然一定是匿名的
+
+222
+00:13:13,880 --> 00:13:19,030
+Unless you specified specifically that your name can be mentioned.
+除非你特别注明可以提及你的名字
+
+223
+00:13:22,090 --> 00:13:29,120
+Sometimes you may be listening to a lecture and then half way through it there is an emergency.
+有时候讲座过程中 突然有紧急情况
+
+224
+00:13:30,050 --> 00:13:33,400
+There is something that you really have to ask,
+有什么非问不可的问题
+
+225
+00:13:33,410 --> 00:13:35,220
+something that cannot wait.
+无法等待
+
+226
+00:13:36,360 --> 00:13:39,800
+In that case, please just put your hand up.
+如果那样的话 请直接举手
+
+227
+00:13:39,800 --> 00:13:43,120
+Coz it's just like when you have to go to the bathroom.
+因为就跟你要去厕所一样
+
+228
+00:13:43,740 --> 00:13:45,350
+Just can't stop.
+无法忍耐
+
+229
+00:13:45,350 --> 00:13:46,500
+Can't wait.
+无法等待
+
+230
+00:13:46,960 --> 00:13:48,770
+And when you gotta go,
+要去
+
+231
+00:13:49,110 --> 00:13:50,250
+you gotta go.
+就去
+
+232
+00:13:53,540 --> 00:13:57,410
+So we'll take a positive psychology break for that.
+我们会为此进行积极心理休息
+
+233
+00:13:58,070 --> 00:14:03,090
+And just stop me half way through and I'll answer any question.
+所以大可以打断我 我会回答任何问题
+
+234
+00:14:07,150 --> 00:14:11,780
+All the power points, as well as the videos of the classes will be online.
+所有幻灯片以及课程视频都会放在网上
+
+235
+00:14:12,090 --> 00:14:15,270
+Will be available within couple of days.
+课后几天就能下载
+
+236
+00:14:15,310 --> 00:14:17,440
+Well the power points will be available before,
+幻灯片其实课前就能下载
+
+237
+00:14:17,460 --> 00:14:21,920
+say for this lecture it will be before so that you can use them in class.
+这样你上课时就能用到
+
+238
+00:14:22,430 --> 00:14:26,320
+The videos, unfortunately, cannot be made available before. We tried.
+可惜视频不能提前提供 我们试了
+
+239
+00:14:26,840 --> 00:14:28,320
+Couldn't figure it out.
+但效果不好
+
+240
+00:14:28,320 --> 00:14:32,090
+So it will be available within a day or two after.
+所以会在课后一两天内放到网上
+
+241
+00:14:32,730 --> 00:14:36,280
+And the reason why they are up there.
+这样做的原因
+
+242
+00:14:36,290 --> 00:14:39,500
+First of all, I do prefer that you attend lecture.
+首先 我当然更希望你们出席课程
+
+243
+00:14:39,940 --> 00:14:42,650
+I do prefer that you are physically here.
+能出现在课堂里
+
+244
+00:14:44,260 --> 00:14:48,350
+You get things in the energy of the room with so many students
+和大家一起 在课堂的气氛中学习
+
+245
+00:14:48,350 --> 00:14:50,290
+so you wouldn't just get from your computer.
+而不是仅仅对着电脑
+
+246
+00:14:50,290 --> 00:14:53,570
+The reason why I do put them up is so that you have the opportunity
+我之所以把资料放在网上是为了
+
+247
+00:14:53,570 --> 00:14:56,470
+if you want to see it again or if you have to miss a class.
+让你们可以重温或者学习错过的课程
+
+248
+00:14:56,470 --> 00:14:58,610
+That's perfectly fine.
+这很正常
+
+249
+00:14:58,830 --> 00:15:02,040
+And also because,
+另一个原因
+
+250
+00:15:02,040 --> 00:15:04,800
+and this is also the reason why the power points are always available,
+之所以提前提供幻灯片
+
+251
+00:15:04,800 --> 00:15:08,530
+I want you to be engaged in the material.
+我希望你们能充分理解材料
+
+252
+00:15:08,960 --> 00:15:13,550
+I want you to be engaged in whatever it is that we are discussing in class.
+充分参与课堂讨论
+
+253
+00:15:13,550 --> 00:15:18,350
+Not necessarily thinking about getting down every word that I say on paper,
+而不是忙于记录我说的每一个字
+
+254
+00:15:18,350 --> 00:15:21,010
+remembering everything, memorizing everything.
+记住每一个词 背诵每一句话
+
+255
+00:15:21,020 --> 00:15:24,180
+I want you to take rather than passive notes of writing down
+我不希望你们被动地记录
+
+256
+00:15:24,180 --> 00:15:27,790
+what is on the power point or every word that I say.
+幻灯片上的内容或者我说的话
+
+257
+00:15:27,800 --> 00:15:30,340
+I'd like you to take active notes.
+而是要主动记录
+
+258
+00:15:30,340 --> 00:15:32,890
+And that means being engaged with the material.
+也就是要充分理解材料
+
+259
+00:15:32,890 --> 00:15:35,620
+For example, if you heard something and idea and you say,
+比如 如果你们听到某个理论 觉得
+
+260
+00:15:35,620 --> 00:15:38,150
+"Oh, that's interesting."
+"挺有趣的"
+
+261
+00:15:38,780 --> 00:15:40,680
+Star it. Write it down.
+标上星号 写下来
+
+262
+00:15:40,680 --> 00:15:43,320
+Or "Ok I think I'll start applying this."
+或者觉得"也许我可以应用这点"
+
+263
+00:15:43,660 --> 00:15:44,810
+Write it down.
+那就写下来
+
+264
+00:15:45,400 --> 00:15:48,590
+"Or I want to tell my mom about this later."
+或者"跟我妈妈讲讲"
+
+265
+00:15:48,590 --> 00:15:52,050
+Or "I want to talk to my roommates or my team about this idea."
+或者"跟我室友队友讲讲"
+
+266
+00:15:52,450 --> 00:15:53,780
+Write it down.
+那就写下来
+
+267
+00:15:53,790 --> 00:15:56,530
+Active note-taking is opposed to passive note-taking for two reasons.
+主动笔记与被动笔记有两方面不同
+
+268
+00:15:56,530 --> 00:15:57,300
+First of all, as I said,
+首先 正如我刚才说的
+
+269
+00:15:57,300 --> 00:16:02,030
+this class is a class about making a difference in people's lives.
+这门课是关于如何改变生活
+
+270
+00:16:02,030 --> 00:16:05,530
+I would not be teaching the class just for its academic beauty,
+我不会仅为了学术之美而教授此课
+
+271
+00:16:05,530 --> 00:16:08,520
+although there is a lot of academic beauty in this field.
+虽然这一领域的确有许多学术之美
+
+272
+00:16:09,710 --> 00:16:12,440
+So write down if you have an idea that you think you can apply.
+所以发现可以实际运用的 就写下来
+
+273
+00:16:12,970 --> 00:16:18,310
+The second reason why we should that is because you'll remember more.
+第二个原因是 你会记住更多
+
+274
+00:16:18,310 --> 00:16:21,880
+Better attention, better understanding of the material if you are actively engaged,
+主动参与 集中注意 更好地理解材料
+
+275
+00:16:21,880 --> 00:16:25,360
+as opposed to just taking down passive notes.
+而不是被动做笔记
+
+276
+00:16:32,010 --> 00:16:33,340
+Throughout the class,
+在这整个课程中
+
+277
+00:16:34,270 --> 00:16:35,970
+starting next week,
+从下周开始
+
+278
+00:16:35,970 --> 00:16:37,650
+we'll take what I called,
+我们将进行我所说的
+
+279
+00:16:37,650 --> 00:16:40,960
+"time-ins" as opposed to "time-outs".
+"练习时间" 而不是"休息时间"
+
+280
+00:16:40,960 --> 00:16:42,370
+it's like a time-out.
+其实类似"休息时间"
+
+281
+00:16:42,510 --> 00:16:47,100
+It's the time where we stop the class and you look inward.
+这段时间会我们停止课程 进行内省
+
+282
+00:16:47,220 --> 00:16:50,650
+And this is literally a time of silence in a class.
+也就是课堂上的安静时刻
+
+283
+00:16:50,650 --> 00:16:52,350
+I will stop for a minute or two.
+我会停一两分钟
+
+284
+00:16:52,350 --> 00:16:58,120
+And you'll have a chance either to just stare at me or anyone else,
+你们可以盯着我或者周围人发呆
+
+285
+00:16:58,120 --> 00:17:01,170
+or think about what we've just discussed,
+或者思考一下之前讨论的内容
+
+286
+00:17:01,170 --> 00:17:07,340
+or have a guiding question that I will provide you that you'll address during the class.
+或者解答我提出的提示问题
+
+287
+00:17:07,340 --> 00:17:08,580
+The reason why I have "Time-ins"...
+之所以进行"练习时间"
+
+288
+00:17:08,580 --> 00:17:11,530
+This is something that I am introducing this year for the first time.
+这是今年新提出的
+
+289
+00:17:11,530 --> 00:17:13,300
+We didn't have it last time.
+上学期并没有
+
+290
+00:17:13,300 --> 00:17:16,360
+It's because over the last two years since I last taught it,
+因为上次课程结束后到现在的两年
+
+291
+00:17:16,360 --> 00:17:19,630
+I've done a lot work in the area of silence.
+我做了大量关于安静的研究
+
+292
+00:17:20,830 --> 00:17:27,390
+I've read a lot of research in this area about the importance of quiet times whether it's in a class,
+关于安静时刻的重要性 无论是课堂里
+
+293
+00:17:27,390 --> 00:17:29,540
+in a lecture, whether it is at home,
+讲座里 还是家中
+
+294
+00:17:29,540 --> 00:17:31,750
+whether it is for a leader in the business,
+无论是对公司领导
+
+295
+00:17:32,100 --> 00:17:36,520
+for relationship, for children starting from pre-schools.
+爱情关系 甚至学龄前儿童
+
+296
+00:17:37,510 --> 00:17:38,450
+Now many of you,
+你们中很多人
+
+297
+00:17:38,450 --> 00:17:44,750
+as you are going through these "time-ins" if you decide to take this class may think,
+在经历"练习时间"时可能会疑惑
+
+298
+00:17:44,750 --> 00:17:48,430
+"Well, is this what I'm paying 40,000 dollars a year for?
+"我一年付四万美金就是为了这个?"
+
+299
+00:17:48,430 --> 00:17:50,310
+To sit a class and be quiet?"
+"坐在教室里发呆?"
+
+300
+00:17:50,310 --> 00:17:52,720
+First of all, it will only be a minute or two at a time,
+首先 每次只有一两分钟
+
+301
+00:17:52,720 --> 00:17:54,970
+maybe once or twice a lecture.
+一堂课最多不超过两次
+
+302
+00:17:54,970 --> 00:17:56,110
+But second,
+第二 这可能是
+
+303
+00:17:56,260 --> 00:17:59,360
+it is maybe the most important thing you'll take from this class.
+你从本课程中学到的最重要的东西
+
+304
+00:17:59,820 --> 00:18:02,810
+The notion of embracing stillness.
+即享受安静这一理念
+
+305
+00:18:03,200 --> 00:18:10,990
+Let me read to you an excerpt from a study that was run by two MIT professors.
+我来读一段麻省理工两位教授的研究
+
+306
+00:18:10,990 --> 00:18:13,960
+By the way, all the names that I read and that are not on the power points,
+我所提到名字不会出现在幻灯片上
+
+307
+00:18:13,960 --> 00:18:15,750
+you don't need to remember or write down.
+不必背诵或记录
+
+308
+00:18:15,750 --> 00:18:17,790
+This is just for your edification.
+只是为了启发你们
+
+309
+00:18:19,960 --> 00:18:22,210
+So David Foster and Matthew Wilson.
+David Foster和Matthew Wilson教授
+
+310
+00:18:23,060 --> 00:18:25,440
+Both of them are from MIT.
+都来自麻省理工大学
+
+311
+00:18:25,440 --> 00:18:31,210
+Indeed the following study that I think confirms the importance of "time-in",
+他们研究证实了"练习时间"的重要性
+
+312
+00:18:31,210 --> 00:18:32,770
+time to look inside.
+开始内省的时间
+
+313
+00:18:32,770 --> 00:18:36,700
+What they did is they scanned the brains of rats
+他们在老鼠处在迷宫中及脱离迷宫后
+
+314
+00:18:37,830 --> 00:18:43,510
+while they were in a maze and after they went through the maze.
+分别对它们进行了脑扫描
+
+315
+00:18:43,510 --> 00:18:44,970
+And here's what they found.
+以下是他们的发现
+
+316
+00:18:47,030 --> 00:18:52,520
+"What the results suggest is that while there certainly is some record of your experience
+实验结果表明 当某种经历正在进行时
+
+317
+00:18:52,520 --> 00:18:57,390
+as it is occurring. in other words when they were doing the maze,
+即老鼠进行迷宫时
+
+318
+00:18:57,390 --> 00:18:58,880
+the actual learning –
+真正的学习阶段
+
+319
+00:18:58,880 --> 00:19:00,140
+when you try to figure out:
+是当你尝试分辨
+
+320
+00:19:00,140 --> 00:19:03,550
+'What was important? What should I keep and throw away?'
+什么才是重要的 什么舍弃什么保留
+
+321
+00:19:04,040 --> 00:19:06,960
+– that happens after the fact,
+这些发生在经历之后
+
+322
+00:19:06,960 --> 00:19:10,820
+during periods of quiet wakeful introspection.
+进行安静的自省时
+
+323
+00:19:10,820 --> 00:19:13,380
+What they show was rats who went through the maze
+他们的实验表明
+
+324
+00:19:13,380 --> 00:19:15,400
+and went through the maze again and again,
+接连不断反复进入迷宫的老鼠
+
+325
+00:19:15,400 --> 00:19:21,090
+learned far less than rats who took time aside,
+比进行一次迷宫后
+
+326
+00:19:21,090 --> 00:19:23,140
+chilled out a little bit after a maze,
+稍事放松 来点小酒的老鼠
+
+327
+00:19:23,140 --> 00:19:24,280
+had more margarita.
+学到的少得多
+
+328
+00:19:26,290 --> 00:19:29,030
+Experience, embrace stillness.
+经历 享受安静
+
+329
+00:19:29,280 --> 00:19:33,930
+This has implications and they showed implications to human beings as well.
+这很能说明问题 对人类也一样
+
+330
+00:19:33,930 --> 00:19:35,790
+Not only those of the rat race,
+不仅仅是实验小白鼠
+
+331
+00:19:36,120 --> 00:19:37,380
+all human beings.
+所有人类都是
+
+332
+00:19:37,380 --> 00:19:44,240
+So what they say is that "replay might constitute a general mechanism of learning and memory".
+他们认为"重现可能形成一种学习记忆机制"
+
+333
+00:19:44,240 --> 00:19:46,080
+Both learning, understanding,
+包括学习 理解
+
+334
+00:19:46,120 --> 00:19:48,160
+as well as memory, retention.
+记忆 保留
+
+335
+00:19:48,450 --> 00:19:52,120
+When we reflect, when we replay the material,
+当我们思考时 我们重放素材时
+
+336
+00:19:52,330 --> 00:19:54,830
+we are much more likely to retain,
+更容易保留
+
+337
+00:19:55,180 --> 00:19:59,190
+to remember what we have just been through.
+记住之前的经历
+
+338
+00:20:00,090 --> 00:20:05,320
+So the importance of time aside cannot be over-emphasized.
+所以休息时间的重要性不能被忽视
+
+339
+00:20:06,380 --> 00:20:08,250
+In his wonderful book of teaching,
+Parker Palmer在他的教学著作
+
+340
+00:20:10,350 --> 00:20:13,690
+Parker Palmer-- it's called The Courage to Teach,
+《教学的勇气》一书中
+
+341
+00:20:14,570 --> 00:20:16,440
+says the following--
+提到了以下一段话
+
+342
+00:20:16,850 --> 00:20:20,850
+Words are not the sole medium of exchange in teaching and learning.
+语言不是教学的唯一媒介
+
+343
+00:20:20,850 --> 00:20:23,300
+We educate with silence as well.
+安静同样可以进行教育
+
+344
+00:20:23,300 --> 00:20:26,650
+Silence gives us a chance to reflect on what we have said and heard.
+安静让我们有机会反省我们所说所闻
+
+345
+00:20:26,940 --> 00:20:28,750
+In authentic education,
+在真正的教育中
+
+346
+00:20:28,750 --> 00:20:34,580
+silence is treated as a trustworthy matrix for the inner work students must do,
+安静为学生进行内省提供可靠环境
+
+347
+00:20:34,580 --> 00:20:37,960
+a medium for learning of the deepest sort."
+是一种最深层次的学习媒介
+
+348
+00:20:38,990 --> 00:20:41,490
+Silence is something that is missing from our culture.
+而安静恰恰是我们文化所缺失的
+
+349
+00:20:41,920 --> 00:20:46,670
+I know that many of you have probably read Zen and the Art of Motorcycle Maintenance,
+很多人可能读过《万里任禅游》
+
+350
+00:20:46,670 --> 00:20:48,390
+Robert M. Pirsig.
+作者Robert M Pirsig
+
+351
+00:20:48,680 --> 00:20:49,960
+He had a second book out,
+还写过另一本书
+
+352
+00:20:49,960 --> 00:20:52,090
+less well-known, called Lila (Lila: an Inquiry into Morals).
+没那么知名 叫《寻找莱拉》
+
+353
+00:20:52,090 --> 00:20:57,330
+And Lila is an anthropological study of Native Americans.
+这本书是对印第安人的人类学研究
+
+354
+00:20:57,430 --> 00:21:04,850
+What he does there is compare their culture to Americans' from European ancestry.
+将他们的文化与美国传承的欧洲文化进行对比
+
+355
+00:21:05,720 --> 00:21:10,000
+And one of the distinguishing characteristics between these two cultures
+两种文化最突出的特点之一是
+
+356
+00:21:11,370 --> 00:21:15,640
+is their approach were silence.
+印第安人崇尚安静
+
+357
+00:21:15,640 --> 00:21:21,350
+What he found was when he went and sat around with Native Americans.
+他发现和印第安人坐在一起
+
+358
+00:21:21,350 --> 00:21:24,230
+They would sit around the fire and hang out for two,
+他们围坐在篝火边两三个小时
+
+359
+00:21:24,230 --> 00:21:26,540
+three hours without saying a word.
+一句话也没说
+
+360
+00:21:27,630 --> 00:21:28,540
+Just sit around.
+只是坐在那儿
+
+361
+00:21:28,540 --> 00:21:29,740
+Look at one another.
+看着对方
+
+362
+00:21:31,060 --> 00:21:33,460
+Smile. Have a good time.
+微笑 享受美好时光
+
+363
+00:21:33,460 --> 00:21:34,760
+Introspect.
+内省
+
+364
+00:21:34,760 --> 00:21:36,160
+Just be there for hours.
+就这样几个小时
+
+365
+00:21:36,160 --> 00:21:41,950
+While he points out that in our culture we feel very uncomfortable with the absence of words,
+他指出 在我们文化中沉默
+
+366
+00:21:41,950 --> 00:21:44,120
+with the absence of sound or noise.
+让人不适
+
+367
+00:21:44,290 --> 00:21:46,400
+We have to fill up all the gaps.
+我们试图打破沉默
+
+368
+00:21:47,460 --> 00:21:48,990
+This is an important cultural difference.
+这是一项重要的文化差异
+
+369
+00:21:48,990 --> 00:21:52,110
+And we pay a price for this lack of stillness.
+我们为缺乏安静付出了代价
+
+370
+00:21:53,030 --> 00:21:55,200
+A price that we'll talk about a lot,
+我们会重点讨论这一代价
+
+371
+00:21:55,480 --> 00:21:57,430
+when I talk about relationships,
+涉及到恋爱
+
+372
+00:22:04,290 --> 00:22:07,760
+when I talk about virtue and morality
+美德与道德
+
+373
+00:22:08,100 --> 00:22:10,960
+and when we talk about happiness and wellbeing in general.
+以及快乐与幸福感
+
+374
+00:22:18,100 --> 00:22:21,200
+Let me give a little bit background on positive psychology:
+下面介绍一下积极心理学的背景
+
+375
+00:22:21,200 --> 00:22:24,120
+how we came about and how this class came about.
+它是如何诞生的 这门课是如何诞生的
+
+376
+00:22:24,680 --> 00:22:28,120
+In many ways, positive psychology is the brainchild,
+从很多方面来说 积极心理学是
+
+377
+00:22:28,250 --> 00:22:32,200
+the product and the grandchild of humanistic psychology.
+人本主义心理学的产物和衍生
+
+378
+00:22:32,200 --> 00:22:38,660
+What we have in humanistic psychology is essentially a reaction
+人本主义心理学本质上是
+
+379
+00:22:39,080 --> 00:22:42,070
+to the existing psychologies of the time.
+对当时各种心理学派系的不同意见
+
+380
+00:22:43,330 --> 00:22:46,520
+The founders, considered the founders of humanistic psychology
+人本主义心理学的创始人
+
+381
+00:22:46,520 --> 00:22:49,390
+in fact called it "the third force".
+称之为心理学上的"第三势力"
+
+382
+00:22:49,390 --> 00:22:50,380
+Why the "third force"?
+为什么是"第三势力"
+
+383
+00:22:50,380 --> 00:22:53,390
+Because the first force was behaviorism.
+因为第一势力是行为主义
+
+384
+00:22:53,390 --> 00:22:54,650
+The work of Skinner (B. F. Skinner),
+代表人物有斯金纳
+
+385
+00:22:54,650 --> 00:22:56,350
+the work of Watson (John B. Watson),
+华生
+
+386
+00:22:56,350 --> 00:22:58,120
+the work of Thorndik (Edward Thorndik).
+桑代克
+
+387
+00:22:58,950 --> 00:23:00,310
+This was the first force.
+这是第一势力
+
+388
+00:23:00,310 --> 00:23:04,990
+The second force was psychoanalysis.
+第二势力是精神分析学
+
+389
+00:23:05,660 --> 00:23:10,040
+The work of Freud (Sigmund Freud), Jung (Carl Jung), Adler (Alfred Adler) to some extent.
+创建者包括弗洛伊德 荣格以及阿德勒
+
+390
+00:23:10,040 --> 00:23:12,340
+This was the second force.
+这是第二势力
+
+391
+00:23:12,700 --> 00:23:13,530
+And the third force,
+第三势力
+
+392
+00:23:13,530 --> 00:23:16,720
+humanistic psychology came as a reaction to it.
+人本主义心理学作为对其的异议出现
+
+393
+00:23:17,290 --> 00:23:19,600
+First it is a reaction to behaviorism.
+首先是对行为主义的异议
+
+394
+00:23:19,720 --> 00:23:23,310
+Behaviorism looks at the human entity,
+行为主义认为人的主体性
+
+395
+00:23:23,310 --> 00:23:28,450
+at the person as basically a collection of behaviors as a box,
+认为人是一个行为集合
+
+396
+00:23:28,450 --> 00:23:33,770
+like a billiard ball knocked around by reinforcements,
+就像一只被击打而四处滚动的台球
+
+397
+00:23:34,340 --> 00:23:36,400
+by punishment, by reward.
+被增强 奖惩驱动
+
+398
+00:23:39,230 --> 00:23:41,480
+And what humanistic psychology said was that
+而人本主义心理学认为
+
+399
+00:23:41,480 --> 00:23:45,460
+we are much more than a billiard ball being knocked around.
+我们不只是被击打的台球
+
+400
+00:23:47,420 --> 00:23:49,410
+We have spirit. We have a soul.
+我们有精神 有灵魂
+
+401
+00:23:49,930 --> 00:23:52,800
+We have cognitions and thoughts that matter.
+我们有重要的认知与思想
+
+402
+00:23:52,800 --> 00:23:59,430
+It's not just behavior that is important for understanding as well as improving life.
+不能只靠行为观察 改善人生
+
+403
+00:24:01,610 --> 00:24:05,210
+And then psychoanalysis, the second force.
+然后是第二势力精神分析学
+
+404
+00:24:05,210 --> 00:24:12,060
+The psychoanalysis is about basically understanding mostly through the subconscious:
+精神分析学主要通过潜意识分析
+
+405
+00:24:12,060 --> 00:24:13,110
+that's how you understand it;
+它决定你的理解
+
+406
+00:24:13,110 --> 00:24:16,050
+that's how you improve the quality of life.
+决定如何改善生活
+
+407
+00:24:16,820 --> 00:24:18,380
+There are defense mechanisms,
+还有防卫机制
+
+408
+00:24:18,380 --> 00:24:21,480
+there are biological instincts, neurosis--
+人类本能论 神经症
+
+409
+00:24:21,480 --> 00:24:24,660
+and if you understand these very often dark forces,
+如果你理解这些黑暗势力
+
+410
+00:24:24,660 --> 00:24:27,940
+were better able to deal with life:
+就能更好地处理生活
+
+411
+00:24:27,940 --> 00:24:31,140
+understand as well as improve the quality of life.
+了解并改善生活质量
+
+412
+00:24:33,800 --> 00:24:37,200
+Humanistic psychology says human beings are much more than that.
+人本主义心理学认为人类不止如此
+
+413
+00:24:37,200 --> 00:24:39,220
+Much more than biological instincts,
+不仅仅是生理本能
+
+414
+00:24:39,220 --> 00:24:41,280
+much more than neurosis,
+不仅仅是神经症
+
+415
+00:24:41,280 --> 00:24:48,270
+much more than the person who exists in a Newtonian reality like a billiard ball.
+不仅仅是牛顿学说世界里的台球
+
+416
+00:24:49,350 --> 00:24:52,840
+We need to value much more the human being.
+我们要重视人的本质
+
+417
+00:24:52,840 --> 00:25:00,320
+We need to give much more dignity and freedom to the person.
+给予人更多的自尊和自由
+
+418
+00:25:01,820 --> 00:25:03,250
+There was a problem.
+但有一个问题
+
+419
+00:25:03,250 --> 00:25:08,250
+The problem was humanistic psychology is said lacked the rigorous methodology.
+人本主义心理学缺少严谨的方法论
+
+420
+00:25:09,450 --> 00:25:11,980
+While it brought in many wonderful ideas,
+但它引入了许多精彩的理念
+
+421
+00:25:11,980 --> 00:25:13,790
+talked about the study of well-being,
+对于幸福感的研究
+
+422
+00:25:13,790 --> 00:25:15,220
+talked about the study of optimism,
+乐观主义的研究
+
+423
+00:25:15,220 --> 00:25:17,630
+of kindness, of morality, of virtue,
+善良 道德 美德
+
+424
+00:25:17,630 --> 00:25:20,630
+of love, of relationships, of peak experiences,
+爱 两性关系 巅峰体验
+
+425
+00:25:20,630 --> 00:25:24,600
+of self-actualization, of empathy.
+自我实现 移情
+
+426
+00:25:24,600 --> 00:25:28,480
+All these wonderful concepts that we'll talk about throughout the semester.
+这些精彩的概念都会在本学期探讨
+
+427
+00:25:28,740 --> 00:25:33,140
+It wasn't as rigorous about its epistemology,
+它的认识论并不严谨
+
+428
+00:25:33,140 --> 00:25:35,590
+about how we form ideas and how we learn.
+如何形成理念 如何学习
+
+429
+00:25:35,980 --> 00:25:38,500
+And that's why, in many ways, largely,
+所以在很多方面 大部分
+
+430
+00:25:38,500 --> 00:25:42,130
+not completely but largely more of into the self-health movement.
+不完全但大部分成为了自助运动
+
+431
+00:25:42,830 --> 00:25:45,310
+Interesting ideas, good ideas, important ideas,
+有趣 有益 重要的理念
+
+432
+00:25:45,310 --> 00:25:47,060
+certainly good intentions,
+意图当然是好的
+
+433
+00:25:47,350 --> 00:25:49,130
+but to some extent,
+但就某种程度上
+
+434
+00:25:49,130 --> 00:25:50,890
+without the academic rigor.
+缺乏学术严谨性
+
+435
+00:25:50,890 --> 00:25:53,180
+And that's why it lacked the impact on academia.
+所以它在学术上影响很小
+
+436
+00:25:53,180 --> 00:25:57,870
+That's why we don't have partly any humanistic psychology classes offered in universities today.
+所以很少有大学开设人本主义心理学
+
+437
+00:25:57,870 --> 00:25:59,840
+There are very few still around.
+几乎没有
+
+438
+00:26:00,210 --> 00:26:04,910
+And this is why also a lot of it became the New Age essentially.
+所以本质上成为了新纪元运动
+
+439
+00:26:06,150 --> 00:26:07,110
+But still,
+但是
+
+440
+00:26:07,110 --> 00:26:12,030
+it's humanistic psychology that has in many ways fathered and mothered,
+我们很快会了解到 人本主义心理学
+
+441
+00:26:12,030 --> 00:26:14,490
+as we'll see, positive psychology.
+孕育了积极心理学
+
+442
+00:26:14,490 --> 00:26:17,290
+So let's meet the grandparents.
+然我们先见见祖父祖母
+
+443
+00:26:17,290 --> 00:26:21,020
+People like Rollo May. People like Carl Rogers.
+比如Rollo May和Carl Rogers
+
+444
+00:26:21,020 --> 00:26:24,450
+And more than anyone, Abraham Maslow.
+还有最著名的Abraham Maslow
+
+445
+00:26:24,450 --> 00:26:26,820
+Was the American Psychological Association President.
+曾是美国心理学会主席
+
+446
+00:26:26,820 --> 00:26:30,110
+Was the professor just down the road here at Brandeis (Brandeis University).
+布兰迪斯大学教授
+
+447
+00:26:32,420 --> 00:26:36,470
+And he introduced this humanistic psychology in 1954.
+他于1954年提出了人本主义心理学
+
+448
+00:26:36,470 --> 00:26:40,870
+He wrote a chapter, called "Toward the Positive Psychology".
+他写了一章《为了积极心理学》
+
+449
+00:26:41,420 --> 00:26:46,040
+1954. In it he said we need to also research kindness,
+1954年 他在其中写到 我们需要研究
+
+450
+00:26:46,040 --> 00:26:49,520
+goodness and happiness and optimism.
+善良 美德 快乐与乐观
+
+451
+00:26:50,460 --> 00:26:54,170
+In many ways it was way ahead of his time.
+可以说这是超前于他时代的
+
+452
+00:26:55,500 --> 00:26:58,690
+Then if Maslow is the grandfather,
+如果说Maslow是祖父
+
+453
+00:26:58,690 --> 00:27:01,310
+then Karen Horney is the grandmother.
+那Karen Horney就是祖母了
+
+454
+00:27:02,100 --> 00:27:04,030
+Initially a psychoanalyst,
+她最初是精神分析学者
+
+455
+00:27:04,030 --> 00:27:06,880
+trained through the works of Freud,
+学习弗洛伊德的理论
+
+456
+00:27:06,880 --> 00:27:09,350
+she realized the focuses had been too much on the negative--
+意识到其过于注重消极面
+
+457
+00:27:09,350 --> 00:27:12,190
+on neurosis, on psychosis and said we also,
+神经症 精神病 她认为
+
+458
+00:27:12,190 --> 00:27:17,310
+not only but also have to focus on what is working on human organism.
+还必须关注影响人类生命体的东西
+
+459
+00:27:17,770 --> 00:27:22,140
+We have to work and look at the fine qualities and cultivate those.
+我们需要研究培养那些好的品质
+
+460
+00:27:22,610 --> 00:27:26,380
+Because part of being human is being those things as well.
+因为它们也是我们的一部分
+
+461
+00:27:27,340 --> 00:27:33,560
+In many ways, brought about the movement toward humanistic psychology and through that--
+反而向人本主义靠近了 并由此产生了
+
+462
+00:27:33,700 --> 00:27:35,260
+positive psychology.
+积极心理学
+
+463
+00:27:37,130 --> 00:27:38,780
+Aaron Antonovsky,
+还有Aaron Antonovsky
+
+464
+00:27:38,780 --> 00:27:42,020
+the third person I would consider the grandfather,
+第三位祖父级人物
+
+465
+00:27:43,250 --> 00:27:48,440
+brought in the idea of focusing on health.
+提出了关注健康的理念
+
+466
+00:27:48,930 --> 00:27:50,530
+He has a new concept.
+他提出了一个新概念
+
+467
+00:27:52,410 --> 00:27:54,590
+Or he introduced a new concept.
+或者说他引进了一个新概念
+
+468
+00:27:54,990 --> 00:27:56,600
+I'm still here. Don't worry.
+我还在 别担心
+
+469
+00:27:57,570 --> 00:28:00,250
+He introduced a new concept, which he called--
+他引进了一个新概念 他称之为
+
+470
+00:28:01,640 --> 00:28:04,810
+his own neologism,
+他个人创造的新词
+
+471
+00:28:06,040 --> 00:28:10,060
+"salutogenesis".
+健康本源学
+
+472
+00:28:10,800 --> 00:28:15,340
+Salutogenesis: saluto--(which is) health; geneis (which is) origin.
+由两部分组成 saluto健康 geneis起源
+
+473
+00:28:15,340 --> 00:28:16,750
+The origin of health.
+健康的起源
+
+474
+00:28:16,750 --> 00:28:18,730
+And this was an alternative model,
+这是病理学常规模型的
+
+475
+00:28:19,360 --> 00:28:23,200
+to the conventional ways model of pathologies.
+替代模型
+
+476
+00:28:24,170 --> 00:28:25,580
+So instead of just studying pathologies
+也就是说除了研究病理学
+
+477
+00:28:25,580 --> 00:28:29,180
+whether it's in physical health or psychological health,
+无论是生理健康 还是心理健康
+
+478
+00:28:29,860 --> 00:28:32,860
+we should also study the origin of health.
+还需要研究健康的起源
+
+479
+00:28:33,440 --> 00:28:37,710
+In many ways that is what prevented medicine is about.
+这也是预防医学所关注的
+
+480
+00:28:37,710 --> 00:28:41,810
+So this was a novel idea back in 1970s when he introduced it.
+这在1970年代 是一个全新的理念
+
+481
+00:28:41,810 --> 00:28:45,470
+And we'll talk a lot about Aaron Antonovsky.
+我们会仔细讨论Aaron Antonovsky
+
+482
+00:28:46,910 --> 00:28:48,390
+Now the parents.
+现在转到父辈
+
+483
+00:28:50,650 --> 00:28:54,710
+Martin Seligman, considered the father of the positive psychology,
+Martin Seligman被认为是积极心理学之父
+
+484
+00:28:54,710 --> 00:28:56,030
+network of scholars,
+与一群相关学者
+
+485
+00:28:56,690 --> 00:28:58,310
+started the field in 1998.
+于1998年确立了这一领域
+
+486
+00:28:58,310 --> 00:29:02,470
+Like Maslow, he too, was the President of American Psychological Association.
+和马斯洛一样 也是美国心理协会会长
+
+487
+00:29:02,470 --> 00:29:06,240
+And as his mandate, during his presidency,
+他任职期间的首要任务
+
+488
+00:29:06,240 --> 00:29:07,810
+he had two aims:
+是实现两个目标
+
+489
+00:29:07,810 --> 00:29:12,920
+the first aim-- to make academic psychology more accessible,
+第一 让学院式心理学变得通俗
+
+490
+00:29:12,920 --> 00:29:14,140
+-- in other words--
+也就是说
+
+491
+00:29:14,140 --> 00:29:16,650
+bridge Ivory tower and mainstream.
+连接起象牙塔与普罗大众
+
+492
+00:29:16,650 --> 00:29:18,200
+This was the first aim of his presidency.
+这是他任职期间的第一目标
+
+493
+00:29:18,200 --> 00:29:21,960
+The second aim was introduce a positive psychology.
+第二 是引进一个积极的心理学
+
+494
+00:29:21,960 --> 00:29:25,620
+A psychology that will look at also things that work,
+需要着眼于有用的东西
+
+495
+00:29:25,620 --> 00:29:27,230
+that were not just study--
+不仅仅是研究
+
+496
+00:29:27,650 --> 00:29:31,670
+depression, anxiety, schizophrenia and neurosis.
+抑郁 焦虑 精神分裂 神经症
+
+497
+00:29:32,270 --> 00:29:35,770
+A psychology a network of scholars who will focus on
+还需要关注
+
+498
+00:29:36,080 --> 00:29:38,280
+-- love, relationships, self-esteem,
+爱 两性关系 自尊
+
+499
+00:29:38,280 --> 00:29:41,910
+motivation, resilience and well-being.
+动机 恢复以及幸福感
+
+500
+00:29:42,410 --> 00:29:44,100
+And he introduced these ideas
+他提出了这些理念
+
+501
+00:29:46,740 --> 00:29:49,640
+and it's all been literally uphill from then.
+从那时起便蓬勃发展起来
+
+502
+00:29:50,090 --> 00:29:50,970
+Before Martin Seligman,
+在Martin Seligman之前
+
+503
+00:29:50,970 --> 00:29:54,720
+this all happened in 1998 and we'll talk about it a little bit more next time.
+都发生在1998年 下次我们会详谈
+
+504
+00:29:54,720 --> 00:29:56,480
+This all  happened in 1998.
+这都诞生于1998年
+
+505
+00:29:57,020 --> 00:29:58,720
+Long before 1998,
+而早在1998年前
+
+506
+00:29:59,260 --> 00:30:05,230
+our very own professor Ellen Langer did research in all these areas,
+Ellen Langer教授就已研究了这些领域
+
+507
+00:30:05,230 --> 00:30:10,490
+bringing the humanistic spirit and combining it with the academic scientific rigor.
+将人本主义精神与学术科学严谨性结合
+
+508
+00:30:11,250 --> 00:30:17,430
+We'll be talking probably more than any other scholar about her work in this class.
+我们对她的讨论会比对其他人多
+
+509
+00:30:17,430 --> 00:30:19,180
+And another person from Harvard,
+还有一位哈佛的教授
+
+510
+00:30:19,180 --> 00:30:23,340
+one of the parents of positive psychology was Philip Stone,
+积极心理学的另一位父辈 Philip Stone
+
+511
+00:30:23,340 --> 00:30:27,480
+who passed away two years ago, yesterday.
+两年前的昨天去世了
+
+512
+00:30:28,830 --> 00:30:33,200
+Both Langer and Stone were my physicist advisors,
+两位都是我的物理学导师
+
+513
+00:30:33,200 --> 00:30:38,330
+introduced me to the field of positive psychology into this research.
+带我进入了积极心理学领域的研究
+
+514
+00:30:38,330 --> 00:30:42,820
+In 1998 when I had the first positive psychology summit,
+1998年我第一次参加积极心理学峰会
+
+515
+00:30:42,820 --> 00:30:44,950
+Professor Stone took me along with him.
+Stone教授带我同去
+
+516
+00:30:44,950 --> 00:30:46,740
+I was a graduate student.
+我那时在攻读硕士学位
+
+517
+00:30:46,740 --> 00:30:50,130
+In 1999 he taught the first positive psychology class at Harvard,
+1999年 他首次在哈佛开设了本课程
+
+518
+00:30:50,130 --> 00:30:51,820
+one of the first in the world.
+在全球范围内也是首批
+
+519
+00:30:52,640 --> 00:30:54,700
+I was his teaching fellow.
+我是他的教研员
+
+520
+00:30:55,080 --> 00:30:57,090
+A couple of years later, he taught it again.
+两年后 他又重新开设了课程
+
+521
+00:30:57,090 --> 00:30:58,930
+Again I was his teaching fellow.
+我仍旧担任教研员
+
+522
+00:30:58,930 --> 00:31:01,830
+And then when I graduated,
+后来我毕业了
+
+523
+00:31:01,830 --> 00:31:04,560
+he suggested I take over his class.
+他提议我接手他的课程
+
+524
+00:31:05,300 --> 00:31:07,940
+And here we are today.
+直到今天
+
+525
+00:31:12,780 --> 00:31:14,450
+So this is 1504.
+这就是1504号心理学课程
+
+526
+00:31:14,450 --> 00:31:15,930
+Let me give you a sense of,
+我再来讲讲...
+
+527
+00:31:15,930 --> 00:31:17,440
+in the next half an hour and so,
+接下来的半小时
+
+528
+00:31:17,440 --> 00:31:20,690
+a sense of what you expect in this class.
+我会向你们介绍下这门课的内容
+
+529
+00:31:21,060 --> 00:31:26,480
+The first thing is this class is not just about information,
+首先 这门课不光是传授信息
+
+530
+00:31:26,480 --> 00:31:30,850
+it is also explicitly about transformation.
+而且关于如何变形 显而易见
+
+531
+00:31:30,850 --> 00:31:32,320
+What do I mean by that?
+这是什么意思
+
+532
+00:31:33,010 --> 00:31:37,070
+You see most of education today is about information.
+如今大多数教育都只是传达信息
+
+533
+00:31:37,070 --> 00:31:38,610
+What is information?
+什么是信息
+
+534
+00:31:39,680 --> 00:31:43,610
+So we have a container,
+比如 我们有一个容器
+
+535
+00:31:44,990 --> 00:31:47,720
+which is our mind.
+也就是我们的思想
+
+536
+00:31:48,210 --> 00:31:50,230
+And information is about taking data,
+信息就是接收数据
+
+537
+00:31:50,230 --> 00:31:56,870
+taking science, taking information and putting it inside the form.
+接收科学 接收信息 储存到容器里
+
+538
+00:31:56,870 --> 00:31:58,230
+That is information.
+这就是信息
+
+539
+00:31:58,230 --> 00:32:00,460
+Now when this form is filled,
+等容器填满了
+
+540
+00:32:02,600 --> 00:32:04,280
+that's when we are educated.
+我们就毕业了
+
+541
+00:32:06,010 --> 00:32:09,170
+More information, more data, better.
+信息数据越多越好
+
+542
+00:32:12,820 --> 00:32:13,780
+Not enough.
+这还不够
+
+543
+00:32:15,430 --> 00:32:19,660
+Because it's not just information that determines our wellbeing,
+因为信息无法决定我们的幸福感
+
+544
+00:32:19,660 --> 00:32:23,350
+our success, our self-esteem, our motivational level,
+我们的成功 自尊 动机水平
+
+545
+00:32:23,510 --> 00:32:26,650
+the relationship and the quality of our relationships.
+两性关系及其质量
+
+546
+00:32:28,010 --> 00:32:29,920
+It's much more than information.
+光有信息还不够
+
+547
+00:32:30,770 --> 00:32:36,300
+Transformation is about taking this form and changing it.
+变形则是把容器的形状改变
+
+548
+00:32:36,300 --> 00:32:41,130
+Trans, (which is) change, form, (which is) shape.
+"trans"即改变 "form"即形状
+
+549
+00:32:41,130 --> 00:32:42,520
+Change the form.
+改变形状
+
+550
+00:32:42,880 --> 00:32:44,170
+This is transformation.
+这就是变形
+
+551
+00:32:44,170 --> 00:32:48,840
+This is the distinction that I learned first from at the school Professor Robert Kegan
+这是Robert Kegan教授
+
+552
+00:32:48,840 --> 00:32:50,390
+who taught about this.
+教我的第一区别
+
+553
+00:32:52,300 --> 00:32:54,550
+Information in and of itself is not enough.
+接收信息 关注信息本身是不够的
+
+554
+00:32:54,550 --> 00:32:55,930
+Think about this example.
+听听这个例子
+
+555
+00:32:58,090 --> 00:33:01,630
+You go for an athletic meet.
+你去参加运动会
+
+556
+00:33:01,630 --> 00:33:04,330
+Your aim is to get into the top three--
+目标是进入前三
+
+557
+00:33:04,330 --> 00:33:05,720
+to be a medalist.
+获得奖牌
+
+558
+00:33:05,720 --> 00:33:07,810
+You come in number eight.
+但是只获得第八名
+
+559
+00:33:11,400 --> 00:33:13,500
+What's the analysis?
+你会如何分析
+
+560
+00:33:13,500 --> 00:33:15,600
+What's the interpretation? -- Terrible.
+你会如何解读? 太糟糕了
+
+561
+00:33:15,600 --> 00:33:16,670
+I just failed.
+我彻底失败了
+
+562
+00:33:16,670 --> 00:33:20,210
+You feel deflated. Enervated.
+你灰心丧气 感到无力
+
+563
+00:33:20,990 --> 00:33:22,110
+On the other hand,
+但从另一角度看
+
+564
+00:33:22,110 --> 00:33:23,680
+the exact same event.
+同样的比赛
+
+565
+00:33:23,680 --> 00:33:26,480
+You came eight when you expected to be top three.
+你期望获得前三 但只得到第八
+
+566
+00:33:26,480 --> 00:33:30,040
+You can interpret it as "Ok, so what have I learned?
+你可以解读为"我学到了什么?
+
+567
+00:33:30,540 --> 00:33:31,670
+I need to work even harder."
+我还需要更努力地训练"
+
+568
+00:33:31,670 --> 00:33:33,300
+You become more energized.
+你会更有动力
+
+569
+00:33:33,300 --> 00:33:34,690
+You learned from the experience.
+从经验中学习
+
+570
+00:33:34,690 --> 00:33:39,010
+In other words, the same objective information which is
+也就是说 同样的客观信息
+
+571
+00:33:39,010 --> 00:33:41,960
+"I got eighth; I expected top three".
+"我是第八名 我目标前三"
+
+572
+00:33:41,960 --> 00:33:43,950
+The same information,
+同样的信息
+
+573
+00:33:43,950 --> 00:33:47,100
+very different interpretation.
+截然不同的解读
+
+574
+00:33:48,410 --> 00:33:50,470
+One is a disaster,
+一个认为是灾难
+
+575
+00:33:50,470 --> 00:33:53,620
+the other interpretation is an opportunity.
+另一个则当成机遇
+
+576
+00:33:53,620 --> 00:33:55,560
+One leads to loss of energy,
+一个让人失去动力
+
+577
+00:33:55,560 --> 00:33:57,850
+the other one to increasing energy.
+另一个增加动力
+
+578
+00:33:57,850 --> 00:34:00,330
+Or think about another very common example.
+还有一个很普遍的例子
+
+579
+00:34:00,850 --> 00:34:06,260
+We know of many people around the world who seemingly have everything,
+世界各地很多人似乎拥有了一切
+
+580
+00:34:06,750 --> 00:34:08,300
+who are doing well,
+人生顺利
+
+581
+00:34:10,110 --> 00:34:11,900
+who have more than they need.
+生活富庶
+
+582
+00:34:12,210 --> 00:34:13,750
+And yet they are unhappy.
+但仍旧不快乐
+
+583
+00:34:13,750 --> 00:34:17,260
+And then there are people around the world who have very little.
+而另一些人拥有的不多
+
+584
+00:34:18,830 --> 00:34:20,150
+And yet they never cease,
+但从未中断
+
+585
+00:34:20,150 --> 00:34:22,420
+never stop to celebrate life.
+从未停止享受人生
+
+586
+00:34:22,420 --> 00:34:23,940
+And we have another way around as well.
+还有相反的情况
+
+587
+00:34:23,940 --> 00:34:27,200
+People who have everything and appreciate it and enjoy life.
+拥有一切的人 充满感恩 享受生活
+
+588
+00:34:27,200 --> 00:34:30,880
+People who have very little and who see themselves as victim.
+生活窘迫的人觉得自己是受害者
+
+589
+00:34:33,090 --> 00:34:35,550
+In other words, it's not just the information that goes in.
+也就是说 重要的不仅仅是获得了什么信息
+
+590
+00:34:35,550 --> 00:34:36,490
+It's also the shape,
+还有是何形状
+
+591
+00:34:36,490 --> 00:34:41,280
+the interpretation, the perception, the focus.
+如何解读 如何理解 关注的重点
+
+592
+00:34:42,300 --> 00:34:46,400
+And that is determined by the shape of the form.
+这就是由容器的形状所决定的
+
+593
+00:34:48,960 --> 00:34:51,550
+This is what I realized when I was an undergrad here.
+这是我在本科生阶段所认识到的
+
+594
+00:34:51,850 --> 00:34:55,260
+Seemingly, looking in from the outside, I had everything.
+表面上看 我拥有了一切
+
+595
+00:34:56,100 --> 00:34:57,280
+Doing well (in) sports,
+体育运动
+
+596
+00:34:57,280 --> 00:34:59,390
+academics and socially.
+学术 社交都很成功
+
+597
+00:34:59,400 --> 00:35:02,010
+And yet my perception,
+但是我对生命的理解
+
+598
+00:35:02,010 --> 00:35:05,690
+my focus, my interpretation of life-- not that great.
+关注和解读并不正面
+
+599
+00:35:05,690 --> 00:35:06,960
+I wasn't happy.
+我不快乐
+
+600
+00:35:09,810 --> 00:35:17,660
+The interpretation matters very often a lot more as we'll see than the information that goes in.
+我们后面会讲 通常解读比信息更重要
+
+601
+00:35:19,060 --> 00:35:22,110
+One of the sentences that I'll repeat throughout the class is that
+有一句话我会在课程中经常引用
+
+602
+00:35:22,110 --> 00:35:30,810
+happiness is much more contingent on our state of mind than our status or the state of our bank account.
+快乐由我们的精神状态而定 而不是社会地位或银行存款
+
+603
+00:35:32,700 --> 00:35:34,830
+And that's where transformation comes in.
+所以需要变形
+
+604
+00:35:34,830 --> 00:35:38,610
+And that's why it's so important for wellbeing.
+这对建立幸福感来说很重要
+
+605
+00:35:40,660 --> 00:35:44,510
+What that will look like in practice
+所以我们在实际操作时
+
+606
+00:35:45,170 --> 00:35:50,670
+is that we'll cover not so much information.
+不会传达过多信息方面的东西
+
+607
+00:35:50,670 --> 00:35:54,500
+We'll uncover much more and I don't mean that in the Berkeley (George Berkeley) sense of the word.
+而是挖掘更多东西 不是联想意义上的
+
+608
+00:35:54,500 --> 00:35:56,850
+I mean that in the academic sense of the word.
+而是学术意义上的
+
+609
+00:35:59,180 --> 00:36:00,290
+In other words,
+也就是说
+
+610
+00:36:01,270 --> 00:36:05,240
+what we'll do is uncover potential that we have inside,
+我们要挖掘自身潜能
+
+611
+00:36:05,240 --> 00:36:07,240
+that we have inside of us all along.
+这种潜能一直存在
+
+612
+00:36:07,240 --> 00:36:08,390
+Maybe we just didn't see.
+只是我们没有发现
+
+613
+00:36:08,390 --> 00:36:11,440
+Or maybe it's obscured by something or another.
+或者被其他东西掩盖了
+
+614
+00:36:12,260 --> 00:36:14,620
+We'll uncover it so that we can utilize it,
+我们要发现利用它
+
+615
+00:36:15,140 --> 00:36:16,310
+so that we can focus on it,
+以便关注它
+
+616
+00:36:16,320 --> 00:36:18,090
+so that we can perceive it.
+以便理解它
+
+617
+00:36:20,270 --> 00:36:22,450
+Here is a story just to illustrate it.
+我讲个故事来说明吧
+
+618
+00:36:22,450 --> 00:36:24,970
+So this is Michelangelo.
+比如米开朗基罗
+
+619
+00:36:25,580 --> 00:36:30,330
+One day he was asked by a journalist of his time,
+曾经有个记者问他
+
+620
+00:36:31,280 --> 00:36:38,490
+"how did you create this most amazing masterpiece, David?",
+您是如何创造出《大卫》这件巨作的?
+
+621
+00:36:40,090 --> 00:36:42,180
+to which Michelangelo responded,
+米开朗基罗回答
+
+622
+00:36:42,510 --> 00:36:43,670
+"it was easy.
+很简单
+
+623
+00:36:43,960 --> 00:36:45,390
+I went to the quarry.
+我去了趟采石场
+
+624
+00:36:45,390 --> 00:36:47,800
+I saw this huge piece of marble.
+看见一块巨大的大理石
+
+625
+00:36:49,200 --> 00:36:51,550
+And in it I saw David.
+我在它身上看到了大卫
+
+626
+00:36:51,970 --> 00:36:58,000
+All I needed to do was to chip away the excess stone,
+我只要凿去多余的石头
+
+627
+00:36:58,750 --> 00:37:02,540
+to get rid of the marble that shouldn't have been there.
+只留下有用的
+
+628
+00:37:03,290 --> 00:37:07,490
+And when I got rid of this excess stone, there was David.
+凿去多余的石头之后 大卫就诞生了
+
+629
+00:37:07,930 --> 00:37:10,850
+" Not obviously easier said than done.
+虽然说的比做的容易
+
+630
+00:37:11,150 --> 00:37:16,030
+But the story captured the metaphor of what this class very much is about.
+但是这个故事抓住了这门课程精髓
+
+631
+00:37:16,030 --> 00:37:18,760
+It's about chipping away the excess stone.
+即凿除多余石块
+
+632
+00:37:18,760 --> 00:37:21,760
+It's about getting rid of limitations, of barriers,
+也就是摆脱限制 阻碍
+
+633
+00:37:22,080 --> 00:37:24,070
+whether it's the fear of failure,
+或者对失败的恐惧
+
+634
+00:37:24,450 --> 00:37:26,430
+something that we didn't have as kids.
+这些东西在并不是与生俱来的
+
+635
+00:37:26,980 --> 00:37:29,870
+But today most people in our culture have it.
+但如今却出现在了大多数人身上
+
+636
+00:37:29,870 --> 00:37:35,290
+It's about chipping away perfectionism that is debilitating and often hurts us.
+要凿除削弱甚至伤害我们的完美主义
+
+637
+00:37:35,490 --> 00:37:42,600
+It's about chipping away our ability for success,
+凿除胜利的能力
+
+638
+00:37:42,600 --> 00:37:46,040
+because maybe we are afraid of success.
+因为我们可能害怕胜利
+
+639
+00:37:46,040 --> 00:37:49,260
+Maybe we feel guilty about some of the things that we have in our life,
+可能对生命中一些东西感到内疚
+
+640
+00:37:49,260 --> 00:37:52,460
+and that in turn limits us.
+这些都会反过来限制我们
+
+641
+00:37:53,210 --> 00:37:56,610
+Maybe it's about chipping away the limitations on our relationships
+也许甚至还要凿除两性关系中的限制
+
+642
+00:37:56,610 --> 00:37:58,600
+in while we don't thrive within them.
+尤其是带来消极面的时候
+
+643
+00:37:59,700 --> 00:38:02,530
+This is what this class is mostly about.
+这些就是本课程的主要内容
+
+644
+00:38:03,860 --> 00:38:05,360
+As Thoreau says,
+就像梭罗说的那样
+
+645
+00:38:05,890 --> 00:38:13,240
+"soul grows more by subtraction than by addition",
+"做减法比做加法让灵魂成长得更快"
+
+646
+00:38:13,870 --> 00:38:15,710
+by getting rid of these limitations,
+减法包括除去那些
+
+647
+00:38:15,710 --> 00:38:19,040
+limitations that are preventing us from fulfilling our potential.
+阻碍我们发挥潜能的限制
+
+648
+00:38:19,040 --> 00:38:21,250
+Because our potential is in there in nature.
+因为我们的潜能是天生的
+
+649
+00:38:21,250 --> 00:38:23,380
+We talk a lot about human nature.
+我们关注人类本性
+
+650
+00:38:23,380 --> 00:38:24,810
+It's there whether it's through God,
+是与生俱来的 无论是上帝赐予的
+
+651
+00:38:24,810 --> 00:38:26,630
+whether it's through evolution.
+还是进化产生的
+
+652
+00:38:27,360 --> 00:38:33,810
+We have a lot of potential that over time with we fix (?) stone of voices with being part of our culture
+但是渐渐地受到外部文化压力
+
+653
+00:38:34,300 --> 00:38:40,110
+that very often these limitations are put on top of us just like the excess stone.
+像多余石料一样 把我们禁锢起来了
+
+654
+00:38:41,430 --> 00:38:45,360
+Lao Tzu, "In pursuit of knowledge every day something is acquired.
+老子说过
+
+655
+00:38:45,360 --> 00:38:46,880
+In pursuit of wisdom,
+"为学日益
+
+656
+00:38:46,880 --> 00:38:49,490
+every day something is dropped."
+为道日损"
+
+657
+00:38:51,110 --> 00:38:53,420
+Knowledge is about information.
+"学"即信息
+
+658
+00:38:53,420 --> 00:38:56,860
+Wisdom is about transformation.
+"道"即变形
+
+659
+00:39:06,190 --> 00:39:12,930
+I was recently interviewed for a newsletter on coaching
+我最近参加一次大型咨询业会议时
+
+660
+00:39:13,800 --> 00:39:16,240
+before a large conference on the topic.
+接受了一家相关期刊的采访
+
+661
+00:39:16,240 --> 00:39:19,710
+And the interviewer asked me,
+采访者问我
+
+662
+00:39:19,710 --> 00:39:22,510
+"So what tips, what tools can you give from positive psychology?"
+"能给读者传授些积极心理学建议吗"
+
+663
+00:39:22,510 --> 00:39:25,340
+So I talked about some of "the greatest hits":
+于是我谈到了一些热门话题
+
+664
+00:39:25,360 --> 00:39:26,930
+the importance of gratitude,
+感恩的重要性
+
+665
+00:39:26,930 --> 00:39:28,860
+the importance of physical exercise.
+体育锻炼的重要性
+
+666
+00:39:28,860 --> 00:39:33,090
+I talked about the importance of spending time on our relationships,
+我谈到了花时间经营爱情的重要性
+
+667
+00:39:33,090 --> 00:39:37,400
+about taking time aside and simplifying and so on and so on.
+谈到了休息 简化 等等
+
+668
+00:39:38,150 --> 00:39:41,330
+As I was going through my long list,
+我正滔滔不绝时
+
+669
+00:39:41,870 --> 00:39:44,210
+she stopped me and she said,
+她打断了我 说
+
+670
+00:39:44,210 --> 00:39:45,710
+"You know Tal, this is all good.
+谢谢 Tal 这些都不错
+
+671
+00:39:45,710 --> 00:39:46,910
+The importance of stuff, I know.
+那些事情的重要性 我明白
+
+672
+00:39:46,910 --> 00:39:49,150
+But our readers already know that.
+但这些我们的读者都已经知道了
+
+673
+00:39:49,150 --> 00:39:51,450
+I am looking for the Wow factor.
+我想要的是轰动的因素
+
+674
+00:39:51,850 --> 00:39:53,080
+Come on, surprise me.
+能让我意外的东西
+
+675
+00:39:53,080 --> 00:39:54,860
+What can you tell our readers?"
+能否告诉我们的读者?"
+
+676
+00:39:55,800 --> 00:39:58,270
+And I thought about this question for a minute
+我想了一会这个问题
+
+677
+00:39:58,270 --> 00:40:03,270
+and I realized that there is no Wow.
+然后意识到根本没有什么惊奇可言
+
+678
+00:40:04,370 --> 00:40:05,180
+And I told her that,
+我跟她这么说了
+
+679
+00:40:05,180 --> 00:40:09,470
+"you know if there is a wow, the wow is that there is no wow."
+"所谓的轰动之处就是没有轰动之处"
+
+680
+00:40:10,600 --> 00:40:11,600
+That's it.
+就是这样
+
+681
+00:40:11,600 --> 00:40:17,800
+Because the over-not-transformation emperor,
+因为没有经过转变
+
+682
+00:40:17,800 --> 00:40:21,300
+the emperor of quick fixes has no clothes.
+快速见效的说法都是皇帝的新衣
+
+683
+00:40:22,010 --> 00:40:22,750
+It doesn't exist.
+是不存在的
+
+684
+00:40:22,750 --> 00:40:25,120
+it's over-promising and under-delivering.
+是过高的承诺和过低的兑现
+
+685
+00:40:25,680 --> 00:40:27,250
+A life, a fulfilling life,
+生活 令人满意的生活
+
+686
+00:40:27,250 --> 00:40:30,190
+a rich life includes ups and downs,
+丰富的生活包括了起起落落
+
+687
+00:40:30,190 --> 00:40:32,680
+includes pain and getting up again,
+包括了痛苦和再次振作
+
+688
+00:40:32,680 --> 00:40:34,210
+includes failure and getting up again.
+包括了失败和再次奋斗
+
+689
+00:40:34,210 --> 00:40:37,150
+It includes success and celebrating it.
+它包括了成功和庆祝成功
+
+690
+00:40:37,690 --> 00:40:39,750
+Victories and losses, ups and downs,
+胜利和失败 起起和落落
+
+691
+00:40:39,750 --> 00:40:42,120
+as we'll talk about next week.
+我们下个星期会讲到
+
+692
+00:40:42,990 --> 00:40:45,260
+It's not about this one secret.
+而不是关乎一个秘密
+
+693
+00:40:45,280 --> 00:40:47,510
+One Wow to the good life.
+一个能让人过上幸福生活的令人惊奇的诀窍
+
+694
+00:40:47,510 --> 00:40:49,630
+And many of the things you will learn in this class,
+而你们将在本课程中学到的许多东西
+
+695
+00:40:50,340 --> 00:40:51,870
+you've heard of before.
+都是你们之前听说过的
+
+696
+00:40:52,350 --> 00:40:54,030
+Probably nothing new to you.
+也许对你来说没有什么新鲜的内容
+
+697
+00:40:54,670 --> 00:40:57,100
+You already know it inside of you.
+在你内心深处你已经知道了
+
+698
+00:41:00,370 --> 00:41:02,970
+And you are going to say, "Well, it is common sense."
+你会说"这是常识"
+
+699
+00:41:02,970 --> 00:41:05,370
+And yes, a lot of it is common sense.
+是的 很多都是常识
+
+700
+00:41:05,930 --> 00:41:07,740
+However, it is Voltaire once said,
+但是 伏尔泰曾经说过
+
+701
+00:41:08,290 --> 00:41:10,770
+"Common sense is not that common."
+"常识并非那么平常"
+
+702
+00:41:11,440 --> 00:41:13,840
+And this especially applies to application.
+特别是应用于实际
+
+703
+00:41:13,870 --> 00:41:19,120
+So the aim of this class is to make common sense more common,
+所以本课程的目标是让常识更平常
+
+704
+00:41:19,120 --> 00:41:21,360
+especially in the real world application.
+特别是应用到实际中
+
+705
+00:41:28,420 --> 00:41:29,390
+At the end of the class,
+在本课程结束时
+
+706
+00:41:29,400 --> 00:41:31,030
+here's what I am hoping for,
+我所希望的是
+
+707
+00:41:31,030 --> 00:41:32,010
+at the end of the class,
+在本课程结束之时
+
+708
+00:41:32,010 --> 00:41:33,300
+if you decide to take it.
+如果你打算上这门课的话
+
+709
+00:41:33,300 --> 00:41:34,470
+At the end of the semester,
+在本学期结束时
+
+710
+00:41:35,990 --> 00:41:38,800
+I don't think-- I am not expecting you to come and tell me,
+我不想 我不期待你跑来告诉我
+
+711
+00:41:38,810 --> 00:41:43,120
+"Wow! Thank you for teaching me so many new things."
+"谢谢你教给了这么多新东西"
+
+712
+00:41:44,380 --> 00:41:45,370
+That's not what I am expecting.
+那不是我所期待的
+
+713
+00:41:45,370 --> 00:41:47,150
+I don't think that is what will happen.
+我不认为那会发生
+
+714
+00:41:47,170 --> 00:41:50,640
+What I hope will happen is for you to come and say,
+我所希望发生的是你过来跟我说
+
+715
+00:41:51,080 --> 00:41:53,020
+rather than "thank you for teaching me",
+不是说"谢谢你教了我"
+
+716
+00:41:53,050 --> 00:41:55,730
+something you would say
+之类的话
+
+717
+00:41:55,730 --> 00:42:00,180
+"thank you for reminding me of something that I've already known".
+而是"谢谢提醒了我一些我熟知事情"
+
+718
+00:42:00,310 --> 00:42:01,640
+And this is what this class is about.
+这就是本课程要做的
+
+719
+00:42:01,640 --> 00:42:04,100
+It's constant reminder, twice a week.
+经常性的提醒 一周两次
+
+720
+00:42:05,250 --> 00:42:07,270
+Constant reminder of what you already know,
+经常提醒你们记起你们已知的东西
+
+721
+00:42:07,270 --> 00:42:08,950
+of what is inside you.
+你们内心深处的东西
+
+722
+00:42:08,950 --> 00:42:11,340
+The David that is inside you.
+你们心中的大卫
+
+723
+00:42:11,860 --> 00:42:15,820
+And what this class will hopefully do is to help you chip away some of these limitations,
+本课程希望做到的是帮助你们凿掉一些束缚
+
+724
+00:42:15,820 --> 00:42:16,850
+whether it's limitation,
+不管是哪种束缚
+
+725
+00:42:16,850 --> 00:42:21,320
+cognitive limitations that prevent you from seeing what you already knew,
+是阻碍你认识已熟知事物的认知束缚
+
+726
+00:42:22,090 --> 00:42:28,020
+emotional limitations that are preventing you from deriving the benefits of what you already know,
+还是阻碍你从已熟知事物中获取益处的情绪束缚
+
+727
+00:42:28,610 --> 00:42:32,740
+or behavioral limitations.
+抑或是行为束缚
+
+728
+00:42:32,980 --> 00:42:36,570
+The ABC: affect, behavior, and cognition
+基本要素是影响 行为和认知
+
+729
+00:42:37,090 --> 00:42:39,500
+that we'll talk about during the change week.
+正是我们在改变周将要讨论的
+
+730
+00:42:40,360 --> 00:42:42,870
+So I'm making common sense more common.
+我要让常识更平常
+
+731
+00:42:43,530 --> 00:42:46,780
+Information in and of itself is simply not enough.
+信息本身还不够
+
+732
+00:42:46,780 --> 00:42:53,400
+It's not enough and what we need in addition to our information highway is a transformation highway.
+还不够 而我们除了信息高速公路外还需要转变高速公路
+
+733
+00:42:54,450 --> 00:42:55,340
+Transformation high way,
+是在转变高速公路
+
+734
+00:42:55,340 --> 00:42:57,240
+or transformation back roads,
+还是转变乡村小道上
+
+735
+00:42:57,770 --> 00:42:59,890
+to come through the fast increasing pace.
+来经历快速增长的步伐
+
+736
+00:42:59,890 --> 00:43:01,810
+Because as we'll talk about next time,
+因为就像我们下次课会说到的那样
+
+737
+00:43:01,810 --> 00:43:03,460
+rates of depression are on the rise,
+抑郁率呈上升趋势
+
+738
+00:43:03,460 --> 00:43:05,330
+rates of anxiety are on the rise,
+焦虑率呈上升趋势
+
+739
+00:43:05,340 --> 00:43:07,560
+not just in this country, globally.
+不只是在这个国家 是全球化的现象
+
+740
+00:43:07,560 --> 00:43:09,310
+It's literally global epidemic.
+简直就是全球传染病
+
+741
+00:43:09,310 --> 00:43:10,720
+And to deal with it,
+而为了应对它
+
+742
+00:43:10,720 --> 00:43:13,620
+more information will just not do.
+更多的信息也并不够
+
+743
+00:43:13,620 --> 00:43:14,960
+Just not enough.
+并不够
+
+744
+00:43:15,100 --> 00:43:18,160
+Here is Archibald MacLeish.
+下面是Archibald MacLeish的话
+
+745
+00:43:18,160 --> 00:43:20,800
+He was a poet, was a Harvard professor,
+他生前是一位诗人 是哈佛的教授
+
+746
+00:43:22,920 --> 00:43:25,650
+"What is wrong is not the great discoveries of science--
+"错的不是科学的重大发现
+
+747
+00:43:25,650 --> 00:43:27,880
+information is always better than ignorance,
+有信息永远比无知强
+
+748
+00:43:27,880 --> 00:43:30,760
+no matter what information or what ignorance.
+不管是什么样信息和什么样无知
+
+749
+00:43:30,960 --> 00:43:34,310
+What is wrong is the belief behind the information,
+错在于信息背后的信念
+
+750
+00:43:34,330 --> 00:43:37,870
+the belief that information will change the world.
+认为信息会改变世界的信念
+
+751
+00:43:38,580 --> 00:43:39,810
+It won't."
+但它不会"
+
+752
+00:43:39,810 --> 00:43:43,740
+Just adding it and filling up our containers with more and more stuff.
+往我们的容器里增加 装上越来越多的东西
+
+753
+00:43:44,900 --> 00:43:47,280
+More and more information, more and more data.
+越来越多的信息 越来越多的数据
+
+754
+00:43:47,280 --> 00:43:48,540
+It's just not enough.
+还是不够
+
+755
+00:43:48,540 --> 00:43:50,150
+We need more than that.
+我们需要更多
+
+756
+00:43:50,650 --> 00:43:53,330
+This class will take a humanistic approach.
+本课程将采用一种人性的方法
+
+757
+00:43:53,330 --> 00:43:58,650
+Let me read you a quick excerpt by Abraham Maslow who talks about this approach,
+我来给你们读一小段Abraham Maslow的话
+
+758
+00:44:00,030 --> 00:44:03,980
+"If one took a course or picked up a book on the psychology of learning,
+"如果有人上了一门关于心理学学习的课
+
+759
+00:44:04,310 --> 00:44:05,120
+most of it,
+或者看了一本这方面的书
+
+760
+00:44:05,120 --> 00:44:07,960
+in my opinion, would be beside the point -
+大部分内容 在我看来 是与重点无关的
+
+761
+00:44:07,960 --> 00:44:10,590
+that is, beside the 'humanistic' point.
+也就是 与人性无关
+
+762
+00:44:10,590 --> 00:44:14,270
+Most of it would present learning as the acquisition of associations,
+大部分内容把学习展现为获得联想
+
+763
+00:44:14,270 --> 00:44:21,220
+of skills and capacities that are external and not intrinsic to the human character,
+技能和能力 这些对于人的性格 人的个性
+
+764
+00:44:21,220 --> 00:44:25,260
+to the human personality, to the person himself."
+人本身来说只是外在而并非本质的"
+
+765
+00:44:26,100 --> 00:44:29,660
+External refers to information.
+外在是指信息
+
+766
+00:44:29,940 --> 00:44:33,080
+Internal refers to the transformation,
+内在是指转变
+
+767
+00:44:33,090 --> 00:44:34,400
+the changing of the form.
+形态的改变
+
+768
+00:44:34,400 --> 00:44:36,570
+And when we talk about transformation,
+当我们谈到转变时
+
+769
+00:44:36,570 --> 00:44:39,070
+actually mean it quite literally--
+实际上是非常字面的说法
+
+770
+00:44:39,070 --> 00:44:40,430
+changing of the form,
+形态的改变
+
+771
+00:44:40,440 --> 00:44:42,710
+changing of the brain as we'll talk about.
+大脑的改变 我们一会就谈到
+
+772
+00:44:42,730 --> 00:44:45,260
+We'll talk about meditation for instance.
+比如我们会谈到冥想
+
+773
+00:44:45,260 --> 00:44:54,280
+We know our brain today can actually change through MRI studies since 1998.
+1998年通过的核磁共振研究我们知道大脑可以被改变
+
+774
+00:44:55,010 --> 00:44:59,740
+A new concept came up which is Neurogenesis or Neuroplasticity,
+一个新的概念叫做神经形成或者神经可塑性
+
+775
+00:44:59,740 --> 00:45:02,390
+meaning our brain actually changes and transforms.
+是指我们的大脑实际上会改变和转变
+
+776
+00:45:02,410 --> 00:45:05,320
+It changes its form throughout our life.
+在我们的一生中其形态都在改变
+
+777
+00:45:05,320 --> 00:45:06,660
+So I don't just mean it metaphorically,
+所以我不只是在打比方
+
+778
+00:45:06,660 --> 00:45:11,750
+I also very often mean it literally.
+我也经常指的是字面意义
+
+779
+00:45:12,400 --> 00:45:13,560
+Abraham Maslow continues,
+继续Abraham Maslow的话
+
+780
+00:45:13,560 --> 00:45:16,640
+"Humanistic philosophy offers a new conception of learning,
+"人性的哲学衍生出关于学习
+
+781
+00:45:16,640 --> 00:45:19,170
+of teaching, and of education.
+教学和教育的新概念
+
+782
+00:45:19,300 --> 00:45:23,470
+Stated simply, such a concept holds that the function of education,
+简单地说 这一概念认为教育的功能
+
+783
+00:45:23,470 --> 00:45:24,960
+the goal of education—
+教育的目标
+
+784
+00:45:24,960 --> 00:45:26,750
+the human goal, the humanistic goal,
+人的目标 人性的目标
+
+785
+00:45:26,750 --> 00:45:29,650
+the goal so far as human beings are concerned—
+只要人还是被关注的目标
+
+786
+00:45:29,650 --> 00:45:33,050
+is ultimately the "self-actualization" of a person,
+从根本上是一个人的自我实现
+
+787
+00:45:33,050 --> 00:45:34,680
+the becoming fully human,
+完全成为一个人
+
+788
+00:45:34,680 --> 00:45:38,770
+the development of the fullest height that the human species can stand up to
+达到人类或者是特定的某个个人
+
+789
+00:45:38,770 --> 00:45:41,650
+or that the particular individual can come to.
+能达到的最高高度
+
+790
+00:45:42,230 --> 00:45:43,500
+In a less technical way,
+通俗点讲
+
+791
+00:45:43,510 --> 00:45:48,320
+it is helping the person to become the best that he is able to become."
+就是帮助一个人成为最好的自己"
+
+792
+00:45:50,090 --> 00:45:53,160
+And this was before the Ad came up for the army.
+这些是军队的广告
+
+793
+00:45:53,160 --> 00:45:54,980
+That "Be all you can be."
+"做最好的自己"
+
+794
+00:45:55,520 --> 00:45:57,640
+This is what the class is about.
+这就是本课程所要讲的
+
+795
+00:45:58,380 --> 00:45:59,450
+It's the humanistic approach.
+这就是人性的方法
+
+796
+00:45:59,450 --> 00:46:01,780
+It's about fulfilling our potential,
+关于实现我们的潜能
+
+797
+00:46:01,780 --> 00:46:03,930
+chipping away those limitations.
+凿掉那些束缚
+
+798
+00:46:05,000 --> 00:46:09,230
+Now to many of you this may sound naive, idealistic.
+现在对于你们许多人这种方式似乎很天真 很理想主义
+
+799
+00:46:10,420 --> 00:46:12,800
+Naive it is not. Idealistic, it is.
+并不天真 但理想主义
+
+800
+00:46:12,810 --> 00:46:17,380
+And we'll talk about and discuss the importance of idealism and maintaining idealism
+我们会谈到和讨论理想主义和保持理想主义
+
+801
+00:46:17,380 --> 00:46:19,960
+if we are to introduce personal change,
+的重要性 如果我们要介绍个人的改变
+
+802
+00:46:19,960 --> 00:46:22,020
+inter-personal change,
+个人之间的改变
+
+803
+00:46:22,410 --> 00:46:25,440
+or community or society change.
+或群体与社会的改变的话
+
+804
+00:46:28,190 --> 00:46:31,420
+This class is not about providing answers,
+本课程不是提供
+
+805
+00:46:32,150 --> 00:46:33,980
+concerning the good life and happiness.
+关于美好生活和幸福的答案的
+
+806
+00:46:33,980 --> 00:46:37,900
+It is about identifying the right questions.
+是关于辨识正确的问题
+
+807
+00:46:41,820 --> 00:46:44,840
+"Ask and ye shall you receive", say the Scripture.
+"问过之后便会有收获" 圣经如是说
+
+808
+00:46:44,840 --> 00:46:48,290
+This class is what I think education is all about,
+本课程就是我认为的教育的宗旨
+
+809
+00:46:48,290 --> 00:46:55,590
+which is that the quest for information and transformation must begin with the question.
+也就是对信息和转变的探索 必须由一个问题开始
+
+810
+00:46:55,590 --> 00:46:56,450
+Quest, question,
+探索 问题
+
+811
+00:46:56,450 --> 00:47:00,700
+there is no coincidence that there is an etymological link between the two.
+这两者在词源上有所关联并非巧合
+
+812
+00:47:01,290 --> 00:47:02,590
+In this class we'll be asking,
+在本课程中 我们会问
+
+813
+00:47:02,600 --> 00:47:04,550
+you'll be asked many questions,
+你们会被问许多问题
+
+814
+00:47:04,550 --> 00:47:07,860
+questions that as you'll see, create reality.
+你们将会看到那些问题 创造了现实
+
+815
+00:47:07,860 --> 00:47:09,860
+We'll talk about it already next time.
+我们下次会讲到
+
+816
+00:47:09,860 --> 00:47:12,870
+The importance of the questions you ask of yourselves first and foremost,
+那些你首先向你自己
+
+817
+00:47:12,870 --> 00:47:15,440
+of your partner, of your students,
+然后向你的搭档 学生
+
+818
+00:47:15,440 --> 00:47:18,350
+of your parents, of your employees in the future,
+搭档 未来的雇员
+
+819
+00:47:18,350 --> 00:47:20,400
+teammates and so on.
+和同事提出的问题的重要性
+
+820
+00:47:20,400 --> 00:47:22,360
+Questions make a difference.
+问题十分重要
+
+821
+00:47:23,630 --> 00:47:26,970
+Peter Drucker, "The most common source of mistakes in management decisions
+Peter Drucker说"在管理决策中最常见的
+
+822
+00:47:26,970 --> 00:47:31,140
+is the emphasis on finding the right answer rather than the right question."
+错误来源是强调找到正确答案而非正确的问题"
+
+823
+00:47:31,140 --> 00:47:36,680
+Peter Drucker, considered the most important management scholar of 20th century,
+Peter Drucker是20世纪最重要的管理学学者
+
+824
+00:47:36,680 --> 00:47:38,670
+just recently passed away,
+最近刚刚去世
+
+825
+00:47:39,240 --> 00:47:42,980
+saying the biggest mistake is not asking the right questions.
+说最大的错误是没有问正确的问题
+
+826
+00:47:42,980 --> 00:47:43,880
+As we'll see next time,
+我们下次会看到
+
+827
+00:47:43,880 --> 00:47:46,990
+this is the biggest mistake in research potentially.
+这也是在研究中潜在的最大的错误
+
+828
+00:47:46,990 --> 00:47:49,300
+This is the biggest mistake in application.
+这也是在应用中最大的错误
+
+829
+00:47:50,070 --> 00:47:53,210
+Not asking the right questions as well,
+没有问正确的问题
+
+830
+00:47:54,990 --> 00:47:56,780
+whether it's in managing organizations,
+不论是在管理组织
+
+831
+00:47:56,780 --> 00:48:00,180
+whether it's managing our lives.
+还是在管理我们的生活
+
+832
+00:48:03,240 --> 00:48:04,120
+Now.
+现在
+
+833
+00:48:04,710 --> 00:48:08,110
+When I said that questions are important and answers matter less,
+当我说问题重要而答案没那么重要时
+
+834
+00:48:08,140 --> 00:48:10,220
+I am not coming from a point of relativism.
+我不是从相对论的观点来说的
+
+835
+00:48:10,230 --> 00:48:11,240
+I'm not a relativist.
+我不是相对论者
+
+836
+00:48:11,240 --> 00:48:12,530
+I think they are ...
+我认为他们...
+
+837
+00:48:12,530 --> 00:48:16,070
+To some questions definitive answers that are important to know.
+对于某些问题 知道决定性的答案很重要
+
+838
+00:48:16,070 --> 00:48:18,290
+However, what I'm saying is that it's important,
+但是 我所说的是当提到教育时
+
+839
+00:48:18,300 --> 00:48:22,230
+not less important to focus on questions when it comes to education.
+关注问题很重要 而不是较不重要
+
+840
+00:48:22,530 --> 00:48:25,040
+The educator, Neil Postman once said,
+教育家Neil Postman曾经说过
+
+841
+00:48:25,040 --> 00:48:30,580
+"The kids enter schools as question marks and they leave as periods."
+"孩子进校时像问号而毕业时像句号"
+
+842
+00:48:31,670 --> 00:48:36,550
+My hope in this class is to bring up many more question marks than periods.
+我的希望是本课程培养的问号要比句号多
+
+843
+00:48:38,010 --> 00:48:42,760
+Once again, it's about chipping away the excess stone because as kids,
+再一次 这是关于凿掉多余的石头
+
+844
+00:48:42,760 --> 00:48:44,010
+we are always asking questions.
+因为作为孩子 我们永远都在问问题
+
+845
+00:48:44,010 --> 00:48:45,400
+We are always curious.
+我们永远都很好奇
+
+846
+00:48:45,400 --> 00:48:51,120
+Let me show you a quick excerpt from a video of one of my favorite psychologists,
+我来放一段我最喜爱的心理学家之一的录影
+
+847
+00:48:51,430 --> 00:48:55,290
+actually the commedian, Seinfeld.
+其实是喜剧演员宋飞
+
+848
+00:48:55,290 --> 00:48:57,440
+Here he is talking about...
+他要讲的是...
+
+849
+00:48:57,440 --> 00:49:01,410
+We will watch a lot of excerpts throughout the semester.
+我们这个学期会看很多录影
+
+850
+00:49:01,410 --> 00:49:05,670
+Talking about what we were like as kids.
+如果像孩子一样我们会是怎样
+
+851
+00:49:09,380 --> 00:49:10,780
+See is this in your way
+看看你们看得见不
+
+852
+00:49:14,700 --> 00:49:17,960
+"So, the first couple of years I made my own costumes which of course sucked:
+"于是前两年 我自己做服装 当然不怎么样
+
+853
+00:49:17,960 --> 00:49:20,050
+the ghost, the hobo...
+鬼啊 流浪汉啊...
+
+854
+00:49:21,910 --> 00:49:24,460
+Then, finally, the third year, begging the parents,
+第三年我终于求了爸妈
+
+855
+00:49:24,460 --> 00:49:26,170
+I got the Superman Halloween costume.
+我得到了超人的万圣节服装
+
+856
+00:49:26,170 --> 00:49:27,710
+Not surprisingly.
+并不奇怪
+
+857
+00:49:29,810 --> 00:49:32,360
+Cardboard box, self-made top, mask included.
+纸盒箱 自己做的上衣 还有面具
+
+858
+00:49:33,310 --> 00:49:34,810
+Remember the rubber band on the back of that mask?
+还记得面具后面的橡皮筋不?
+
+859
+00:49:34,810 --> 00:49:36,660
+That was a quality item there, wasn't it?
+那可是个质量不错的玩意 不是吗?
+
+860
+00:49:37,810 --> 00:49:39,110
+That was good for about 10 seconds
+它可以坚持用10秒钟
+
+861
+00:49:39,110 --> 00:49:42,180
+before it snapped out of that cheap little staple they put it in there with.
+之后就会从那个廉价订书钉里掉出来
+
+862
+00:49:43,840 --> 00:49:44,840
+You go to your first house:
+你去了第一个人家
+
+863
+00:49:44,840 --> 00:49:46,020
+"Trick or..." Snap!" It broke.
+"不给糖就..."啪嗒 橡皮筋断了
+
+864
+00:49:46,020 --> 00:49:47,430
+I don't believe it!"
+简直不敢相信!
+
+865
+00:49:48,490 --> 00:49:50,590
+"Wait up you guys! I gotta fix it!
+"你们等我一下! 我能修好它!
+
+866
+00:49:52,090 --> 00:49:55,770
+Hey wait up! Wait up!"
+等我一下! 等我一下!"
+
+867
+00:49:56,910 --> 00:49:58,930
+Kids don't say "wait".
+孩子们不说"等"
+
+868
+00:49:58,930 --> 00:50:01,840
+They say "wait up! Hey wait up!"
+他们说"等我一下! 等我一下!"
+
+869
+00:50:02,930 --> 00:50:04,820
+Coz when you are little your life is up.
+因为当你还小的时候 你的生活都在上面
+
+870
+00:50:04,820 --> 00:50:07,180
+Your future is up. Everything you want is up.
+你的未来在上面 你所要的一切都在上面
+
+871
+00:50:07,180 --> 00:50:09,530
+"Wait up! Hold up! Shut up!
+"等一下! 举起来! 闭嘴!"
+
+872
+00:50:09,530 --> 00:50:12,980
+Momma, clean up! Let me stay up!"
+"妈妈 打扫一下! 让我晚点睡吧!"
+
+873
+00:50:14,510 --> 00:50:16,410
+Parents of course are just the opposite. Everything is down.
+父母当然刚好相反 一切都在下面
+
+874
+00:50:16,410 --> 00:50:19,990
+"Just calm down! Slow down!
+"冷静! 慢一点!
+
+875
+00:50:20,400 --> 00:50:23,070
+Calm down here! Sit down. Put that down!"
+给我冷静! 坐下 把那个放下!"
+
+876
+00:50:37,360 --> 00:50:38,700
+So again this curiosity,
+所以孩子们的这种好奇
+
+877
+00:50:38,700 --> 00:50:39,500
+this looking up,
+这种寻找
+
+878
+00:50:39,500 --> 00:50:43,260
+this opening up is opposed to closing down that kids have.
+这种开放的心态是与封闭相反的
+
+879
+00:50:43,690 --> 00:50:48,050
+This notion. This is what I hope will happen in this class.
+我希望在本课程中会产生这种观念
+
+880
+00:50:48,160 --> 00:50:50,210
+The one real objective of education
+教育的真正目的
+
+881
+00:50:50,890 --> 00:50:54,870
+is to leave a man in the condition of continually asking questions.
+是让一个人可以连续发问
+
+882
+00:50:55,860 --> 00:50:59,720
+So here is a longitudinal study that was done by John Carter.
+所以下面讲讲John Carter所作的纵向研究
+
+883
+00:50:59,720 --> 00:51:04,910
+John Carter, professor of leadership management of the business school across the river,
+John Carter 河对面的商学院的领导管理学教授
+
+884
+00:51:05,740 --> 00:51:08,190
+came to Harvard in 1972,
+1972年来到哈佛
+
+885
+00:51:08,190 --> 00:51:13,050
+joined the faculty and started to follow Harvard class,
+做了老师并开始关注哈佛的课程
+
+886
+00:51:13,050 --> 00:51:17,040
+MBA class of 1973 and followed them through 20 years.
+从1973年起一直关注了20年MBA课程
+
+887
+00:51:17,380 --> 00:51:22,770
+And what he was interested in was to find all the information he could about this class.
+他想尽可能收集所有关于这门课的信息
+
+888
+00:51:23,610 --> 00:51:25,830
+What he found 20 years later,
+20年后 90年代初当这个研究结束时
+
+889
+00:51:25,830 --> 00:51:30,990
+early 90s when this study ended was these students were extremely successful,
+他发现这些学生都极其成功
+
+890
+00:51:30,990 --> 00:51:33,340
+Or ex-students were extremely successful, students were extremely successful,
+以前的学生都极其成功 学生们都极其成功
+
+891
+00:51:33,340 --> 00:51:35,980
+very wealthy, having a lot of impact,
+非常有钱 有很大的影响力
+
+892
+00:51:35,980 --> 00:51:38,530
+whether it's on the organizations, on the community.
+不论是在组织上 还是社会上
+
+893
+00:51:38,950 --> 00:51:40,370
+They did extremely well.
+他们都做得极其好
+
+894
+00:51:40,370 --> 00:51:46,520
+But within the large group of highly successful Harvard MBAs,
+但是在这群极其成功的哈佛MBA里
+
+895
+00:51:47,450 --> 00:51:54,770
+he found a small group that was extraordinarily successful,
+他发现有一小部分人是格外成功的
+
+896
+00:51:54,770 --> 00:51:57,630
+more successful than the rest of group,
+比其它人要更成功
+
+897
+00:51:57,630 --> 00:51:59,260
+whether in terms of income,
+无论是在收入上
+
+898
+00:51:59,260 --> 00:52:00,980
+whether in terms of impact,
+还是在影响力上
+
+899
+00:52:00,980 --> 00:52:05,340
+whether in terms of overall quality of life.
+抑或是在总体生活质量上
+
+900
+00:52:05,340 --> 00:52:07,500
+Extraordinarily successful.
+格外的成功
+
+901
+00:52:08,280 --> 00:52:11,820
+What he wanted to identify was why--
+他想弄明白其中的原因
+
+902
+00:52:11,830 --> 00:52:15,510
+what distinguishes this small group from the rest of the pack:
+这一小部分人和其他人有何区别
+
+903
+00:52:15,510 --> 00:52:21,710
+very successful, but not quite as successful as that small group.
+其他人也非常成功 但没有那一小组人那么成功
+
+904
+00:52:23,520 --> 00:52:26,340
+And he found only two things.
+他只找出了两件事
+
+905
+00:52:26,340 --> 00:52:33,750
+It was not their IQs that made no difference whatsoever to their long-term success.
+不是他们的智商对他们长期成功的因素没有影响
+
+906
+00:52:34,110 --> 00:52:37,230
+It was not where they came from, pre-MBA,
+不是他们在念MBA之前的出身
+
+907
+00:52:37,230 --> 00:52:39,950
+what they did had nothing to do with it.
+他们做的事和这一点关系都没有
+
+908
+00:52:41,210 --> 00:52:45,190
+Two and two things along mattered in terms of determining
+只有两件事会决定谁会成为格外成功的人
+
+909
+00:52:45,190 --> 00:52:49,370
+who will be the extraordinarily successful and the rest:
+和其余的人上有关系
+
+910
+00:52:49,370 --> 00:52:55,120
+the first thing was the extraordinarily successful groups really believe in themselves.
+第一是那部分人真的相信自己
+
+911
+00:52:55,580 --> 00:52:56,890
+They thought they could do well.
+他们认为自己能做好
+
+912
+00:52:56,890 --> 00:52:57,590
+They were driven.
+他们有目的
+
+913
+00:52:57,590 --> 00:52:59,280
+They were motivated.
+他们有动力
+
+914
+00:53:00,060 --> 00:53:04,830
+And we'll talk about it in future lecture as belief in self-fulfilling prophecies.
+我们会在下一次课讲到自我实现的预言
+
+915
+00:53:05,340 --> 00:53:06,770
+They thought "I'm going to make it.
+他们认为"我会做到
+
+916
+00:53:06,770 --> 00:53:08,410
+I'm going to succeed."
+我会成功"
+
+917
+00:53:08,880 --> 00:53:10,010
+That's the first thing.
+这是第一件事
+
+918
+00:53:10,010 --> 00:53:11,920
+The sense of the confidence.
+自信
+
+919
+00:53:12,520 --> 00:53:16,150
+The second thing that he found was this group,
+他发现的第二件事是 这部分人
+
+920
+00:53:18,300 --> 00:53:21,690
+they were always asking questions,
+一直在问问题
+
+921
+00:53:21,690 --> 00:53:22,900
+--always asking questions,
+一直问问题
+
+922
+00:53:22,900 --> 00:53:24,020
+initially of their boss,
+最初是问他们的老板
+
+923
+00:53:24,020 --> 00:53:25,690
+later of their employees,
+后来是问他们的雇员
+
+924
+00:53:25,690 --> 00:53:29,040
+of their partners, children, parents, friends.
+他们的搭档 孩子 父母 朋友
+
+925
+00:53:29,040 --> 00:53:30,880
+They were always asking question.
+他们一直在问问题
+
+926
+00:53:30,880 --> 00:53:33,470
+They were always at the state of curiosity.
+他们一直处于好奇的状态
+
+927
+00:53:33,470 --> 00:53:35,290
+Always looking up, opening up,
+一直在寻找 有开放的心态
+
+928
+00:53:35,290 --> 00:53:36,740
+wanting to understand the world the more.
+想要更加了解世界
+
+929
+00:53:36,740 --> 00:53:38,470
+They didn't say "Now I have my MBA.
+他们没有说"我现在有了MBA学位
+
+930
+00:53:39,700 --> 00:53:41,340
+That's it. I know enough.
+就行了 我知道的够多了"
+
+931
+00:53:41,660 --> 00:53:43,330
+" They were life-long learners.
+他们是终身学习者
+
+932
+00:53:43,330 --> 00:53:45,920
+They were always asking questions.
+他们一直在问问题
+
+933
+00:53:45,920 --> 00:53:48,170
+These two distinguishing characteristics
+这两个区别性的特质
+
+934
+00:53:49,410 --> 00:53:55,230
+account for the difference between the extraordinarily successful and those who were successful.
+导致了格外成功和成功的人之间的差别
+
+935
+00:53:58,610 --> 00:54:02,160
+The question that has guided me whether it's in writing the book,
+那个指引了我的问题 不论是写书
+
+936
+00:54:02,160 --> 00:54:03,660
+whether it's in creating this class,
+还是开设这门课程
+
+937
+00:54:03,660 --> 00:54:07,960
+whether it's first and foremost my personal life is what I call "the question of the question",
+还是被我所称的"问题的问题"
+
+938
+00:54:07,970 --> 00:54:11,400
+which is "how can we help ourselves and others,
+就是"我们如何能帮助自己和他人
+
+939
+00:54:11,400 --> 00:54:15,430
+individuals, communities and society become happier?"
+个人 群体和社会变得更幸福?"
+
+940
+00:54:18,500 --> 00:54:23,610
+Note that it is not about helping ourselves and others become happy.
+注意这不是关于帮助我们自己和他人变得幸福
+
+941
+00:54:23,610 --> 00:54:25,140
+It is about becoming happier.
+而是关于变得更幸福
+
+942
+00:54:25,890 --> 00:54:27,820
+Why? Because many people ask me,
+为什么? 因为很多人问我
+
+943
+00:54:27,820 --> 00:54:30,020
+"So Tal, are you happy?"
+"那么Tal 你幸福吗?"
+
+944
+00:54:30,570 --> 00:54:32,250
+And I can't really answer that question.
+我真的不能回答那个问题
+
+945
+00:54:32,250 --> 00:54:33,820
+I don't know what it means.
+我不知道那是什么意思
+
+946
+00:54:34,610 --> 00:54:37,870
+How do I determine whether or not I am happy?
+我如何判断自己是否幸福?
+
+947
+00:54:37,870 --> 00:54:40,080
+Is it compared to someone else?
+是和别人比较?
+
+948
+00:54:40,080 --> 00:54:43,700
+Is there a certain point beyond which I become happy?
+是不是存在一个点 超过之后就变幸福了?
+
+949
+00:54:43,710 --> 00:54:46,880
+Happiness is not a binary either-or, zero-one--
+幸福不是二进制的非此即彼 0或1
+
+950
+00:54:46,880 --> 00:54:49,010
+either I'm happy or I'm unhappy.
+要么幸福要么不幸福
+
+951
+00:54:49,330 --> 00:54:51,910
+Happiness resides on a continuum.
+幸福存在于一个连续统一体
+
+952
+00:54:54,040 --> 00:54:55,920
+So my answer to this question-- "am I happy?"
+所以我对这个问题的回答-- "我幸福吗?"
+
+953
+00:54:55,920 --> 00:55:02,530
+is today I'm happier than I was 15 years ago when I started focusing on this pursuit.
+我今天是否比我15年前刚开始关注幸福时更幸福
+
+954
+00:55:02,970 --> 00:55:06,590
+15 years from now I certainly hope to be happier than I am today.
+15年后我当然希望自己能比今天幸福
+
+955
+00:55:07,370 --> 00:55:09,550
+Happiness is lifelong pursuit.
+幸福是终身的追求
+
+956
+00:55:09,920 --> 00:55:12,590
+Hopefully this class is part of that pursuit,
+希望本课程是这种追求的一部分
+
+957
+00:55:12,590 --> 00:55:13,660
+but just part.
+但只是一部分
+
+958
+00:55:13,660 --> 00:55:15,480
+You'll not be happy at the end of class.
+你们不会在课结束时幸福
+
+959
+00:55:15,480 --> 00:55:16,990
+Hopefully you'll be happier.
+希望你们能比现在幸福
+
+960
+00:55:16,990 --> 00:55:22,350
+Cos many people sit here during the lectures on self-esteem, for example,
+因为很多人坐在这听有关自尊的讲座时 比如
+
+961
+00:55:22,880 --> 00:55:24,610
+or when we talk explicitly about happiness,
+或者当我们明确地讨论幸福时
+
+962
+00:55:24,610 --> 00:55:26,880
+they say, "Wait. Do I have self-esteem?"--
+他们说 "等等 我的自尊心强吗?"
+
+963
+00:55:26,880 --> 00:55:27,710
+Thinking to themselves.
+他们自己想到
+
+964
+00:55:27,710 --> 00:55:30,850
+"Do I have high self-esteem or low self-esteem?" Irrelevant.
+"我的自尊是较强的还是较弱的?"
+
+965
+00:55:31,350 --> 00:55:34,120
+Impossible to answer also.
+这也是没有意义 无法回答的
+
+966
+00:55:35,140 --> 00:55:38,300
+The question is "how can I improve my self-esteem,
+问题是"我如何能提高我的自尊
+
+967
+00:55:38,300 --> 00:55:39,800
+my healthy self-esteem,
+我健康的自尊
+
+968
+00:55:39,800 --> 00:55:41,480
+not narcissism of course?
+而当然不是自恋?
+
+969
+00:55:41,480 --> 00:55:44,240
+How can I become happier?"
+我怎样才能变得幸福?"
+
+970
+00:55:44,240 --> 00:55:46,050
+That's an important question.
+那是一个重要的问题
+
+971
+00:55:46,690 --> 00:55:48,980
+And this is the question of questions.
+这是问题的问题
+
+972
+00:55:51,450 --> 00:55:55,030
+This class is not a survey of positive psychology.
+本课程不是一个积极心理学的概论
+
+973
+00:55:55,580 --> 00:55:57,530
+If you want a survey on positive psychology,
+如果你想要关于积极心理学的概论
+
+974
+00:55:57,530 --> 00:56:00,380
+I can recommend some excellent textbooks
+我可以推荐一些很不错的课本
+
+975
+00:56:01,320 --> 00:56:04,970
+whether it's by Lopez (Shane J. Lopez) or by Peterson (Chris Peterson).
+Lopez或是Peterson的书
+
+976
+00:56:04,970 --> 00:56:07,900
+Great textbooks. There is also The Handbook of Positive Psychology
+很不错的课本 还有一本积极心理学手册
+
+977
+00:56:07,900 --> 00:56:12,540
+which is a huge book with most what you want to know about this field.
+一本很厚的书 里面有这个领域里大多数你想知道的内容
+
+978
+00:56:12,540 --> 00:56:14,380
+You can also use it in self-defense.
+你也可以用它自卫
+
+979
+00:56:14,380 --> 00:56:16,530
+Very useful in that respect.
+自卫非常管用
+
+980
+00:56:17,110 --> 00:56:18,700
+But a wonderful book, very well-written,
+但是本很棒的书 写得非常好
+
+981
+00:56:18,700 --> 00:56:21,270
+very accessible in the spirit of positive psychology.
+让人很容易理解积极心理学
+
+982
+00:56:21,270 --> 00:56:22,640
+But this is not that.
+但这里讲的不是那些
+
+983
+00:56:22,640 --> 00:56:24,680
+This is not a survey of positive psychology.
+不是积极心理学概论
+
+984
+00:56:24,680 --> 00:56:29,540
+What it is is a selective exploration of the question of the questions.
+而是对"问题中的问题"的选择性探索
+
+985
+00:56:32,210 --> 00:56:34,500
+In that way, it is eclectic.
+从那个角度讲 它是折衷的
+
+986
+00:56:35,210 --> 00:56:38,670
+My background is in psychology and philosophy.
+我的背景是心理学和哲学
+
+987
+00:56:38,670 --> 00:56:40,150
+I studies organizational behavior.
+我学了组织行为学
+
+988
+00:56:40,150 --> 00:56:43,900
+I worked as a consultant in business for a few years.
+我做过几年商业顾问
+
+989
+00:56:43,900 --> 00:56:45,250
+Still do some work there.
+仍然还做一些这方面的工作
+
+990
+00:56:45,250 --> 00:56:46,760
+I worked in the field of education,
+我在教育领域工作过
+
+991
+00:56:46,760 --> 00:56:49,030
+doing a lot of work in field of education.
+在教育领域内做过很多工作
+
+992
+00:56:49,030 --> 00:56:50,820
+And I take from all these areas.
+我从所有这些领域中吸取内容
+
+993
+00:56:50,820 --> 00:56:53,520
+I also draw on not just from positive psychology.
+我还不只是从积极心理学中吸取内容
+
+994
+00:56:53,520 --> 00:56:55,900
+I draw on clinical psychology in this class.
+我把临床心理学的内容融入这个课程中
+
+995
+00:56:55,900 --> 00:56:58,390
+I draw on cognitive psychology,
+我融入了认知心理学
+
+996
+00:56:58,700 --> 00:57:01,430
+social psychology and so on.
+社会心理学等等内容
+
+997
+00:57:01,430 --> 00:57:02,480
+It's an eclectic class.
+这是一个折衷的课程
+
+998
+00:57:02,480 --> 00:57:03,360
+Because my question,
+因为我的问题
+
+999
+00:57:03,360 --> 00:57:05,980
+my guiding question was "what would contribute to happiness?"
+我的引导性问题是"什么会对幸福有贡献?"
+
+1000
+00:57:05,980 --> 00:57:10,380
+And if something within psychopathology I thought could contribute to our wellbeing,
+如果我认为精神病理学的内容
+
+1001
+00:57:10,650 --> 00:57:11,890
+I took that and used that.
+能对我们的幸福有贡献 我会吸取并利用之
+
+1002
+00:57:11,890 --> 00:57:16,150
+And if something from the field of consulting in organizational behavior could contribute,
+而如果一些有关组织行为学的咨询领域的东西有用
+
+1003
+00:57:16,150 --> 00:57:17,980
+that became part of the class,
+那也会成为本课程的一部分
+
+1004
+00:57:18,670 --> 00:57:21,970
+as much as I could fit in of course in one semester.
+只要能在一个学期内讲完
+
+1005
+00:57:21,970 --> 00:57:23,530
+So the class is eclectic.
+所以本课程是折衷的
+
+1006
+00:57:24,480 --> 00:57:27,320
+The class is not cross-cultural.
+本课程不是跨文化交流
+
+1007
+00:57:27,320 --> 00:57:31,310
+I will bring in ideas from eastern thoughts.
+我会引进一些东方思想的观点
+
+1008
+00:57:31,950 --> 00:57:33,770
+I lived in Asia for a few years.
+我在亚洲住过几年
+
+1009
+00:57:33,770 --> 00:57:35,050
+I worked there.
+我在那工作
+
+1010
+00:57:35,050 --> 00:57:39,690
+Studied and continue to study the eastern philosophies and psychologies.
+持续研究东方哲学和心理学
+
+1011
+00:57:39,690 --> 00:57:42,400
+But my train primarily is in western psychology.
+但我的专业主要是在西方心理学上
+
+1012
+00:57:42,400 --> 00:57:44,790
+And the focus of the class will be that.
+而课程的重点将会是西方心理学
+
+1013
+00:57:45,640 --> 00:57:47,350
+However that doesn't mean
+但是那并不意味着
+
+1014
+00:57:47,350 --> 00:57:54,210
+that positive psychology doesn't apply to people from different places in the world.
+积极心理学不适用于世界上其他地方的人
+
+1015
+00:57:54,390 --> 00:58:00,350
+There was recently a meeting between senior scientists,
+最近有一场高资历科学家之间的会议
+
+1016
+00:58:00,350 --> 00:58:02,350
+psychologists from the west,
+来自西方的心理学家
+
+1017
+00:58:02,350 --> 00:58:04,920
+people like Paul Ekman, Richard Davidson-
+像Paul Ekman和Richard Davidson
+
+1018
+00:58:04,920 --> 00:58:08,100
+some of the most important minds in the field of psychology
+这些在心理学领域内最重要的人物
+
+1019
+00:58:08,100 --> 00:58:11,940
+meeting with the Dalai Lama and some of his monks.
+和达赖喇嘛还有他的一些僧侣进行会谈
+
+1020
+00:58:13,560 --> 00:58:16,020
+They were talking about the future of psychology, about the research,
+他们谈论了心理学的未来 研究
+
+1021
+00:58:16,020 --> 00:58:19,770
+and how can you research meditation and so on.
+还有如何研究冥想等等
+
+1022
+00:58:20,320 --> 00:58:24,150
+And one of the things they were talking a lot about is the cross-cultural differences.
+而他们谈论较多的话题之一就是文化差异
+
+1023
+00:58:25,440 --> 00:58:26,330
+And when that came up,
+当提到这个问题时
+
+1024
+00:58:26,330 --> 00:58:30,280
+the Dalai Lama suddenly seemed uneasy.
+达赖喇嘛突然好像很不舒服
+
+1025
+00:58:30,820 --> 00:58:34,820
+And when Daniel Goleman who was writting about this whole event
+当记录整个会议的Daniel Goleman
+
+1026
+00:58:34,820 --> 00:58:38,270
+and it was held in India asked him what's wrong,
+会议是在印度开的 问他怎么了
+
+1027
+00:58:38,270 --> 00:58:44,590
+Dalai Lama said that he was not comfortable with talking and emphasizing so much cultural differences.
+他说他不是因为谈到并强调文化差异而不舒服
+
+1028
+00:58:44,590 --> 00:58:46,790
+You can say many things about Dalai Lama.
+对达赖喇嘛你可以有很多评价
+
+1029
+00:58:46,790 --> 00:58:51,230
+One thing you cannot say about him is that he's culturally insensitive,
+但你不能说他在文化方面不敏感
+
+1030
+00:58:51,700 --> 00:58:55,720
+arguably one of the most sensitive people alive.
+他可以说是还在世的最敏感的人之一
+
+1031
+00:58:55,720 --> 00:58:59,560
+And yet he said  we are focusing too much on cultural differences
+然而他说 我们对文化差异的关注太多了
+
+1032
+00:58:59,560 --> 00:59:02,120
+and he added not because there are no cultural differences.
+他补充道不是因为没有文化差异
+
+1033
+00:59:02,120 --> 00:59:04,370
+Of course there are and they are important.
+当然有而且很重要
+
+1034
+00:59:04,370 --> 00:59:08,340
+But there are many more similarities than differences.
+但文化共同性要比差异多
+
+1035
+00:59:08,340 --> 00:59:10,710
+And we shouldn't ignore those similarities.
+而我们不应该无视这些共同性
+
+1036
+00:59:11,640 --> 00:59:13,940
+Daniel Goleman about the Dalai Lama,
+Daniel Goleman如此评价达赖喇嘛
+
+1037
+00:59:13,940 --> 00:59:17,670
+"We were a little bit surprised by the Dalai Lama's seeming resistance
+"我们有点惊讶于达赖喇嘛这种表面上的
+
+1038
+00:59:17,670 --> 00:59:20,580
+to the notion of cultural differences.
+对文化差异概念的抵触"
+
+1039
+00:59:20,750 --> 00:59:23,470
+So I am willing to introduce these ideas but A,
+所以我想介绍这些观点 但是首先
+
+1040
+00:59:23,470 --> 00:59:25,860
+because it's not my training and people
+因为这不是我的专业
+
+1041
+00:59:25,900 --> 00:59:28,770
+who are focusing on cultural differences will do a much better job than I do;
+研究文化差异的人会比我做得更好
+
+1042
+00:59:28,770 --> 00:59:32,730
+and second, because what I hope to look into is the universal,
+其次 因为我所希望研究的是普遍事物
+
+1043
+00:59:32,730 --> 00:59:35,180
+things are common across cultures.
+不同文化中普遍的东西
+
+1044
+00:59:38,210 --> 00:59:41,160
+So we'll study research in this area.
+所以我们会在这方面进行研究
+
+1045
+00:59:41,160 --> 00:59:42,110
+But even more than that,
+但不只是这样
+
+1046
+00:59:42,110 --> 00:59:51,130
+we'll become even more particular than just talking about psychology in this part of the world.
+我们的讨论比这部分心理学更具体
+
+1047
+00:59:51,130 --> 00:59:54,090
+We'll study yourselves.
+我们将会研究你们自己
+
+1048
+00:59:55,610 --> 00:59:56,770
+We are going to go that particular.
+我们会如此具体
+
+1049
+00:59:56,770 --> 01:00:00,960
+Now why? When I put this class together,
+为什么? 当我开这门课程时
+
+1050
+01:00:00,960 --> 01:00:01,950
+I didn't think to myself,
+我自己没想过
+
+1051
+01:00:01,950 --> 01:00:05,310
+"Ok, so what are the things that I need to introduce
+"好的 我需要介绍些什么东西
+
+1052
+01:00:05,310 --> 01:00:11,610
+in order to please the participants in the class, the students?"
+以便能取悦课程的参与者 这些学生呢?"
+
+1053
+01:00:11,610 --> 01:00:12,840
+That's not what I thought.
+那不是我所想的
+
+1054
+01:00:12,840 --> 01:00:18,710
+What I thought about was "what was the class that I would have wanted to take as an undergraduate here?
+我所想的是"如果我是个本科生 会想上什么课?
+
+1055
+01:00:18,710 --> 01:00:22,190
+What would help me become happier if I were sitting there?"
+如果我坐在这 什么能让我更幸福?"
+
+1056
+01:00:22,190 --> 01:00:25,800
+In other words, thinking from my perspective from very personal perspective.
+换言之 从我的观点 从非常个人的观点出发
+
+1057
+01:00:25,800 --> 01:00:28,520
+In this class I am going to encourage you.
+在我们的课上 我会鼓励你们
+
+1058
+01:00:28,520 --> 01:00:31,820
+Of course you'll look at research and read research about other people,
+当然你们可以看和阅读关于别人的研究
+
+1059
+01:00:31,820 --> 01:00:33,300
+about large sample sizes.
+有大量的样本
+
+1060
+01:00:33,300 --> 01:00:37,750
+But I'm going to encourage you more than anything to look inside yourselves.
+但最主要的 我会鼓励你们去看自己的内心
+
+1061
+01:00:37,750 --> 01:00:38,760
+To study yourselves.
+去研究自己
+
+1062
+01:00:38,760 --> 01:00:44,100
+Whether it's through response papers that will be due weekly starting in 2 weeks;
+无论是通过两周后开始的每周一次的课后论文
+
+1063
+01:00:44,100 --> 01:00:49,740
+whether it's in your final project that will be a presentation
+还是你们最后的演示作业 你们不用做演示
+
+1064
+01:00:49,740 --> 01:00:51,990
+that you won't have to give but you'll have to write out--
+但要写出来 一个关于你最感兴趣的话题
+
+1065
+01:00:52,700 --> 01:01:00,600
+a presentation about your favorite topic or the topic that matters most to you;
+或者对你来说最重要的话题的演示
+
+1066
+01:01:01,740 --> 01:01:07,670
+whether it's in sections that you'll be talking about how can I apply these ideas to my life.
+还是关于如何能把这些观点应用于我的生活
+
+1067
+01:01:07,670 --> 01:01:11,780
+The time-ins are about thinking about how can I take in the ideas and use them.
+"练习时间"是关于如何接受和利用一些观点
+
+1068
+01:01:11,780 --> 01:01:13,590
+It's about studying ourselves.
+是关于研究我们自己
+
+1069
+01:01:13,590 --> 01:01:15,080
+Because as Carl Rogers says,
+因为正如Carl Rogers所说
+
+1070
+01:01:15,330 --> 01:01:18,890
+"What is most personal is most general."
+"越是个人的东西越普遍"
+
+1071
+01:01:19,420 --> 01:01:21,840
+"What is most personal is most general."
+"越是个人的东西越普遍"
+
+1072
+01:01:21,840 --> 01:01:23,460
+And as Maslow adds,
+正如Maslow所补充
+
+1073
+01:01:23,460 --> 01:01:26,560
+"We must remember that knowledge of one's own deep nature
+"我们必须记住对一个人深层本性的认识
+
+1074
+01:01:26,560 --> 01:01:31,930
+is also simultaneously knowledge of human nature in general."
+同时也是对普遍人类本性的认识"
+
+1075
+01:01:34,720 --> 01:01:36,790
+When we understand ourselves better,
+当我们更了解自己时
+
+1076
+01:01:36,790 --> 01:01:38,660
+when we identify ourselves,
+当我们认识到自己时
+
+1077
+01:01:38,660 --> 01:01:41,530
+we are better able to identify with others.
+我们就更能认识他人
+
+1078
+01:01:41,530 --> 01:01:46,230
+In fact, this is in many ways the source of empathy, of the healthy empathy.
+事实上 从许多方面说这是有益移情的来源
+
+1079
+01:01:47,360 --> 01:01:50,540
+And there are some studies showing that people who know themselves,
+有些研究表明了解自己的人
+
+1080
+01:01:50,670 --> 01:01:53,820
+who study themselves, who are self-reflective,
+研究自己的人 反思自己的人
+
+1081
+01:01:54,470 --> 01:01:56,760
+display less egregious behavior,
+对别人做出过分的行为
+
+1082
+01:01:56,760 --> 01:01:59,380
+less immoral behavior toward others.
+不道德的行为会相对较少
+
+1083
+01:02:00,770 --> 01:02:03,560
+Behavior that would fall under say, racism.
+那种比如说种族歧视的行为
+
+1084
+01:02:04,120 --> 01:02:05,940
+And it's counter-intuitive to some extent.
+在一定程度上这是反直觉的
+
+1085
+01:02:05,940 --> 01:02:07,950
+"Wait. Don't you first need to study the other
+"等等 你难道不要首先研究别人
+
+1086
+01:02:07,950 --> 01:02:09,660
+so that you can be more sensitive to others?"
+才能对别人更敏感吗?"
+
+1087
+01:02:09,660 --> 01:02:11,860
+Yes, that too.
+是的 那也需要
+
+1088
+01:02:12,240 --> 01:02:13,520
+But it's not enough.
+不过还不够
+
+1089
+01:02:13,530 --> 01:02:15,170
+It is important to also study ourselves,
+研究我们自己也很重要
+
+1090
+01:02:15,170 --> 01:02:17,340
+because when we see our deep nature,
+因为当我们看到自己的深层本性时
+
+1091
+01:02:18,090 --> 01:02:23,840
+what we encounter there is part of the universal nature,
+我们看到的是部分普遍的本性
+
+1092
+01:02:23,840 --> 01:02:26,010
+the similarities among us all,
+我们所有人之间的共性
+
+1093
+01:02:26,030 --> 01:02:27,420
+regardless of where we are from.
+不管我们来自哪里
+
+1094
+01:02:27,420 --> 01:02:30,020
+And this was what Dalai Lama was talking about:
+而这就是达赖喇嘛所说的
+
+1095
+01:02:30,160 --> 01:02:31,910
+not stop cross-cultural.
+不是阻止跨文化研究
+
+1096
+01:02:32,490 --> 01:02:33,700
+Do it. Important.
+去做吧 很重要
+
+1097
+01:02:33,710 --> 01:02:37,180
+But at the same time, not ignore the self.
+但同时 不要忽视自己
+
+1098
+01:02:37,190 --> 01:02:40,890
+Not ignore the universal within each one of us.
+不要忽视我们每一个人身上的普遍性
+
+1099
+01:02:41,770 --> 01:02:45,930
+C.S. Lewis, "There is one thing and only one in the whole universe
+C.S. Lewis说 "整个宇宙中有且只有一件
+
+1100
+01:02:45,930 --> 01:02:50,110
+which we know about that we could learn from external observation.
+我们知道我们可以从外部观察中学习到的事
+
+1101
+01:02:50,110 --> 01:02:52,230
+That one thing is ourselves.
+那就是我们自己
+
+1102
+01:02:52,230 --> 01:02:54,830
+We have, so to speak, inside information;
+我们有 可以说是 内在的信息
+
+1103
+01:02:55,040 --> 01:02:56,740
+we are in the know."
+我们是知道的"
+
+1104
+01:03:02,330 --> 01:03:05,720
+Now there are of course biases when we study ourselves
+当我们研究自己时当然会有偏颇
+
+1105
+01:03:05,720 --> 01:03:09,000
+which is why it's not enough to just study the self.
+这就是为什么只研究自己是不够的
+
+1106
+01:03:09,010 --> 01:03:10,980
+It's important to counter it,
+要克服这个问题
+
+1107
+01:03:10,980 --> 01:03:14,750
+to add to it, academic work, studying others.
+把学术工作 研究他人融入进去很重要
+
+1108
+01:03:14,750 --> 01:03:21,740
+That's why we'll do some research or study research as well as do some search--
+那就是为什么我们除了探究我们的内心外
+
+1109
+01:03:21,740 --> 01:03:23,670
+searching inside us.
+也会做一些研究或调查研究
+
+1110
+01:03:24,400 --> 01:03:25,110
+Both are important.
+两者并重
+
+1111
+01:03:25,110 --> 01:03:29,480
+We shouldn't, just because there are biases and mistakes that potentially can be made,
+我们不应该 只是因为会有潜在的偏颇和错误
+
+1112
+01:03:29,480 --> 01:03:32,670
+it doesn't mean we need to throw out the baby with the bath water
+这并不意味着我们要因噎废食
+
+1113
+01:03:34,150 --> 01:03:35,990
+and stop studying ourselves.
+停止探究自己
+
+1114
+01:03:38,200 --> 01:03:43,720
+So we'll do that or rather you'll do that probably more than any other class on campus.
+所以我们会 更准确地说是你们会这样做 比学校里的其他课程做得要多
+
+1115
+01:03:44,750 --> 01:03:46,200
+Finally this may be news to you,
+最后这个可能对你们来说有些新
+
+1116
+01:03:46,200 --> 01:03:49,320
+but this is not English 10A or Math 55,
+但这不是10A号英语课和55号数学课 就是说
+
+1117
+01:03:50,960 --> 01:03:55,550
+meaning you'll not have to read as much as you will read for 10A or for a history class,
+你不用像10A号课或者历史课那样做大量的阅读
+
+1118
+01:03:55,550 --> 01:04:00,750
+and this class is not as difficult as Math 55 so you rest.
+也不像55号数学课一样难 所以你们可以轻松些
+
+1119
+01:04:00,750 --> 01:04:03,360
+I'm sure there are some people here who took the class.
+我相信这有些人上过这门课
+
+1120
+01:04:05,470 --> 01:04:09,680
+This class at the same time is about rigorous fun.
+本课程同时是一种严格的乐趣
+
+1121
+01:04:09,960 --> 01:04:12,480
+Fun...because it's fun to study ourselves.
+乐趣...因为研究我们自己很有意思
+
+1122
+01:04:12,480 --> 01:04:15,760
+Sometimes it hurts and sometimes we see things that we may not like,
+有时会让我们受伤 有时我们看到一些我们不愿意看到的东西
+
+1123
+01:04:15,760 --> 01:04:16,980
+but overall it's fun.
+但总的来说还是有趣的
+
+1124
+01:04:16,980 --> 01:04:18,110
+It's interesting.
+很有意思
+
+1125
+01:04:18,990 --> 01:04:23,000
+And at the same time it's rigorous, based on research.
+同时又是严格的 以研究为基础
+
+1126
+01:04:24,380 --> 01:04:31,590
+Now many of the ideas that you'll encounter in this class are very simple,
+你们将在本课程中遇到的许多观点都很简单
+
+1127
+01:04:32,150 --> 01:04:33,460
+very accessible.
+很容易理解
+
+1128
+01:04:34,180 --> 01:04:35,310
+Common sense.
+常识
+
+1129
+01:04:35,310 --> 01:04:38,440
+However they are simple, not simplistic.
+但它们是简单 不是过分简单化
+
+1130
+01:04:38,440 --> 01:04:41,350
+And here is the difference.
+这两者是有区别的
+
+1131
+01:04:43,500 --> 01:04:44,920
+Oliver Wendell Holmes--
+Oliver Wendell Holmes
+
+1132
+01:04:44,920 --> 01:04:47,040
+this court is attributed to him,
+这个报告厅就是他捐建的
+
+1133
+01:04:47,040 --> 01:04:49,900
+not 100% sure it's his-- said,
+但不能完全确定是他所有的--说过
+
+1134
+01:04:49,900 --> 01:04:53,850
+"I would not give a fig for the simplicity on this side of complexity,
+"我不会认为与复杂性一致的简单性是微不足道的
+
+1135
+01:04:53,850 --> 01:04:58,600
+but I would give my life for the simplicity on the other side of complexity."
+但我会把一生用来研究与复杂性相对的简单性"
+
+1136
+01:04:59,450 --> 01:05:03,710
+What Holmes means here is that he doesn't care about just simplicity,
+Homles这里的意思是他关心的不只是简单性
+
+1137
+01:05:03,710 --> 01:05:07,390
+easy, off-the-cuff, whimsical ideas.
+简单的 随意的 难以预料的想法
+
+1138
+01:05:08,370 --> 01:05:11,890
+What he does care about though is the simplicity that comes after.
+而他所关心的是之后的简单性
+
+1139
+01:05:12,720 --> 01:05:13,900
+We have chewed the idea,
+我们深思了这个观点
+
+1140
+01:05:13,900 --> 01:05:15,180
+after we have digested it,
+在我们吸收了它之后
+
+1141
+01:05:15,180 --> 01:05:16,980
+after we have thought about it.
+在我们考虑过它之后
+
+1142
+01:05:19,460 --> 01:05:21,770
+Ideas that have been worked on.
+那些我们所研究的观点
+
+1143
+01:05:22,310 --> 01:05:27,060
+And if on the other side of complexity we can read simplicity and common sense,
+而如果与复杂性相反 我们能看出简单性和常识
+
+1144
+01:05:27,060 --> 01:05:27,940
+that's great.
+那就很好
+
+1145
+01:05:27,940 --> 01:05:29,070
+That's what he's interested in.
+那是他所感兴趣的
+
+1146
+01:05:29,070 --> 01:05:32,210
+That is also positive psychology researchers
+那也是我们整个学期要讨论的
+
+1147
+01:05:32,210 --> 01:05:35,860
+that we'll discuss throughout the semester are interested in.
+积极心理学研究者所感兴趣的
+
+1148
+01:05:35,860 --> 01:05:38,680
+The simplicity on the other side of complexity.
+与复杂性相对的简单性
+
+1149
+01:05:40,130 --> 01:05:43,520
+And there is a very big difference between these two simplicities,
+这两种简单性之间有很大的区别
+
+1150
+01:05:43,880 --> 01:05:45,840
+even though on the face of it,
+尽管乍看起来
+
+1151
+01:05:45,840 --> 01:05:49,030
+they may at times look similar.
+他们有时也许是相似的
+
+1152
+01:05:51,970 --> 01:05:56,220
+What this class requires is a very different kind of effort.
+本课程需要的是一种非常不同的努力
+
+1153
+01:05:56,220 --> 01:05:58,890
+A very different kind of effort to other class.
+与别的课程非常不同的努力
+
+1154
+01:05:58,890 --> 01:06:05,150
+Again it doesn't require the effort that you'll need in 55 or in English 10A.
+它不需要你像55号课和10A号英语课那样的努力
+
+1155
+01:06:05,810 --> 01:06:09,980
+The kind of effort that it does require is the effort of application,
+它所需要的努力是一种应用的努力
+
+1156
+01:06:10,800 --> 01:06:12,320
+of applying into your life,
+努力把它应用到你的生活里
+
+1157
+01:06:12,320 --> 01:06:16,500
+of introducing behavioral actual change to your life.
+努力把行为的实际改变带入你的生活
+
+1158
+01:06:17,050 --> 01:06:22,250
+And before we go into some of the technicalities of the class such as the syllabus,
+在我们开始讲本课程的一些细节像教学大纲之前
+
+1159
+01:06:23,350 --> 01:06:27,190
+I want to end with a story about Peter Drucker.
+我想先讲一个关于Peter Drucker的故事
+
+1160
+01:06:27,190 --> 01:06:28,990
+Peter Drucker, who I quoted earlier,
+Peter Drucker 我之前引用过他的话
+
+1161
+01:06:28,990 --> 01:06:33,560
+father of study of management in modern times.
+是现代管理学研究之父
+
+1162
+01:06:36,120 --> 01:06:39,470
+Peter Drucker lived to the grand old age of 94,
+Peter Drucker享年94岁
+
+1163
+01:06:39,470 --> 01:06:41,310
+passed away just a couple of years ago.
+是几年前过世的
+
+1164
+01:06:41,310 --> 01:06:44,800
+Toward the end of his life while he was still 100% lucid,
+在他生命的最后当他头脑还百分百清醒时
+
+1165
+01:06:45,040 --> 01:06:49,550
+it was more difficult for him to be mobile and to go into organizations.
+活动和参加组织活动对他来说更加困难了
+
+1166
+01:06:49,550 --> 01:06:53,200
+So what he did was invite people who wanted consulting from him,
+于是他邀请想咨询他问题的人
+
+1167
+01:06:53,200 --> 01:06:55,310
+wanted to learn from him to come to his home.
+想跟他学习的人来他家
+
+1168
+01:06:55,310 --> 01:06:56,810
+And he had Presidents,
+有国家总统
+
+1169
+01:06:56,810 --> 01:06:58,640
+Premier Ministers of countries.
+总理
+
+1170
+01:06:58,640 --> 01:07:05,180
+He had CEOs of Fortune 500 companies coming spend the weekend with him.
+财富500强公司的CEO和他一起过周末
+
+1171
+01:07:05,960 --> 01:07:09,250
+And on Friday, this was how we started with every session,
+而在星期五 每一次聚会都是这样开始的
+
+1172
+01:07:09,250 --> 01:07:12,270
+with every world leader,
+对每一个世界级领袖
+
+1173
+01:07:14,120 --> 01:07:18,490
+whether in business, whether in non-for-profit, whether in politics.
+无论是商界的 非盈利机构的 还是政界的
+
+1174
+01:07:19,330 --> 01:07:20,900
+He would say to them the following,
+他都会对他们说如下的一番话
+
+1175
+01:07:21,440 --> 01:07:30,340
+"on Monday I don't want you to call me up and tell me how wonderful it was,
+"星期一我不想听到你们说这有多美好"
+
+1176
+01:07:31,270 --> 01:07:33,030
+"-- meaning how wonderful the weekend was,
+意思是这个周末有多美好
+
+1177
+01:07:34,290 --> 01:07:37,560
+"on Monday I want you to call me up
+"星期一我想听到你们跟我说
+
+1178
+01:07:37,560 --> 01:07:40,970
+and tell me what you are doing differently."
+你们做了些什么改变"
+
+1179
+01:07:44,100 --> 01:07:49,020
+At the end of the semester or at the end of the lecture,
+在这学期结束后或者在这个讲座结束后
+
+1180
+01:07:50,980 --> 01:07:52,390
+if you enjoyed it,
+如果你们喜欢它
+
+1181
+01:07:52,390 --> 01:07:56,750
+by all means tell me that you enjoyed it, that you had fun.
+务必告诉我你们喜欢 你们获得了乐趣
+
+1182
+01:07:56,750 --> 01:08:01,460
+But more important, it is what you are doing differently,
+但更重要的是你们所做的改变是什么
+
+1183
+01:08:01,660 --> 01:08:04,900
+how this has an impact on your life and that takes effort.
+这对你们的生活有怎样的影响 而那需要我们的努力
+
+1184
+01:08:04,900 --> 01:08:07,820
+We are going to spend a whole week talking just about change,
+我们将用一周的时间讲改变
+
+1185
+01:08:07,820 --> 01:08:10,360
+nothing directly related to positive psychology.
+和积极心理学一点直接的关系也没有
+
+1186
+01:08:10,360 --> 01:08:11,210
+Just about change.
+只是讲改变
+
+1187
+01:08:11,210 --> 01:08:13,520
+Because it is so difficult to change.
+因为改变是那么难
+
+1188
+01:08:13,520 --> 01:08:16,550
+Because we know most organizational change fails,
+因为我们知道大多数组织上的改变都失败了
+
+1189
+01:08:16,550 --> 01:08:21,430
+because we know more individual change fails.
+因为我们知道更多的个人改变失败了
+
+1190
+01:08:21,430 --> 01:08:27,750
+Unless we introduce behavioral change along with our cognitive and emotional change.
+除非我们在引入行为上的改变的同时 引入认知上和情绪上的改变
+
+1191
+01:08:30,090 --> 01:08:34,870
+Affect and cognition is not enough; behavior has to be there as well.
+影响和认知还不够 还要有行为
+
+1192
+01:08:34,870 --> 01:08:36,640
+What you are doing differently.
+你所做的改变
+
+1193
+01:08:37,360 --> 01:08:40,290
+To do things differently very often takes courage.
+经常用不同的方式做事需要勇气
+
+1194
+01:08:41,070 --> 01:08:44,290
+Some of your response papers that you'll hand in--
+一些你们要交上来的课后论文
+
+1195
+01:08:46,720 --> 01:08:50,320
+none of them are graded; they are all just graded "pass/failed"--
+都不会被打分 都只会有"及格和不及格"
+
+1196
+01:08:51,300 --> 01:08:53,750
+you'll have to hand them in and then you'll pass.
+你们必须交论文 然后你们就及格了
+
+1197
+01:08:53,750 --> 01:08:58,590
+But some of them may be the most difficult papers that you've written here.
+但一些也许是你所写过的最困难的论文
+
+1198
+01:08:59,220 --> 01:09:01,360
+For some they'll be the easiest.
+有一些会是最简单的
+
+1199
+01:09:01,360 --> 01:09:03,490
+And things will just flow out.
+很自然地就能写出来
+
+1200
+01:09:04,570 --> 01:09:06,710
+That's about introducing change.
+那就是关于引入改变
+
+1201
+01:09:06,710 --> 01:09:07,680
+That's about reflecting.
+那就是关于反思
+
+1202
+01:09:07,680 --> 01:09:09,220
+That's about taking time-in.
+那就是关于花时间接受
+
+1203
+01:09:09,220 --> 01:09:12,230
+That's about chipping away the excess stone.
+那就是关于凿掉多余的石头
+
+1204
+01:09:12,230 --> 01:09:15,050
+And it can only be done through this kind of effort.
+而这只能通过这种努力而实现
+
+1205
+01:09:16,750 --> 01:09:20,550
+So if you really want class to make a difference in your life, it's up to you.
+所以如果你真的想通过这门课改变生活 一切取决于你
+
+1206
+01:09:21,180 --> 01:09:22,570
+I'm going to introduce to you the material.
+我将会给你们介绍材料
+
+1207
+01:09:22,570 --> 01:09:25,900
+I'm going to introduce to you this wonderful new field of positive psychology.
+我将会给你们介绍这个积极心理学的精彩新领域
+
+1208
+01:09:26,500 --> 01:09:31,580
+what is up to you is to then take it and apply it.
+而取决于你们的就是接受并应用它
+
+1209
+01:09:35,330 --> 01:09:40,240
+I want to talk a little about the syllabus and the requirements.
+我想谈一下教学大纲及要求
+
+1210
+01:09:40,240 --> 01:09:43,120
+And I'll give you a little time for questions.
+我会给你们一点时间去问问题
+
+1211
+01:09:43,580 --> 01:09:44,730
+But before I do that,
+但在这之前
+
+1212
+01:09:44,730 --> 01:09:45,890
+I would also like to welcome--
+我也想对
+
+1213
+01:09:45,890 --> 01:09:48,910
+I know that some of you are watching this from home,
+我知道你们中的有些人正在家里看这堂课
+
+1214
+01:09:48,910 --> 01:09:50,720
+to the extension school students,
+对进修学校的同学们表示欢迎
+
+1215
+01:09:50,720 --> 01:09:52,960
+it's wonderful to have you here.
+很高兴你们能听我的课
+
+1216
+01:09:52,960 --> 01:09:54,730
+Do come and visit once a while.
+有空过来看看
+
+1217
+01:09:55,310 --> 01:10:00,750
+And you'll be working with obviously part of this class,
+而你们将显然参与到我们的课程中来
+
+1218
+01:10:00,750 --> 01:10:03,070
+but also with Deb Levy who is the,
+但也可以找Deb Levy
+
+1219
+01:10:03,070 --> 01:10:05,850
+they had teaching fellow for the extension school.
+他是进修学校的助教
+
+1220
+01:10:05,850 --> 01:10:11,780
+They had teaching fellow for the FAS class is Sean Achor
+Sean Achor是文理学院的助教
+
+1221
+01:10:12,180 --> 01:10:16,380
+and I'd like just to invite him for just a few words,
+我想请他来说几句话
+
+1222
+01:10:18,530 --> 01:10:20,720
+just to introduce himself to you.
+向你们做个自我介绍
+
+1223
+01:10:20,720 --> 01:10:23,270
+And you'll be introduced to other TFs we have.
+而你们会被介绍给我们的其他助教
+
+1224
+01:10:23,270 --> 01:10:27,220
+We have an amazing team this year.
+我们今年有支很棒的团队
+
+1225
+01:10:29,580 --> 01:10:30,680
+This is Sean.
+这就是Sean
+
+1226
+01:10:30,880 --> 01:10:31,680
+Sean:Hey good morning.
+嘿 上午好
+
+1227
+01:10:31,680 --> 01:10:32,810
+Can you guys hear me?
+能听到我吗?
+
+1228
+01:10:36,080 --> 01:10:37,970
+Can you hear me now? Great.
+现在能听得到吗? 很好
+
+1229
+01:10:38,610 --> 01:10:41,820
+This is absolutely honored to be back teaching positive psychology again.
+能回来再次为积极心理学做助教非常荣幸
+
+1230
+01:10:43,430 --> 01:10:44,930
+Tal is too humble.
+Tal太谦虚了
+
+1231
+01:10:45,630 --> 01:10:48,230
+This is not only extraordinary that he is sharing his time with us,
+很荣幸他能给我们上课
+
+1232
+01:10:48,230 --> 01:10:50,790
+but he's actually moved here back,
+他还把家搬来了
+
+1233
+01:10:50,790 --> 01:10:54,010
+moved his family back from Israel for the entire semester,--
+把家从以色列搬到这一整个学期
+
+1234
+01:10:54,010 --> 01:10:57,670
+his wife and his two little children just so he can teach this class with us.
+包括他的妻子和他的两个孩子 只是为了能和我们一起教这门课
+
+1235
+01:10:57,670 --> 01:11:02,170
+And this is absolutely an extraordinary opportunity for us to share this moment with them.
+对我们来说能和他们一起共事是个极好的机会
+
+1236
+01:11:02,170 --> 01:11:03,840
+And I'm really excited about it.
+我真的很激动
+
+1237
+01:11:04,870 --> 01:11:06,110
+Last time we taught this class,
+上一次我们教这门课时
+
+1238
+01:11:06,110 --> 01:11:09,800
+we did a survey to find out what type of people were sitting in this room--
+我们做了一个调查 看看坐在这上课的都是什么类型的人
+
+1239
+01:11:09,800 --> 01:11:11,320
+they are just like yourselves--
+他们就像你们一样
+
+1240
+01:11:11,320 --> 01:11:13,260
+and find out why you'll be taking this class.
+看看为什么你们会上这门课
+
+1241
+01:11:13,260 --> 01:11:15,380
+Coz the comment that we get so often about this class
+因为我们得到的关于这门课的评价常常是
+
+1242
+01:11:15,380 --> 01:11:20,050
+is why would Harvard students possibly be unhappy?
+为什么哈佛的学生会不幸福?
+
+1243
+01:11:20,050 --> 01:11:21,720
+what do they have to be unhappy about?
+他们有什么可不快乐的?
+
+1244
+01:11:22,390 --> 01:11:24,640
+They thought everyone who'd be taking this class would be taking it
+他们认为每个上这门课的人会上这门课
+
+1245
+01:11:24,640 --> 01:11:26,050
+because they are already really happy
+是因为他们已经很幸福了
+
+1246
+01:11:26,050 --> 01:11:28,610
+and they want to study about how amazing they are.
+他们想研究自己到底有多棒
+
+1247
+01:11:31,220 --> 01:11:35,170
+And they'd like to learn things that they can tell the roommates so clearly that (?) themselves.
+他们想学一些能明白地告诉室友他们得意的东西
+
+1248
+01:11:35,170 --> 01:11:39,980
+But it turns out actually over a third of people who took this class last year took the class
+但是结果是去年有超过三分之一的人
+
+1249
+01:11:39,980 --> 01:11:41,120
+because they felt depressed.
+选这门课是因为他们感觉抑郁
+
+1250
+01:11:41,120 --> 01:11:45,470
+And they were trying to learn about the research about positive psychology.
+他们想学习积极心理学
+
+1251
+01:11:45,470 --> 01:11:48,760
+And another third because they wanted to learn about optimism.
+还有三分之一是因为他们想学会乐观
+
+1252
+01:11:48,760 --> 01:11:51,350
+Another third did it for completely different reasons.
+另外三分之一的原因则完全不同
+
+1253
+01:11:51,350 --> 01:11:57,320
+I think. Additional third this year did it because Tal was on the Jon Stewart Daily Show.
+我想 今年还有三分之一的人选这门课是因为
+
+1254
+01:11:57,800 --> 01:12:01,030
+I am absolutely thrilled about this class.
+Tal上了Jon Stewart的Daily Show 我很喜欢这门课
+
+1255
+01:12:01,030 --> 01:12:04,280
+The syllabus which Tal is about to tell you about is..
+Tal要告诉你们的教学大纲是...
+
+1256
+01:12:04,520 --> 01:12:07,200
+Actually we learned a couple of other things about you guys.
+其实我们了解你们的一些其他事
+
+1257
+01:12:07,200 --> 01:12:09,960
+Did you know that of people who take positive psychology,
+你知不知道选了积极心理学的人中
+
+1258
+01:12:09,960 --> 01:12:13,560
+75% of you are officers of club,
+有75%的人是俱乐部的干部
+
+1259
+01:12:13,560 --> 01:12:16,380
+35% of you are the highest ranking officers of club,
+35%是俱乐部的高层干部
+
+1260
+01:12:16,380 --> 01:12:20,090
+which means that you think there are about 2000 clubs at Harvard,
+这意味着 你认为哈佛有大约2000个俱乐部
+
+1261
+01:12:20,240 --> 01:12:21,290
+you are in club of three,
+你在一个只有3个人的俱乐部里
+
+1262
+01:12:21,300 --> 01:12:23,130
+and you happen to be the president.
+又恰好是主席
+
+1263
+01:12:23,130 --> 01:12:25,130
+We learned other reasons why you are not happy.
+我们了解到你们不快乐的其他原因
+
+1264
+01:12:25,130 --> 01:12:28,380
+we learned that the average number of romantic relationships
+我们了解到上积极心理学课的人
+
+1265
+01:12:28,380 --> 01:12:33,080
+for people to take positive psychology in 4 years is between zero and one.
+在4年里恋爱次数的平均数在0到1之间
+
+1266
+01:12:33,090 --> 01:12:33,880
+Zero and one.
+0到1之间
+
+1267
+01:12:33,880 --> 01:12:36,680
+(Tal: No! I don't believe it.)
+不! 我不信
+
+1268
+01:12:36,680 --> 01:12:37,790
+Don't leave.
+不要走
+
+1269
+01:12:38,840 --> 01:12:41,140
+- But that was before taking positive psychology class. - That was before taking the class.
+- 但那是在上积极心理学课之前 - 是在上课之前
+
+1270
+01:12:41,140 --> 01:12:43,040
+We are going to test you afterwards.
+我们之后会调查一下你们
+
+1271
+01:12:44,190 --> 01:12:47,610
+The average number of sexual partners is between zero and .5.
+性伴侣数目的平均数是在0到0.5之间
+
+1272
+01:12:49,480 --> 01:12:52,490
+I have no idea what .5 sexual partners is.
+我实在不知道0.5个性伴侣是什么
+
+1273
+01:12:55,650 --> 01:12:57,090
+This class is going to be amazing.
+这门课程将会很棒
+
+1274
+01:12:57,090 --> 01:13:01,380
+It was amazing in the past and Tal we actually have extraordinary teaching staff here with us.
+它过去就很棒 而且我们有一个很出色的教学团队
+
+1275
+01:13:01,380 --> 01:13:02,750
+It's a large teaching staff.
+很大的教学团队
+
+1276
+01:13:02,750 --> 01:13:04,530
+And Tal has actually already given us home works
+Tal实际上已经给我们布置了作业
+
+1277
+01:13:04,530 --> 01:13:07,750
+so the teachers are going to be learning not only the material you are doing
+所以老师们不仅要学你们学的那些材料
+
+1278
+01:13:07,750 --> 01:13:09,350
+and talk you about which the experts (?),
+和你们讨论专业的内容
+
+1279
+01:13:09,350 --> 01:13:10,680
+but learning how to be better teachers.
+还要学习如何成为更好的老师
+
+1280
+01:13:10,680 --> 01:13:12,170
+He's given us books to read.
+他给了我们要读的书
+
+1281
+01:13:12,170 --> 01:13:13,670
+He's actually given us assignment.
+他事实上给我们布置了任务
+
+1282
+01:13:13,700 --> 01:13:15,550
+It's a big extraordinary class in that sense.
+从那个意义上说这是个很特别的课程
+
+1283
+01:13:15,800 --> 01:13:17,600
+In terms of the syllabus, it's going to be online.
+至于教学大纲 网上会有
+
+1284
+01:13:17,600 --> 01:13:20,470
+Tal just described now we've decided to go green,
+Tal说现在我们决定要环保
+
+1285
+01:13:20,820 --> 01:13:27,140
+so no trees are in making of this class except the large auditorium made of wood.
+所以这门课程中不能使用树木制品 除了这个木制的大礼堂
+
+1286
+01:13:31,020 --> 01:13:33,910
+Sections-- we are going to try sections online next weekend.
+我们下周会在网上分组
+
+1287
+01:13:33,910 --> 01:13:35,790
+So we are going to get the numbers on Wednesday.
+所以我们星期三会知道有多少分组
+
+1288
+01:13:35,790 --> 01:13:38,400
+On following weekend we will be doing sectioning
+下个周末我们会做分组任务
+
+1289
+01:13:38,400 --> 01:13:40,370
+that gives you a very short of turnaround time.
+给你们的周转时间就非常少了
+
+1290
+01:13:40,370 --> 01:13:44,190
+But that way you can give me Monday to change your section if you need to,
+如果需要的话 你们可以在周一换组
+
+1291
+01:13:44,190 --> 01:13:45,170
+which I hope you won't.
+虽然我不希望你们改
+
+1292
+01:13:45,170 --> 01:13:47,720
+And sections will start the following week.
+分组会在下一个星期开始
+
+1293
+01:13:48,480 --> 01:13:50,820
+Thank you very much. If you have any questions, send me an email.
+非常谢谢 如果还有什么问题 给我发邮件
+
+1294
+01:13:58,290 --> 01:13:59,290
+Ok, so...
+好的 那么...
+
+1295
+01:13:59,290 --> 01:14:00,560
+I think I don't need to explain to you
+我想我不需要跟你们解释
+
+1296
+01:14:00,560 --> 01:14:07,360
+why there is one lecture in the semester that I don't teach and Sean will teach it.
+为什么这学期有一节课不是我教而是Sean教的
+
+1297
+01:14:07,360 --> 01:14:09,410
+And that is the lecture on humor.
+而那节是讲幽默的
+
+1298
+01:14:09,790 --> 01:14:11,680
+Figure out why yourselves.
+你们自己想想为什么
+
+1299
+01:14:12,220 --> 01:14:16,130
+I do think you'll have to walk and talk if you are teaching something.
+我确实认为如果你想教什么你就必须擅长
+
+1300
+01:14:17,950 --> 01:14:18,940
+The syllabus.
+教学大纲
+
+1301
+01:14:18,940 --> 01:14:24,370
+The class, is to introduce you to my thinking about the class,
+本课程 是向你介绍我关于这门课程的想法的
+
+1302
+01:14:24,370 --> 01:14:25,540
+is what I call it,
+是我所谓的
+
+1303
+01:14:25,540 --> 01:14:27,230
+integrated class.
+整体的课程
+
+1304
+01:14:27,420 --> 01:14:34,920
+What that means is that integrated vertically as well as horizontally.
+就是指纵向的整体和横向的整体
+
+1305
+01:14:35,520 --> 01:14:38,950
+Vertically means that every class connected to the next class
+纵向意味着每一节课都和下一节课有关系
+
+1306
+01:14:38,950 --> 01:14:43,130
+is connected to every class throughout the semester around a spiral.
+和整个学期内的每一节课都有关系 呈一个螺旋状
+
+1307
+01:14:43,130 --> 01:14:45,200
+So what we'll talk about next week,
+所以我们下周所讲的内容
+
+1308
+01:14:45,200 --> 01:14:48,580
+we'll revisit it again in lesson 7,
+我们将在第7课 第17课和第24课里
+
+1309
+01:14:48,580 --> 01:14:50,940
+lesson 17 and lesson 24.
+再回顾一遍
+
+1310
+01:14:51,690 --> 01:14:55,580
+Everything is interconnected on the higher level on a spiral--
+所有内容在一个更高的水平上呈螺旋状互相联系
+
+1311
+01:14:55,890 --> 01:15:00,160
+in other words will lead to deep understanding and hopefully assimilation of the material.
+换言之 会带来深刻的理解和我所希望的对材料的吸收
+
+1312
+01:15:00,160 --> 01:15:02,930
+So it's vertically interconnected.
+所以是纵向相互联系的
+
+1313
+01:15:02,930 --> 01:15:06,360
+It's also horizontally interconnected.
+同样也是横向相互联系的
+
+1314
+01:15:06,360 --> 01:15:12,360
+That means every part of the class reinforces and influences the other part.
+就是说课程中的每一部分都强调并影响另一部分
+
+1315
+01:15:12,360 --> 01:15:17,540
+The lectures, not enough, you'll get a lot more in sections.
+上课还不够 你们在分组作业里面将收获更多
+
+1316
+01:15:17,540 --> 01:15:18,650
+Sections are mandatory.
+分组作业是强制的
+
+1317
+01:15:18,650 --> 01:15:20,690
+You'll do a lot of work in your sections,
+你们要在你们的分组里做大量
+
+1318
+01:15:20,690 --> 01:15:23,800
+very much related to your response papers
+和你的课后论文相关的工作
+
+1319
+01:15:24,270 --> 01:15:27,310
+that many student claim the most important part of the class.
+许多学生说这是本课程最重要的一部分
+
+1320
+01:15:27,320 --> 01:15:28,630
+Because that's where you get the time-in.
+因为这样你们才有了练习时间
+
+1321
+01:15:28,630 --> 01:15:30,700
+That's when you really get to chip away.
+这是你真正开始凿掉的时候
+
+1322
+01:15:32,110 --> 01:15:33,830
+Very much connected to the final project.
+和期末的大作业有很大的关系
+
+1323
+01:15:33,830 --> 01:15:37,240
+The final project is a presentation that you'll write out.
+期末作业是一个演示稿
+
+1324
+01:15:37,240 --> 01:15:41,180
+You don't actually give it but give it to a couple of friends just to get feedback.
+你们不用真的做演示 但要向几个朋友演示以获得反馈
+
+1325
+01:15:41,180 --> 01:15:42,780
+Not graded on that part.
+那部分不计分
+
+1326
+01:15:42,780 --> 01:15:45,510
+The final project is graded as a final paper,
+期末作业是以期末论文计分的
+
+1327
+01:15:45,510 --> 01:15:47,070
+but just what you hand in,
+但只是你们交上来的
+
+1328
+01:15:47,070 --> 01:15:48,600
+what you submit.
+你们提交的那份
+
+1329
+01:15:48,600 --> 01:15:53,180
+And the reason why there is a final paper because the best way which is like a presentation,
+为什么写期末论文 是因为像演示那样的最好的方式
+
+1330
+01:15:53,180 --> 01:15:56,540
+because the best way to learn is to teach.
+因为最好的学习方式是教
+
+1331
+01:15:57,010 --> 01:16:00,440
+And you'll be teaching these materials to other people --
+你们将把这些材料教给别人
+
+1332
+01:16:00,440 --> 01:16:04,610
+any material that you are interested in in your presentation.
+任何在你的陈述中你所感兴趣的内容
+
+1333
+01:16:04,630 --> 01:16:05,630
+So the readings,
+那么阅读
+
+1334
+01:16:05,630 --> 01:16:11,460
+very much connected and take you to the next level of understanding and assimilation.
+非常有关系 会把你们带到理解和吸收的另一个水平高度
+
+1335
+01:16:13,600 --> 01:16:18,450
+So any questions before I finish up? Any question from you?
+在我讲完之前有问题吗? 你们有什么要问的吗?
+
+1336
+01:16:20,820 --> 01:16:25,480
+Alright. So let me just say-- one second finishing words.
+好了 那就让我说 最后一秒钟结束语
+
+1337
+01:16:25,480 --> 01:16:27,460
+I am very excited to be back here.
+对于能回到这里我感到非常激动
+
+1338
+01:16:27,460 --> 01:16:30,060
+My families are very excited to be back here.
+我的家人对于回到这里也很激动
+
+1339
+01:16:30,060 --> 01:16:34,940
+Looking forward to a meaningful, pleasurable,
+期望能和你们共度一个有意义的 愉快的
+
+1340
+01:16:34,940 --> 01:16:38,670
+enjoyable and happier semester with you.
+令人享受的和更加幸福的学期
+
+1341
+01:16:38,670 --> 01:16:39,830
+Thank you.
+谢谢
+

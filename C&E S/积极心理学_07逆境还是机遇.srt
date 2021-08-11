@@ -1,0 +1,6203 @@
+1
+00:00:08,350 --> 00:00:11,440
+OK,so,what we're gonna do today
+我们今天的课
+
+2
+00:00:11,730 --> 00:00:17,850
+is finish up with the beliefs of self-fulfilling prophecy lecture
+要把自我实现预言的信念讲完
+
+3
+00:00:18,110 --> 00:00:22,760
+and move on to the lecture on focus
+并开始讲下一课 关于专注
+
+4
+00:00:22,990 --> 00:00:25,030
+and how focus creates reality.
+和专注如何创造现实
+
+5
+00:00:27,300 --> 00:00:28,450
+Where did we end last time?
+我们上一课讲到哪里?
+
+6
+00:00:28,670 --> 00:00:35,260
+We ended by talking about Rena and other things.
+我们讲到Rena和其他的一些事
+
+7
+00:00:35,690 --> 00:00:39,080
+We talked about the model,the Dan Gilbert model,
+我们讲到模型 Dan Gilbert的模型
+
+8
+00:00:39,330 --> 00:00:40,550
+the Philip Brickman model,
+Philip Brickman模型
+
+9
+00:00:40,820 --> 00:00:45,880
+where after a failure or a success there is a spike up,
+成功或失败过后 会有大起大落
+
+10
+00:00:46,070 --> 00:00:48,760
+spike down,but then we recover.
+但我们会恢复过来
+
+11
+00:00:49,080 --> 00:00:52,700
+And we basically move along a base level of well being
+我们一生基本沿基准的幸福发展
+
+12
+00:00:52,870 --> 00:00:58,090
+through out our lives,with the ups and downs,the vicissitudes.
+其中有起伏和变迁
+
+13
+00:01:00,100 --> 00:01:01,650
+The question then became,
+所以问题是
+
+14
+00:01:02,110 --> 00:01:03,470
+or rather there was good news and bad news.
+或说有好消息也有坏消息
+
+15
+00:01:03,660 --> 00:01:06,350
+The good news was,we don't really need to worry that much,
+好消息是 我们不必太过担心
+
+16
+00:01:07,430 --> 00:01:09,280
+we can take more risks,we can put ourselves on the line more.
+我们能冒更多风险 也更容易回到基准线上
+
+17
+00:01:09,540 --> 00:01:11,840
+Failure usually,not all failures,
+失败往往 虽然不是所有的失败
+
+18
+00:01:12,010 --> 00:01:17,310
+but usually is just a temporary decline in our wellbeing level,
+往往只是使幸福水平暂时的下降
+
+19
+00:01:17,500 --> 00:01:19,870
+self esteem level,and then every quickly we jump up again.
+还有自尊水平 然后会迅速回升
+
+20
+00:01:20,060 --> 00:01:21,080
+So that's the good news.
+所以这是好消息
+
+21
+00:01:21,270 --> 00:01:24,880
+The bad news is: if we're just around the same base level,
+坏消息是 如果我们总是回到原来的水平
+
+22
+00:01:25,230 --> 00:01:28,080
+you know,why should we put any effort into our wellbeing?
+那我们为什么要努力寻求幸福呢?
+
+23
+00:01:28,790 --> 00:01:30,080
+And the answer to that,
+而答案
+
+24
+00:01:30,510 --> 00:01:32,520
+and the whole course essentially is an answer to that.
+这整个课程本质上就是对它进行回答
+
+25
+00:01:32,680 --> 00:01:34,230
+How can we raise that base level?
+我们如何提升基准水平?
+
+26
+00:01:34,680 --> 00:01:37,940
+One of the things is coping,putting ourselves on the line.
+一个方法是去面对 把自己置于风险之上
+
+27
+00:01:38,200 --> 00:01:39,250
+And the reason why coping,
+我们这么做的原因
+
+28
+00:01:39,420 --> 00:01:42,330
+why putting ourselves on the line yields positive
+是因为这样能产生积极的影响
+
+29
+00:01:42,540 --> 00:01:46,540
+results in terms of the base level of wellbeing going up,
+结果 幸福基准会上升
+
+30
+00:01:46,820 --> 00:01:47,930
+meaning still the ups and downs,
+意思是仍然有起有落
+
+31
+00:01:48,110 --> 00:01:49,870
+but ups and downs looking this way
+但起伏是像这样斜线上升的
+
+32
+00:01:50,210 --> 00:01:54,840
+as opposed to around a straight line
+而不是在一条直线上或者
+
+33
+00:01:55,240 --> 00:02:00,220
+or a parallel line is that when we cope,we see ourselves coping,
+平行线上徘徊 我们去面对时能想象我们的行动
+
+34
+00:02:00,420 --> 00:02:03,110
+we see ourselves trying and through self perception theory,
+想象自己在努力 通过自我知觉理论
+
+35
+00:02:03,390 --> 00:02:06,150
+we derive certain conclusions about ourselves:
+我们对自己做某种总结
+
+36
+00:02:06,410 --> 00:02:08,010
+oh,I must be courageous;
+我一定很勇敢
+
+37
+00:02:08,190 --> 00:02:11,170
+oh,I must be a person who has high self esteem;
+我一定是自尊心强的人
+
+38
+00:02:12,240 --> 00:02:16,310
+oh,I must be a person who has a strong desire to succeed
+我一定是非常渴望成功的人
+
+39
+00:02:16,500 --> 00:02:17,810
+and so on and so on.
+等等
+
+40
+00:02:18,090 --> 00:02:21,280
+And then we derive conclusions about ourselves in the same way
+然后我们给自己做出的结论
+
+41
+00:02:21,580 --> 00:02:24,260
+that we derive conclusions about other people.
+就像我们给他人的结论一样
+
+42
+00:02:24,510 --> 00:02:26,540
+That is self-perception theory.
+这就是自我知觉理论
+
+43
+00:02:27,890 --> 00:02:32,040
+The second reason is that once we started failing more often,
+第二个原因是一旦我们经常经历失败
+
+44
+00:02:32,470 --> 00:02:35,160
+we realized that actually it's not that bad,
+我们会意识到那其实并不那么糟糕
+
+45
+00:02:35,410 --> 00:02:36,960
+it's not what we make it out to be.
+不像我们想象的那么糟
+
+46
+00:02:38,720 --> 00:02:44,750
+The pain that in our minds we associate with failure
+我们脑中想象的失败的痛苦
+
+47
+00:02:45,060 --> 00:02:49,420
+is far greater that the actual pain of failure when that comes.
+比实际的痛苦要多得多
+
+48
+00:02:50,220 --> 00:02:53,410
+Maybe not initially when it happens,but after a while;
+也许不是即时的 而是稍后才感受到
+
+49
+00:02:54,940 --> 00:02:58,250
+and then we recover again,and we see,oh,I can deal with it,
+当我们恢复后 就知道我能应付它
+
+50
+00:02:58,490 --> 00:03:00,270
+I must be a person with resilience.
+我一定是一个有适应力的人
+
+51
+00:03:00,980 --> 00:03:04,130
+And finally,there is more success as a result of coping.
+最终 努力去面对后会有更多成功
+
+52
+00:03:04,340 --> 00:03:05,650
+Learn to fail,or fail to learn,
+学习失败 或在失败中学习
+
+53
+00:03:05,860 --> 00:03:08,030
+there is no other way to succeed.
+成功没有其他途径
+
+54
+00:03:09,110 --> 00:03:12,060
+So what I want to move on to now and just finish up on
+我现在要说的是
+
+55
+00:03:12,320 --> 00:03:16,080
+is how do we become more of an optimistic.
+我们如何变得更乐观
+
+56
+00:03:16,300 --> 00:03:19,090
+So we talked about the virtues,we talked about longevity,
+我们谈过优点 谈过长寿
+
+57
+00:03:19,420 --> 00:03:21,540
+people who are optimistic actually live longer.
+乐观的人实际上活得更久
+
+58
+00:03:22,190 --> 00:03:24,630
+We talked about higher levels of success,
+我们谈过更高水平的成功
+
+59
+00:03:24,870 --> 00:03:28,080
+higher levels of happiness,more likely to overcome depression.
+更高程度的快乐更能克服忧郁
+
+60
+00:03:28,310 --> 00:03:29,490
+People who are optimistic
+乐观的人
+
+61
+00:03:29,790 --> 00:03:33,490
+are eight times less likely to be depressed;
+患上忧郁的机会是八分之一
+
+62
+00:03:33,740 --> 00:03:35,250
+they are much more likely to be happy.
+他们会更快乐
+
+63
+00:03:36,170 --> 00:03:38,770
+And again,optimism as an interpretation style,
+再说一遍 乐观是指诠释的方式
+
+64
+00:03:39,120 --> 00:03:42,730
+not as a Pollyannaish feel-good kind of approach.
+而不是盲目地自我感觉良好的方式
+
+65
+00:03:43,380 --> 00:03:45,000
+So how do we become more of an optimism?
+我们如何变得更加乐观?
+
+66
+00:03:45,220 --> 00:03:47,080
+I want to talk about three techniques.
+我想谈谈三个方法
+
+67
+00:03:47,140 --> 00:03:51,660
+First is to take action,to just do it,
+首先是采取行动 尽管去做
+
+68
+00:03:52,170 --> 00:03:53,650
+to put ourselves on the line.
+把自己置于风险之上
+
+69
+00:03:53,890 --> 00:03:57,540
+Second,I'm going to talk about the power of imagination,
+第二点 我要讲想象力
+
+70
+00:03:57,780 --> 00:04:00,220
+visualization,many of you are familiar with that,
+形象化的力量 你们许多人熟悉这点
+
+71
+00:04:00,430 --> 00:04:03,210
+especially athletes as,as a technique.
+尤其对运动员而言 作为一项技巧
+
+72
+00:04:03,430 --> 00:04:04,700
+So we'll talk about that technique.
+我们要谈论这个技巧
+
+73
+00:04:04,920 --> 00:04:08,840
+And finally,cognitive therapy,
+最后一点是认知疗法
+
+74
+00:04:09,150 --> 00:04:11,640
+which at least according to research,is the most successful,
+至少研究表明 是当今最成功的
+
+75
+00:04:11,860 --> 00:04:16,050
+most effective therapeutic intervention out there today,
+最有效的治疗干预手段
+
+76
+00:04:16,510 --> 00:04:19,410
+so we'll talk about some of the basics and summarize those.
+我们要讲一些基本要素并进行归纳
+
+77
+00:04:21,340 --> 00:04:25,210
+So let me begin with action,
+我们先说行动
+
+78
+00:04:25,470 --> 00:04:28,000
+this is based on research by Albert Bendura,
+这是基于Albert Bendura的研究
+
+79
+00:04:28,220 --> 00:04:29,510
+you'll read about self-efficacy,
+你们会了解到自我效能
+
+80
+00:04:29,740 --> 00:04:33,930
+his concept basically the idea of having strong believes
+他的基本概念上是要有坚定的信念
+
+81
+00:04:34,170 --> 00:04:35,980
+and he just made it more academic,
+他将它描述得更学术化
+
+82
+00:04:36,190 --> 00:04:38,490
+more scientific and researched for many years
+更科学化 并研究了数年
+
+83
+00:04:38,720 --> 00:04:41,360
+and we talked about many benefits of self efficacy.
+我们谈过自我效能的许多益处
+
+84
+00:04:41,640 --> 00:04:45,220
+What Bendura is coming out against in much of his work
+Bendura所做的大部分工作是反对
+
+85
+00:04:45,580 --> 00:04:49,640
+is what has become known as the self esteem movement,
+人们称为“自尊运动”的活动
+
+86
+00:04:50,090 --> 00:04:51,460
+or he's coming against
+或者说他反对的是
+
+87
+00:04:51,660 --> 00:04:54,980
+what has become known as feel good movement.
+被称为“感觉良好运动”的活动
+
+88
+00:04:55,210 --> 00:04:56,820
+Alright,so tell a child how great they are,
+所谓的 告诉小孩他们有多好
+
+89
+00:04:57,010 --> 00:04:57,880
+how wonderful they are.
+他们有多棒
+
+90
+00:04:58,090 --> 00:05:00,080
+Standing in front of a mirror every morning and tell yourself:
+每天早上站在镜子前对自己说
+
+91
+00:05:00,340 --> 00:05:04,720
+hi,gorgeous ten times,and then you will be more successful,
+“你好精神”十遍 你将更成功
+
+92
+00:05:04,940 --> 00:05:07,500
+your self esteem will be high and you'll be gorgeous.
+你的自尊会提升 你会变得很好
+
+93
+00:05:09,260 --> 00:05:12,160
+It doesn't work,believe me it doesn't work.
+这不管用 相信我 这不管用
+
+94
+00:05:14,190 --> 00:05:19,770
+I've tried everything. The thing though is that very often,
+我都试过 实际上经常
+
+95
+00:05:20,730 --> 00:05:24,550
+it actually hurts in the long term,it actually hurts self esteem
+事实上长期以往会造成伤害 会伤到自尊
+
+96
+00:05:24,750 --> 00:05:27,530
+it actually hurts the motivation of students
+它实际伤害了那些学生的积极性
+
+97
+00:05:27,750 --> 00:05:29,430
+who are constantly told you are wonderful,
+他们经常被夸奖说"你们很棒"
+
+98
+00:05:29,680 --> 00:05:31,240
+you are terrific no matter what.
+"你们都很了不起"
+
+99
+00:05:31,850 --> 00:05:36,790
+And we'll talk about how we can be more discerning with praise,
+我们会讲如何对赞扬更有辨识力
+
+100
+00:05:37,050 --> 00:05:38,420
+how we can praise in the right way
+如何正确地赞扬
+
+101
+00:05:38,650 --> 00:05:40,650
+when we talked about the work of Carol Dweck
+在我们过几周谈论Carol Dweck
+
+102
+00:05:40,900 --> 00:05:42,480
+on mindsets in a few weeks.
+关于心态的文章的时候
+
+103
+00:05:43,270 --> 00:05:44,640
+In the meantime,what Bendura showed,
+同时Bendura表明
+
+104
+00:05:44,820 --> 00:05:45,640
+what Carol Dweck showed,
+Carol Dweck表明
+
+105
+00:05:45,870 --> 00:05:49,770
+what many others showed was that it's not enough,
+还有其他许多人都表明 这还不够
+
+106
+00:05:50,000 --> 00:05:53,400
+very often,its even detrimental to just give the,you know,
+通常情况 只给你积极的言论 积极的肯定
+
+107
+00:05:53,580 --> 00:05:57,260
+positive,positive talk,the positive affirmation.
+无论来自外部或内部
+
+108
+00:05:57,440 --> 00:05:59,690
+Whether it comes from the outside or from the inside,
+这甚至是有害的
+
+109
+00:06:00,480 --> 00:06:02,990
+maybe part of the equation,certainly can't be all.
+这也许其中的一部分 但不是全部
+
+110
+00:06:03,230 --> 00:06:06,900
+What Bendura is saying,that rather than talk,we need action.
+Bendura说的是 我们需要的是行动而不是空谈
+
+111
+00:06:07,760 --> 00:06:09,730
+We need to put hard work into whatever it is,
+我们对任何事都要付出努力
+
+112
+00:06:09,930 --> 00:06:12,510
+we want to be more confident about,and we need to cope.
+我们想变得更自信 就需要去应对
+
+113
+00:06:12,750 --> 00:06:16,660
+We need to put ourselves on the line. Very simple! Why?
+我们要把自己置于风险之上 很简单 为什么?
+
+114
+00:06:17,170 --> 00:06:22,320
+Because hard work and coping inevitably leads to success,
+因为努力和面对必然能获得成功
+
+115
+00:06:22,560 --> 00:06:24,180
+more success at least than we had before,
+至少比以前
+
+116
+00:06:24,380 --> 00:06:26,340
+when we didn't act and we didn't cope.
+以前不行动 不去面对时要成功
+
+117
+00:06:26,730 --> 00:06:30,540
+So even if it's a little bit,in and of itself contributes,
+即使只是一点点成功的贡献
+
+118
+00:06:30,950 --> 00:06:35,330
+that success contributes to our self-efficacy,
+也有助于提高自我效能
+
+119
+00:06:35,560 --> 00:06:41,360
+to our self confidence. And then,that self confidence in turns,
+有助于增加自信 而自信反过来
+
+120
+00:06:41,620 --> 00:06:45,500
+in turn motivates us to work harder.
+反过来激励我们更努力
+
+121
+00:06:47,720 --> 00:06:49,200
+We started to believe ourselves more.
+我们开始更加相信自己
+
+122
+00:06:49,430 --> 00:06:52,040
+Now,this is a very simple model,I mean,anyone you know,
+这是个很简单的模型 我是说任何人
+
+123
+00:06:52,280 --> 00:06:53,890
+the five year old could draw that model.
+一个五岁小孩都能做出那个模型
+
+124
+00:06:55,340 --> 00:06:58,330
+However think about the implications for our lives,
+然而考虑到对我们生活的影响
+
+125
+00:06:58,550 --> 00:07:00,410
+think about the implications for education,
+考虑到对教育的影响
+
+126
+00:07:02,450 --> 00:07:05,080
+do we just tell students constantly you're terrific,
+我们应该仅是对学生不停地说你们很棒
+
+127
+00:07:05,270 --> 00:07:08,160
+you're wonderful,you're great,or do we like Marva Collins,
+你们真厉害 还是应该像Marva Collins那样
+
+128
+00:07:08,380 --> 00:07:12,150
+make them actually work hard so that they succeed more,
+让他们努力奋斗获得更多成功
+
+129
+00:07:12,360 --> 00:07:15,910
+so that they see themselves going back to self conception theory,
+让他们想象自己回归自我概念理论
+
+130
+00:07:16,120 --> 00:07:17,440
+see themselves working hard,
+想象自己努力奋斗
+
+131
+00:07:17,660 --> 00:07:19,860
+see themselves putting themselves on the line,
+想象自己投身其中
+
+132
+00:07:20,060 --> 00:07:22,780
+coping and failing,and getting up again.
+面对失败 重新站起
+
+133
+00:07:24,320 --> 00:07:28,110
+It works also in a similar way to our physical immune system.
+它和我们身体免疫系统运作方式相同
+
+134
+00:07:28,980 --> 00:07:30,880
+You know when we get sick,when we get ill,
+当我们身体不适 当我们生病时
+
+135
+00:07:31,110 --> 00:07:32,850
+our body sense anti-bodies
+我们的身体感应到抗体
+
+136
+00:07:33,050 --> 00:07:36,510
+and we actually become immune to whatever it is that we had.
+我们实际上会免疫得过的病
+
+137
+00:07:37,570 --> 00:07:40,720
+So our body become immunize through failure.
+我们的身体通过失败获得免疫力
+
+138
+00:07:41,170 --> 00:07:45,030
+Same on the psychological level,failure is underrated.
+在心理层面也相同 失败会被低估
+
+139
+00:07:49,080 --> 00:07:52,030
+You know one of the things that I wish for you,
+我希望你们拥有的东西之一
+
+140
+00:07:52,280 --> 00:07:53,500
+and I mean it genuinely.
+我是很真挚的
+
+141
+00:07:54,760 --> 00:07:59,080
+One of the things that I wish for you is that you fail more.
+希望你们能多经历失败
+
+142
+00:08:00,440 --> 00:08:02,220
+I'm not saying it ingest,I really do.
+我不是随便说说 我真这么想的
+
+143
+00:08:02,610 --> 00:08:06,180
+And,coupled with that,I hope that when you fail,
+另外 我希望当你们失败时
+
+144
+00:08:06,430 --> 00:08:09,270
+you will also learn to interpret it in a different way
+你们也能学习用不同的方式去诠释
+
+145
+00:08:09,540 --> 00:08:11,840
+than most of us usually interpret failure.
+而不像大多数人那样诠释失败
+
+146
+00:08:14,040 --> 00:08:15,550
+'Cause there is no other way to succeed,
+因为没有别的方式取得成功
+
+147
+00:08:15,780 --> 00:08:17,350
+there is no other way for growth,
+成长的途径只有这一条
+
+148
+00:08:17,940 --> 00:08:20,120
+it's an elusion that a life looks like this,
+像这样的生活 只是在逃避
+
+149
+00:08:20,690 --> 00:08:21,710
+we will talk about it much more
+我们会继续谈这个
+
+150
+00:08:21,930 --> 00:08:22,890
+when we talk about perfectionism.
+当我们谈论完美主义时
+
+151
+00:08:24,060 --> 00:08:26,110
+A healthy life,a real life,
+健康的生活 真实的生活
+
+152
+00:08:26,400 --> 00:08:28,860
+and a happy life ultimately looks like this,
+快乐的生活基本都看起来像这样
+
+153
+00:08:29,200 --> 00:08:32,310
+a spiral with ups and downs,not as a straight line.
+一个带起伏的螺旋 不是一条直线
+
+154
+00:08:34,550 --> 00:08:37,110
+When we see ourselves cope,when we see ourselves work hard,
+当我们看到自己去面对 努力奋斗时
+
+155
+00:08:37,310 --> 00:08:39,020
+we derive conclusions about ourselves,
+我们对自己做出结论
+
+156
+00:08:39,280 --> 00:08:41,140
+our self confidence goes up,our motivation goes up,
+我们的自信增长 我们的动力增加
+
+157
+00:08:41,350 --> 00:08:43,860
+our belief goes up and so on and so on
+我们的信仰上升 等等
+
+158
+00:08:44,100 --> 00:08:46,550
+in an upward spiral of growth.
+以一个上升螺旋的趋势发展
+
+159
+00:08:48,510 --> 00:08:52,410
+Soren Kierkegaard: "To dare is to lose one's footing momentarily.
+Soren Kierkegaard说过"勇于冒险或许会一时失足
+
+160
+00:08:52,660 --> 00:08:54,970
+Not to dare is to lose oneself."
+却步不前则会迷失自我”
+
+161
+00:08:56,200 --> 00:08:58,950
+To lose one's footing temporarily is the failure
+当我们去面对 去尝试 满怀期望时
+
+162
+00:08:59,160 --> 00:09:01,360
+that comes inevitably when we cope,when we try,
+一时失足而导致失败
+
+163
+00:09:01,710 --> 00:09:08,780
+when we have high expectations. Not to dare is to lose oneself,
+不可避免 而我们不去应对 选择逃避
+
+164
+00:09:09,800 --> 00:09:12,210
+that is when we don't cope,when we avoid.
+却步不前则会迷失自我
+
+165
+00:09:12,780 --> 00:09:15,700
+Because this model also works the other way around.
+因为这个模型倒过来也成立
+
+166
+00:09:15,930 --> 00:09:18,000
+When we constantly avoid challenges,
+当我们不断地逃避挑战
+
+167
+00:09:18,360 --> 00:09:22,400
+when we constantly shone difficult experiences,
+当我们总能处理好困难经历
+
+168
+00:09:22,770 --> 00:09:24,860
+when we don't give ourselves the permission to fail,
+当我们不允许自己失败时
+
+169
+00:09:27,900 --> 00:09:32,140
+a downward spiral is created,in terms of our self esteem,
+会形成一个向下的螺旋 影响自尊
+
+170
+00:09:32,370 --> 00:09:35,780
+in terms of our success,in terms of our well being.
+我们的成功和幸福
+
+171
+00:09:43,920 --> 00:09:47,030
+Second technique: imagining success.
+第二个技巧 想象成功
+
+172
+00:09:47,860 --> 00:09:49,590
+Now there's one thing I want to share with you,
+有件事我想和你们分享
+
+173
+00:09:49,880 --> 00:09:51,160
+I'm a little bit nervous about sharing it
+要和你们分享让我有点紧张
+
+174
+00:09:51,360 --> 00:09:53,830
+but I'll do it anyway,you know,since we've opened up,
+但既然已经说开了 无论如何我都会说
+
+175
+00:09:54,060 --> 00:09:57,360
+especially last time was a real milestone in our relationship.
+尤其上节课真是我们关系中的转折点
+
+176
+00:10:02,050 --> 00:10:04,160
+I'm gonna to tell you something but please don't tell anyone,
+我要告诉你们些事 但别告诉别人
+
+177
+00:10:04,610 --> 00:10:06,840
+you know,especially don't tell any of my clients
+尤其别告诉我的客户
+
+178
+00:10:07,050 --> 00:10:08,980
+or potential clients in the future.
+或将来的潜在客户
+
+179
+00:10:09,990 --> 00:10:13,450
+I get really nervous before lectures.
+我演讲前会非常紧张
+
+180
+00:10:14,220 --> 00:10:16,170
+I get very nervous,in fact for me,
+我会很紧张 其实对我而言
+
+181
+00:10:16,750 --> 00:10:19,390
+whenever I stand in front of a large audience,
+我无论何时站在许多观众面前
+
+182
+00:10:20,050 --> 00:10:21,940
+there're butterflies in my stomach.
+心里会七上八下的
+
+183
+00:10:24,010 --> 00:10:26,320
+And it's very difficult for me
+我觉得这很难
+
+184
+00:10:26,550 --> 00:10:29,800
+when I talk about large audience its anything above five.
+我说的许多观众是指多于五人
+
+185
+00:10:30,930 --> 00:10:32,250
+So,this is a real challenge,
+所以这是个真正的挑战
+
+186
+00:10:32,470 --> 00:10:34,130
+it's a real challenge when I talk to clients.
+当我和客户们聊天时是个挑战
+
+187
+00:10:35,540 --> 00:10:37,610
+And this is been a challenge since the dash I decided
+这一直是一个挑战 从我决定
+
+188
+00:10:37,810 --> 00:10:39,130
+that I want to be a teacher and I decided
+当一名教师的那一刻起 当我听说了
+
+189
+00:10:39,320 --> 00:10:41,610
+that I want to be a teacher when I heard Marva Collins,
+Marva Collins的事迹时就决定成为一名老师
+
+190
+00:10:41,820 --> 00:10:46,340
+and I said: this is my calling. And here is what happened then.
+我说"这就是对我的召唤" 后来我就成为了老师
+
+191
+00:10:47,440 --> 00:10:50,090
+I said,how can I be a successful teacher and effective teacher
+我曾说 "如果我在人们面前会这么紧张
+
+192
+00:10:50,290 --> 00:10:56,580
+if I get so nervous when I stand in front of an audience?
+我要如何成为成功而有效率的老师?"
+
+193
+00:10:57,390 --> 00:10:59,470
+And remember the three components of success,
+记得成功的三要素
+
+194
+00:10:59,710 --> 00:11:04,310
+the secret of success? It was optimism,believe in oneself;
+成功的秘密? 是乐观和自信
+
+195
+00:11:04,570 --> 00:11:09,770
+it was passion,loving what you do; and it was hard work.
+是热情 热爱你所做的 还有努力奋斗
+
+196
+00:11:11,110 --> 00:11:13,060
+So I had two of the three components.
+我有其中两个要素
+
+197
+00:11:13,440 --> 00:11:17,480
+I worked extremely hard,in fact my motto has become,
+我非常努力 实际上我的座右铭
+
+198
+00:11:18,790 --> 00:11:20,900
+one that I got from Professor Richard Hackman,
+来自Richard Hackman教授
+
+199
+00:11:21,540 --> 00:11:23,520
+as my thesis advisor as an undergrad here.
+他是我在这里读本科时的论文导师
+
+200
+00:11:24,490 --> 00:11:26,860
+And,what he said,he's a phenomenal teacher,
+他是一个非凡的教师
+
+201
+00:11:27,100 --> 00:11:29,660
+and what he said when he goes into a classroom is the following:
+他走进教室后会说
+
+202
+00:11:29,920 --> 00:11:33,170
+prepare,prepare,prepare,and then be spontaneous.
+准备 再准备...然后顺其自然
+
+203
+00:11:34,070 --> 00:11:37,270
+So I followed his advise,now I read over my notes,
+所以我遵照他的建议 我仔细看教案
+
+204
+00:11:37,500 --> 00:11:40,630
+I have all the notes written down and then I can let go.
+我准备好所有教案 然后不再去想它
+
+205
+00:11:41,210 --> 00:11:43,660
+So I prepare a lot,I have the hard work,not a problem.
+我准备得很充足 我很努力 没问题
+
+206
+00:11:45,280 --> 00:11:47,370
+I have the passion,I love learning,
+我有热情 我爱学习
+
+207
+00:11:47,610 --> 00:11:51,140
+it's the most important thing,professionally in my life.
+这是我职业生命中最重要的事
+
+208
+00:11:53,400 --> 00:11:56,430
+But I lacked the third thing,I lacked optimism,
+但我缺少第三样 缺少乐观
+
+209
+00:11:56,650 --> 00:11:59,970
+and I lacked confidence. And then I asked myself:
+缺少自信 我问我自己
+
+210
+00:12:00,180 --> 00:12:01,680
+how can I raise the third components
+我要怎样提高第三个要素
+
+211
+00:12:01,850 --> 00:12:03,960
+because it is important component of wellbeing,
+因为这是幸福的一个重要部分
+
+212
+00:12:04,150 --> 00:12:06,060
+remember the research on athletes?
+记得对运动员的研究吗?
+
+213
+00:12:06,590 --> 00:12:09,930
+56% of the variance is accounted of success,
+56%的成功
+
+214
+00:12:10,230 --> 00:12:16,650
+is accounted for by the sense of optimism or belief in yourself.
+是源自乐观主义或自信
+
+215
+00:12:17,020 --> 00:12:20,530
+Remember the John Carter study? Twenty years along
+还记得John Carter二十年前的研究吗
+
+216
+00:12:20,710 --> 00:12:23,060
+when you look at Harvard Business School graduates,
+关于哈佛大学商学院毕业生的
+
+217
+00:12:24,700 --> 00:12:26,100
+one of the two components that
+将最成功的学生和其他人区分开的
+
+218
+00:12:26,300 --> 00:12:29,540
+differentiated the most successful from the rest,
+两要素之一
+
+219
+00:12:29,780 --> 00:12:31,990
+one of them was belief in themselves,confidence.
+一个是相信自己 自信
+
+220
+00:12:33,000 --> 00:12:35,200
+It's an important component of success and I lacked it.
+这是成功的一个重要因素 而我缺少它
+
+221
+00:12:35,390 --> 00:12:38,080
+So what did I do? I went back and thought about
+我怎么办? 我回想到
+
+222
+00:12:38,290 --> 00:12:39,470
+what happened when I played squash,
+打壁球时的事情
+
+223
+00:12:39,650 --> 00:12:42,280
+what my coaches used to teach me,and that was visualization.
+我的教练过去教育我要形象化
+
+224
+00:12:42,730 --> 00:12:43,780
+And I started reading up and
+我开始阅读这方面内容
+
+225
+00:12:43,940 --> 00:12:46,710
+when I looking at literature and there's a lot of research on it,
+我查看文献时 看到很多关于这方面的研究
+
+226
+00:12:46,930 --> 00:12:51,100
+it actually started off centuries ago in religious practices,
+实际上在几世纪前宗教实践时就出现
+
+227
+00:12:51,860 --> 00:12:54,980
+was brought to athletics through east European athletes
+被东欧运动员引入到体育运动中
+
+228
+00:12:55,160 --> 00:12:56,370
+who would imagine themselves,say,
+他们会想象自己 比如
+
+229
+00:12:56,570 --> 00:12:58,980
+running around the track and then standing on the podium,
+在跑道上跑然后站在颁奖台上
+
+230
+00:12:59,170 --> 00:13:00,470
+receiving the gold medal.
+领取金牌
+
+231
+00:13:01,380 --> 00:13:03,300
+And more and more psychologists started to implement it.
+越来越多的心理学家把它应用起来
+
+232
+00:13:03,500 --> 00:13:05,930
+Sales people use it very effectively,
+销售人员很有效地使用它
+
+233
+00:13:06,150 --> 00:13:07,750
+seeing themselves actually striking the deal,
+想象自己真的谈成了生意
+
+234
+00:13:08,630 --> 00:13:10,500
+going through with it,doing it and succeeding.
+经历困难 去做 并获得成功
+
+235
+00:13:10,890 --> 00:13:13,210
+And that made it much more likely to come true.
+那让它更有可能成为现实
+
+236
+00:13:14,470 --> 00:13:19,870
+The question is why? What's the mechanism behind visualization?
+为什么?形象化背后有什么原理?
+
+237
+00:13:20,160 --> 00:13:21,750
+Why is it so important? Why is it so good?
+为什么这么重要?为什么它这么好?
+
+238
+00:13:21,980 --> 00:13:22,870
+Why is it so effective?
+为什么它这么有效?
+
+239
+00:13:23,100 --> 00:13:25,560
+Why it being used so widely and successfully?
+为什么被这么广泛而成功地使用?
+
+240
+00:13:26,390 --> 00:13:29,650
+And the answer goes back to the structure of our brains.
+答案归结到我们大脑的结构上
+
+241
+00:13:31,520 --> 00:13:34,820
+This is research done by the head of psychology department,
+这个研究是由心理系主任
+
+242
+00:13:35,450 --> 00:13:36,830
+Professor Steven Kosslyn.
+Stephen Kosslyn教授做的
+
+243
+00:13:37,430 --> 00:13:41,340
+What he shows was that when we see something,
+他说当我们看某样东西时
+
+244
+00:13:41,600 --> 00:13:43,690
+so let's say I'm looking at my hand right now.
+比如说我现在看着我的手
+
+245
+00:13:43,990 --> 00:13:46,620
+There are certain neurons in my brain that are firing,
+我大脑中的某些神经元被激活
+
+246
+00:13:48,120 --> 00:13:50,440
+that actually take on the shape of this hand.
+实际上记住了这只手的形状
+
+247
+00:13:51,470 --> 00:13:53,200
+My visual cortex,the back.
+我的视觉皮质 后部
+
+248
+00:13:53,460 --> 00:13:53,850
+Now,
+现在
+
+249
+00:13:54,070 --> 00:13:58,160
+if I close my eyes and imagine that I'm looking at this hand,
+如果我闭上眼想象我在看这只手
+
+250
+00:13:58,400 --> 00:14:00,700
+even if it's not here,if I imagine that I look at this hand,
+即使它不在那 如果我想象看这只手
+
+251
+00:14:00,950 --> 00:14:04,540
+the exact same neurons are firing. In other words,
+相同的神经元会激活 换句话说
+
+252
+00:14:04,770 --> 00:14:08,360
+my brain does not know the difference
+我的大脑无法区别
+
+253
+00:14:08,580 --> 00:14:11,970
+between the real thing and the imaginary thing.
+真实的事物和想象的事物
+
+254
+00:14:15,240 --> 00:14:18,010
+Which explains why dreams can be so vivid,
+这解释了为什么梦境会那么生动
+
+255
+00:14:18,240 --> 00:14:19,680
+n the middle of the night,pitch dark,
+在漆黑的深夜
+
+256
+00:14:19,910 --> 00:14:21,550
+and you are dreaming about mid of the day,
+你正梦到中午
+
+257
+00:14:21,810 --> 00:14:23,100
+walking around the yard.
+在院子里散步
+
+258
+00:14:27,450 --> 00:14:28,740
+Our imagination,
+我们的想象
+
+259
+00:14:29,530 --> 00:14:32,640
+least for the brain is no different than the real thing.
+至少对于大脑而言与现实没有区别
+
+260
+00:14:33,570 --> 00:14:37,660
+Now,when I imagine success,what happens in a sense is
+当我想象成功时 从某种意义上说
+
+261
+00:14:37,890 --> 00:14:40,180
+that I'm creating a simulator for my mind.
+我在为大脑做一个模拟
+
+262
+00:14:41,020 --> 00:14:45,140
+And I'm in a sense fooling my mind into thinking
+我可以说是在欺骗大脑认为
+
+263
+00:14:45,420 --> 00:14:47,300
+that this is the real thing.
+这是真的事情
+
+264
+00:14:47,630 --> 00:14:49,960
+My mind doesn't know the difference between the two.
+我的大脑不知道两者的区别
+
+265
+00:14:51,300 --> 00:14:53,030
+Subconscious mind doesn't know the difference
+潜意识无法区分
+
+266
+00:14:53,240 --> 00:14:55,120
+between the real thing and the imaginary thing.
+真实的事物和假想的事物
+
+267
+00:14:55,370 --> 00:14:59,160
+Now if I imagine success over and over again in my mind,
+如果我在脑海中反复想象着成功
+
+268
+00:14:59,900 --> 00:15:03,780
+remember what the mind does not like is inconsistency.
+记住大脑不喜欢不一致性
+
+269
+00:15:04,350 --> 00:15:04,950
+In other words,
+换句话说
+
+270
+00:15:05,220 --> 00:15:10,860
+if I create success in my imagination and I persist with it,
+如果我想象着成功并坚持不懈
+
+271
+00:15:11,100 --> 00:15:13,530
+not just visualize it once or twice,but over and over again,
+不止设想一两次 而是一次又一次
+
+272
+00:15:13,780 --> 00:15:16,250
+the mind doesn't like inconsistencies.
+大脑不喜欢不一致性
+
+273
+00:15:16,780 --> 00:15:20,410
+And therefore,it will bring up the external reality
+因此它会让外部现实
+
+274
+00:15:20,680 --> 00:15:23,190
+to match this internal schema.
+和内心的想象相符
+
+275
+00:15:24,640 --> 00:15:26,310
+Why? Because the mind doesn't know
+为什么?因为大脑不知道
+
+276
+00:15:26,570 --> 00:15:28,220
+the difference in the real thing and imaginary thing.
+真实的事物和假想的事物间的区别
+
+277
+00:15:28,460 --> 00:15:29,710
+Just like Thomas,
+就像Thomas
+
+278
+00:15:29,900 --> 00:15:32,380
+just like Roger Bannister run the four minutes a mile
+就像Roger Bannister四分钟内跑完一英里
+
+279
+00:15:32,820 --> 00:15:36,080
+and after that,after that what happened was
+在那之后
+
+280
+00:15:36,260 --> 00:15:37,800
+that everyone had a different schema:
+每个人都有了和以往不同的想法
+
+281
+00:15:38,120 --> 00:15:41,570
+Oh,four minutes a mile is possible and 37 runners run it,
+四分钟跑完一英里是可能的 然后37人成功了
+
+282
+00:15:41,810 --> 00:15:43,870
+over 300 runners run it the following year.
+第二年超过300人实现了
+
+283
+00:15:44,990 --> 00:15:46,270
+Because they had a difference schema:
+因为他们有了不同的想法
+
+284
+00:15:46,510 --> 00:15:49,420
+we can do exactly the same thing through the simulator.
+我们可以通过场景模拟做到同样的事情
+
+285
+00:15:50,800 --> 00:15:51,930
+Cause the mind doesn't know the difference
+因为大脑无法区分
+
+286
+00:15:52,130 --> 00:15:54,240
+in the real thing and the imaginary thing.
+真实的事物和假想的事物
+
+287
+00:15:55,600 --> 00:15:56,620
+Doesn't work all the time,
+不是总能成功
+
+288
+00:15:56,850 --> 00:15:58,060
+doesn't work a hundred percent of the time,
+不是百分之一百管用
+
+289
+00:15:58,290 --> 00:15:59,340
+but it works a great deal.
+但很多时候都很管用
+
+290
+00:15:59,570 --> 00:16:03,780
+What I do every time when I give a lecture is visualize.
+我每次演讲总要设想一下
+
+291
+00:16:04,090 --> 00:16:06,430
+I imagine myself stand in front of the audience,
+我想象自己站在观众前
+
+292
+00:16:08,300 --> 00:16:10,820
+calm,excited,passionate.
+冷静 激动 热情
+
+293
+00:16:11,850 --> 00:16:13,810
+And then when I go into the real thing,
+当我正式开始演讲时
+
+294
+00:16:14,970 --> 00:16:16,770
+now I don't know if it is the real thing or I'm imaging,
+现在我不知道这是真的还是想象的
+
+295
+00:16:16,980 --> 00:16:18,350
+but I assume it's the real thing.
+但我假设这是真的
+
+296
+00:16:18,570 --> 00:16:20,770
+When I go into the real thing,I do feel that.
+正式开始演讲时 我确实有同样的感受
+
+297
+00:16:21,000 --> 00:16:23,650
+I still get nervous,I still get anxious,
+我仍然会紧张 仍然会焦虑
+
+298
+00:16:24,090 --> 00:16:26,080
+but it's a healthy,excitement.
+但这是健康的兴奋
+
+299
+00:16:27,990 --> 00:16:31,220
+Raising my levels of beliefs,levels of confidence by practicing,
+通过练习提高了我的信心和自信水平
+
+300
+00:16:32,330 --> 00:16:34,450
+just like a flight... a pilot,you would hope...
+就像一个...一个飞行员
+
+301
+00:16:34,650 --> 00:16:35,830
+would practice in a simulator
+会希望能在模拟环境中先练习
+
+302
+00:16:36,030 --> 00:16:38,190
+before they take you on across the Atlantic.
+然后再飞越大西洋
+
+303
+00:16:39,680 --> 00:16:42,250
+The mind as a simulator,this is why it works.
+思想是个模拟器 所以它能管用
+
+304
+00:16:44,520 --> 00:16:47,210
+The key here,this is a mistake that many people make,
+关键是... 这有一个许多人都犯过的错误
+
+305
+00:16:47,460 --> 00:16:49,890
+whether it's athletics or whether it's in the,
+无论是运动员或是...
+
+306
+00:16:50,120 --> 00:16:52,510
+a lot of the self-help books that talked about visualizations.
+许多关于形象化自励书籍中的记载
+
+307
+00:16:52,790 --> 00:16:55,240
+The key is to focused not just on the destination,
+关键是不仅仅只关注结果
+
+308
+00:16:55,520 --> 00:16:57,170
+Shelley Taylor,UCLA,
+加州大学洛杉矶分校的Shelley Taylor
+
+309
+00:16:57,380 --> 00:17:01,090
+did this research where she divided students in two random groups
+做了研究 把学生随机分成两组
+
+310
+00:17:01,320 --> 00:17:04,530
+One student imaging themselves getting an A on the exam
+一个学生想象在考试中得到A
+
+311
+00:17:04,780 --> 00:17:06,290
+and imagine it over and over again.
+一遍遍地这样想象
+
+312
+00:17:06,530 --> 00:17:09,970
+The second group,imaging themselves getting an A
+第二组想象他们得到A
+
+313
+00:17:10,190 --> 00:17:14,030
+but also saw themselves work and persist in the library,
+但也想象他们在图书馆坚持努力
+
+314
+00:17:14,290 --> 00:17:18,620
+prepare for it,and then,get to that final A.
+为考试做准备 最后得到了A
+
+315
+00:17:19,450 --> 00:17:21,380
+The second group that imaging both the journey
+第二组想象了过程
+
+316
+00:17:21,580 --> 00:17:25,420
+and the destination was much more successful,
+和结果 他们更加成功
+
+317
+00:17:25,790 --> 00:17:27,630
+much better result in the exam.
+考试成绩更好
+
+318
+00:17:28,550 --> 00:17:30,610
+So visualize the journey as well as the destination,
+想象过程和结果
+
+319
+00:17:30,810 --> 00:17:32,520
+this is your response paper for this week,
+这是你们这周的作业
+
+320
+00:17:33,190 --> 00:17:36,030
+to visualize both your destination of getting there,
+想象你们实现目的
+
+321
+00:17:36,400 --> 00:17:39,960
+your journey of getting there,as well as the destination itself.
+你们实现目的的过程以及目的本身
+
+322
+00:17:49,130 --> 00:17:52,440
+Arguably,the most,or certainly one of the most influential
+史上最有影响力的演讲 或者之一
+
+323
+00:17:52,930 --> 00:17:56,620
+speeches of all time was Martin Luther King's I have a dream.
+是马丁路德金的《我有一个梦想》
+
+324
+00:17:57,480 --> 00:18:01,270
+I've read this speech more than dozens of times.
+这个演讲我听了不下12次
+
+325
+00:18:01,770 --> 00:18:06,920
+Why? Because beyond its beauty,its rhythm and its importance,
+为什么?因为除了它很美 押韵和重要性之外
+
+326
+00:18:07,160 --> 00:18:09,360
+it also captures what is means,
+也表达了它的意图
+
+327
+00:18:09,860 --> 00:18:14,350
+what it means to create an image of success.
+它的意图就是描绘出一幅成功的画面
+
+328
+00:18:15,120 --> 00:18:17,360
+'Cause this is what he did for this country
+因为这是他为这个国家做的
+
+329
+00:18:17,580 --> 00:18:20,450
+and defined generations to come.
+并为后来人所定义的远景
+
+330
+00:18:23,280 --> 00:18:26,250
+So first of all,I want to read some excerpts from it.
+因此首先 我想从中摘录几句
+
+331
+00:18:27,250 --> 00:18:29,440
+It is about visualizating a better future,
+是对一个更美好的未来的想象
+
+332
+00:18:29,690 --> 00:18:31,570
+and he says it explicitly,doesn't hide it.
+他说得很明确 没有隐藏
+
+333
+00:18:31,900 --> 00:18:35,940
+He says: "I have a dream,I say to you today my friends,
+"我有一个梦想 朋友们 今天我对你们说
+
+334
+00:18:36,170 --> 00:18:39,130
+so even though we face the difficulties of today and tomorrow
+在此时此刻 我们虽然遭受种种困难和挫折
+
+335
+00:18:39,410 --> 00:18:40,860
+I still have a dream.
+我仍然有一个梦想
+
+336
+00:18:41,320 --> 00:18:44,600
+It is a dream deeply rooted in the America dream."
+这个梦想是深深扎根于美国的梦想中的"
+
+337
+00:18:44,870 --> 00:18:46,350
+This is all about imagination,
+这都是关于想象
+
+338
+00:18:47,600 --> 00:18:50,930
+but through the imagination he created a better reality.
+但通过想象他创建了更好的现实
+
+339
+00:18:52,010 --> 00:18:54,830
+Look at how he talks about the process;
+看他如何谈论这个过程
+
+340
+00:18:55,020 --> 00:18:57,060
+he doesn't talk just about the outcome:
+他不是仅仅谈到结果
+
+341
+00:18:57,870 --> 00:18:59,400
+we want equality at the end.
+我们希望最后达到平等
+
+342
+00:18:59,610 --> 00:19:02,640
+He talks about how we will get to this outcome.
+他谈的是我们如何获得这个结果
+
+343
+00:19:02,860 --> 00:19:04,590
+So let me read you a couple of excerpts:
+让我读几句摘录的句子
+
+344
+00:19:04,810 --> 00:19:08,170
+"This is no time to engage in the luxury of cooling off
+"现在绝非侈谈冷静下来
+
+345
+00:19:08,360 --> 00:19:11,440
+or to take the tranquilizing drug of gradualism."
+或服用渐进主义的镇静剂的时候"
+
+346
+00:19:13,340 --> 00:19:15,250
+How beautiful! I mean,what he's saying here is,
+多优美 我是说 他这里说的是
+
+347
+00:19:15,460 --> 00:19:16,630
+let's not just sit here and wait
+我们别只坐着等待
+
+348
+00:19:16,850 --> 00:19:20,120
+and imagine that things will happen,
+想象会发生的事情
+
+349
+00:19:20,350 --> 00:19:23,270
+let's do something,let's also have a process.
+让我们做些事情 让我们也着眼于过程
+
+350
+00:19:23,440 --> 00:19:25,020
+And he says explicitly:
+他明确地说
+
+351
+00:19:25,250 --> 00:19:28,390
+"In the process of gaining our rightful place,
+"在争取合法地位的过程中
+
+352
+00:19:28,710 --> 00:19:31,490
+we must not be guilty of wrongful deeds."
+我们不要采取错误的做法"
+
+353
+00:19:32,430 --> 00:19:35,440
+So here he's talking about advice,of suggestions,advice,
+这里他在提建议 提议
+
+354
+00:19:35,650 --> 00:19:37,790
+what we should and shouldn't do along the way.
+这个过程中什么该做 什么不该做
+
+355
+00:19:38,130 --> 00:19:40,470
+"We must forever conduct our struggle
+"我们斗争时必须永远举止得体
+
+356
+00:19:40,720 --> 00:19:44,060
+on the high play of dignityand discipline. We must not allow
+纪律严明 我们不能容许
+
+357
+00:19:44,300 --> 00:19:47,860
+our creative protest to degenerate into physical violence."
+我们的具有崭新内容的抗议蜕变为暴力行动"
+
+358
+00:19:48,550 --> 00:19:49,940
+He's describing a process.
+他在描述一个过程
+
+359
+00:19:51,770 --> 00:19:54,540
+"Again and again,we must rise to the majestic heights
+"我们要不断地升华到
+
+360
+00:19:54,760 --> 00:19:59,430
+of meeting physical force with soul force."
+以精神力量对付物质力量的崇高境界中去"
+
+361
+00:20:02,300 --> 00:20:03,970
+Another thing that we need to do
+我们要做的另一件事
+
+362
+00:20:04,190 --> 00:20:06,650
+when we imagine success is to make is as real as possible
+当我们想象成功时 尽可能逼真点
+
+363
+00:20:06,850 --> 00:20:09,660
+by involving as many senses as we can. Why?
+尽量使人有所感受 为什么?
+
+364
+00:20:09,840 --> 00:20:11,540
+Because the more senses we can imagine,
+因为感受越真实
+
+365
+00:20:11,780 --> 00:20:14,890
+the more our mind is fooled to believe that it is the real thing.
+我们的大脑就越相信这是真实的
+
+366
+00:20:17,300 --> 00:20:19,490
+Once again,Martin Luther King does this beautifully.
+再次 马丁路德金这点上也做得非常漂亮
+
+367
+00:20:19,700 --> 00:20:21,470
+Let me read you a few excerpts:
+让我读几句摘录的句子
+
+368
+00:20:22,620 --> 00:20:26,760
+"We will not be satisfied until justice rolls down like waters
+"我们将来也不满足 除非正义和公正犹如江海之波涛
+
+369
+00:20:27,140 --> 00:20:29,880
+and righteousness like a mighty stream."
+汹涌澎湃 滚滚而来"
+
+370
+00:20:30,810 --> 00:20:33,280
+I mean,you can feel the water,you can feel that stream,
+你们能感受到那江海波涛
+
+371
+00:20:33,510 --> 00:20:35,370
+you can see it,you can visualize it.
+你们能看到 能想象到
+
+372
+00:20:36,720 --> 00:20:40,180
+"Or,let us not seek to satisfy our thirst for freedom
+"我们不要为了满足对自由的渴望
+
+373
+00:20:40,530 --> 00:20:43,800
+by drinking from the cup of bitterness and hatred."
+而抱着苦味和仇恨之杯痛饮"
+
+374
+00:20:44,370 --> 00:20:48,830
+He's employing test,bitterness,equaling with hatred.
+他引入了味觉 苦味等同于仇恨
+
+375
+00:20:49,170 --> 00:20:53,490
+People connect to it,making it real,concrete.
+人们会联想到它 让它真实 具体化
+
+376
+00:20:54,220 --> 00:20:57,670
+"One day right there in Alabama little black boys and black girls
+"有朝一日 阿拉巴马州的黑人男孩和女孩
+
+377
+00:20:57,850 --> 00:20:59,130
+will be able to join hands with
+将能与白人男孩和女孩情同骨肉
+
+378
+00:20:59,350 --> 00:21:03,490
+little white boys and white girls as sisters and brothers."
+携手并进"
+
+379
+00:21:04,160 --> 00:21:07,120
+I mean,you can see that circle of the kids holding hand,
+你能想象到孩子们手拉手围成圈
+
+380
+00:21:07,660 --> 00:21:10,460
+again making it real,you can visualize it,you see it.
+再次让它变得真实 你可以想象到 看到它
+
+381
+00:21:10,900 --> 00:21:13,150
+By the way,these are the characteristics of all great speeches.
+顺便说下 这是所有著名演讲的特征
+
+382
+00:21:13,360 --> 00:21:14,560
+They are not abstract,
+它们不是抽象的
+
+383
+00:21:14,850 --> 00:21:16,920
+look at the great communicator Ronald Reagan.
+看看那"伟大的沟通者"罗纳德里根
+
+384
+00:21:17,280 --> 00:21:19,010
+Look at Kennedy.
+看肯尼迪
+
+385
+00:21:19,980 --> 00:21:22,340
+They gave amazing speeches because they created a picture,
+他们演讲很精彩 因为他们创造了一幅图画
+
+386
+00:21:22,560 --> 00:21:26,290
+they involve the senses,they created a picture of success.
+他们利用了感官 创造了一幅成功的画面
+
+387
+00:21:29,300 --> 00:21:32,540
+"I have a dream that one day even the state of Mississippi,
+"我梦想有一天 甚至连密西西比州
+
+388
+00:21:32,770 --> 00:21:35,190
+a state sweltering with the heat of injustice,
+这个正义匿迹 压迫成风
+
+389
+00:21:35,430 --> 00:21:37,970
+weltering with the heat of oppression will be transformed
+如同沙漠般的地方
+
+390
+00:21:38,200 --> 00:21:41,220
+into an oasis of freedom and justice."
+也将变成自由和正义的绿洲"
+
+391
+00:21:41,890 --> 00:21:43,440
+You can actually feel the heat,
+你真的能感受到那种酷热
+
+392
+00:21:43,600 --> 00:21:46,250
+you can actually feel the sweat that he's describing.
+你真的能感受到他描述的那种汗如雨下的感觉
+
+393
+00:21:49,150 --> 00:21:52,060
+This is what makes good,successful images.
+这描绘出了一幅好的 成功的画面
+
+394
+00:21:52,260 --> 00:21:53,670
+This is what makes great speeches.
+这让演讲变得很精彩
+
+395
+00:21:55,350 --> 00:21:58,510
+And finally,it's about evoking emotions.
+最后 要唤起情绪
+
+396
+00:21:59,800 --> 00:22:02,100
+You don't want just make it cognitive exercise,
+你不想只是做一个认知练习
+
+397
+00:22:02,350 --> 00:22:04,370
+you wanna really be excited about what you are doing,
+你要对自己正在做的感到非常兴奋
+
+398
+00:22:05,340 --> 00:22:08,580
+or else it will fall flat. Nothing,no change will happen.
+否则将会失败 什么都没有改变
+
+399
+00:22:09,950 --> 00:22:13,330
+Again,the connection between the words emotion and motion:
+这些词语间的联系 情感和行动
+
+400
+00:22:14,070 --> 00:22:16,240
+without emotion,there is no motion.
+没有情感就没有行动
+
+401
+00:22:16,660 --> 00:22:18,230
+If you want to move yourself or others,
+如果你想让自己或别人行动起来
+
+402
+00:22:18,490 --> 00:22:20,060
+you need to evoke emotions.
+你得引起情感共鸣
+
+403
+00:22:21,690 --> 00:22:26,270
+Let's look at,just a minute,of that historical speech.
+让我们稍微看看那段历史性的演讲
+
+404
+00:22:31,970 --> 00:22:35,630
+"From every mountain side,let freedom ring!
+"让自由之声响彻每个山岗
+
+405
+00:22:35,850 --> 00:22:39,600
+And if America is to be a great nation,this must become true.
+如果美国要成为一个伟大的国家 这个梦想必须实现
+
+406
+00:22:40,390 --> 00:22:40,690
+And so
+所以
+
+407
+00:22:40,940 --> 00:22:45,090
+let freedom ring from the prodigious hilltops of New Hampshire.
+让自由之声从新罕布什尔州的巍峨的崇山峻岭响起来
+
+408
+00:22:45,720 --> 00:22:49,920
+Let freedom ring from the mighty mountains of New York.
+让自由之声从纽约州的崇山峻岭响起来
+
+409
+00:22:50,860 --> 00:22:54,770
+Let freedom ring from the heightening Alleghenies of Pennsylvania
+让自由之声从宾夕法尼亚州的阿勒格尼山脈上响起来
+
+410
+00:22:55,360 --> 00:22:58,750
+Let freedom ring from the snow-capped Rockies of Colorado.
+让自由之声从科罗拉多州冰雪覆盖的落基山响起来
+
+411
+00:22:59,880 --> 00:23:03,730
+Let freedom ring from the curvaceous slopes of California.
+让自由之声从加利福尼亚州蜿蜒的群峰响起来
+
+412
+00:23:04,180 --> 00:23:05,390
+But not only that:
+不仅如此
+
+413
+00:23:06,140 --> 00:23:09,480
+Let freedom ring from Stone Mountain of Georgia.
+还要让自由之声从佐治亚州的石岭响起来
+
+414
+00:23:10,880 --> 00:23:14,610
+Let freedom ring from Lookout Mountain of Tennessee.
+让自由之声从田纳西州的了望山响起来
+
+415
+00:23:15,530 --> 00:23:20,410
+Let freedom ring from every hill and molehill of Mississippi.
+让自由之声从密西西比的每一座丘陵响起来
+
+416
+00:23:20,670 --> 00:23:24,430
+From every mountainside,let freedom ring.
+让自由之声从每一片山坡响起来
+
+417
+00:23:24,650 --> 00:23:31,750
+And when this happens,when we allow freedom ring,
+当这成真 我们使自由之声响彻时
+
+418
+00:23:32,040 --> 00:23:35,460
+when we let it ring from every village and every hamlet,
+当我们让自由之声从每一个大小村庄
+
+419
+00:23:35,700 --> 00:23:41,300
+from every state and every city,we will be able to speed up
+每一个州和每一个城市响起来时 我们将能够加速
+
+420
+00:23:41,550 --> 00:23:45,460
+that day when all of God's children,black men and white men,
+这一天的到来 那时 上帝的所有儿女 黑人和白人
+
+421
+00:23:45,780 --> 00:23:48,940
+Jews and Gentiles,Protestants and Catholics,
+犹太教徒和非犹太教徒 基督教徒和天主教徒
+
+422
+00:23:49,240 --> 00:23:51,920
+will be able to join hands and sing
+都将手携手 合唱一首
+
+423
+00:23:52,120 --> 00:23:54,500
+in the words of the old Negro spiritual,
+古老的黑人灵歌
+
+424
+00:23:54,690 --> 00:23:57,030
+"Free at last! Free at last!
+"终于自由啦！终于自由啦！
+
+425
+00:23:57,280 --> 00:24:00,090
+Thank God Almighty,we are free at last!"
+感谢全能的上帝，我们终于自由啦"
+
+426
+00:24:11,020 --> 00:24:15,790
+I've seen this as I said dozens of times,every time excitement.
+我看过十几遍 每次看都很激动
+
+427
+00:24:16,040 --> 00:24:20,360
+Imagine if you said at the end: Free at last! Free at last!
+假想你最后说 终于自由啦 终于自由啦
+
+428
+00:24:20,590 --> 00:24:24,400
+God Almighty,free at last! Would that have the same effect?
+全能的上帝 终于自由啦 有同样效果吗
+
+429
+00:24:26,120 --> 00:24:30,970
+Boring,dry,you have to evoke emotions to create motion,
+无聊 枯燥 你必须引发情感来创造行动
+
+430
+00:24:31,310 --> 00:24:35,700
+whether is in our imagination or in a speech to the nation
+不论是在想象中或是对全国人演讲
+
+431
+00:24:41,250 --> 00:24:44,420
+Another technique...Another technique that I'd like to talk about,
+另一个技巧 另一个我要说的技巧
+
+432
+00:24:44,630 --> 00:24:47,710
+the third technique. So the first one was: work,
+第三个技巧 第一个是 努力行动起来
+
+433
+00:24:47,970 --> 00:24:51,010
+put yourself on the line,cope,invest.
+投入其中 去面对
+
+434
+00:24:51,280 --> 00:24:52,930
+The second: use your imagination,
+第二个 使用想象力
+
+435
+00:24:53,170 --> 00:24:55,040
+use the simulator that you have right here,
+使用思想的模拟器
+
+436
+00:24:56,030 --> 00:24:59,170
+one of the most if not the most powerful simulator we know of.
+一个我们所知的最强大的模拟器
+
+437
+00:25:00,070 --> 00:25:02,200
+The third is cognitive therapy.
+第三是 认知疗法
+
+438
+00:25:02,480 --> 00:25:07,420
+Cognitive therapy has been used very successfully over the last,
+认知疗法已被成功地运用四十多年
+
+439
+00:25:07,630 --> 00:25:09,690
+over forty years,Martin Seligman was one of the founders
+Martin Seligman是认知疗法的
+
+440
+00:25:10,780 --> 00:25:12,820
+of the cognitive therapy approach.
+创始人之一
+
+441
+00:25:13,500 --> 00:25:16,980
+He studied with,with Beck,
+他和Beck一起做研究
+
+442
+00:25:17,300 --> 00:25:21,380
+who was the official founder of this technique in this approach.
+Beck是这技巧的正式创始人
+
+443
+00:25:21,740 --> 00:25:24,410
+And what cognitive therapy is about is the following.
+认知疗法的内容如下
+
+444
+00:25:24,700 --> 00:25:28,850
+Its basic premise is that thoughts drive emotion.
+它的基本前提是思想驱动情感
+
+445
+00:25:30,270 --> 00:25:36,710
+So for example: there is an external event.
+比如 外部发生一件事
+
+446
+00:25:41,620 --> 00:25:42,860
+I perceive that event,
+我感知到那件事
+
+447
+00:25:43,120 --> 00:25:46,690
+and what I do then after I perceive that event,
+我感知那件事后的行动是
+
+448
+00:25:47,030 --> 00:25:51,790
+there is evaluation of that event,
+对那事进行评估
+
+449
+00:25:52,140 --> 00:25:58,380
+in other words,a thought about that event.
+也就是对那件事进行思考
+
+450
+00:26:01,630 --> 00:26:08,060
+And then,as a result of that thought,that evokes an emotion.
+思考后就唤起了情感
+
+451
+00:26:08,760 --> 00:26:13,360
+So for example,an event,a lion is running toward me,
+比如 事件 有只狮子向我奔来
+
+452
+00:26:14,470 --> 00:26:17,500
+my evaluation: oh my god,he's gonna eat me.
+我的评估 天 它要吃掉我
+
+453
+00:26:18,660 --> 00:26:22,400
+The emotion: fear,and that of course leads to motion,
+引发的情感是恐惧 然后自然就导致行动
+
+454
+00:26:22,840 --> 00:26:26,260
+run away or stand up bravely and fight the lion.
+逃跑或勇敢地和狮子搏斗
+
+455
+00:26:27,630 --> 00:26:30,240
+Or,another one: I see an event,
+或另一个例子 一个事件
+
+456
+00:26:32,070 --> 00:26:36,300
+a gorgeous woman walking down the street,my evaluation:
+一个美女在街上走 我的评估
+
+457
+00:26:37,330 --> 00:26:42,960
+oh,it's my gorgeous wife,and the emotion:love.
+是我的漂亮太太 引发的情感是爱
+
+458
+00:26:44,510 --> 00:26:48,190
+Event,evaluation,thought,emotion,
+事件 评估 思考 情感
+
+459
+00:26:48,450 --> 00:26:49,580
+and then that leads to action.
+然后导致行动
+
+460
+00:26:49,980 --> 00:26:56,920
+What cognitive therapy says is that if we want to change emotions
+认知疗法认为如果我们想改变情感
+
+461
+00:26:57,150 --> 00:26:59,620
+whether it's of depression,whether it's of anxiety,
+无论是忧郁或焦虑
+
+462
+00:26:59,880 --> 00:27:02,750
+where we need to intervene is here,
+我们要干预的是
+
+463
+00:27:03,450 --> 00:27:06,950
+is that the level of evaluation and the level of thought.
+评估和想法层面
+
+464
+00:27:08,340 --> 00:27:11,970
+And if we can change that,we also change our emotion.
+如果能改变这个 我们的情感也随着改变
+
+465
+00:27:12,950 --> 00:27:17,050
+Specifically,what cognitive therapy saying is that
+特别地 认知疗法认为
+
+466
+00:27:17,240 --> 00:27:20,880
+we need to restore sense of rationality,
+我们要恢复理性意识
+
+467
+00:27:21,260 --> 00:27:24,390
+we need to restore the real,it's certainly not saying,
+我们要恢复真实 当然这不是说
+
+468
+00:27:24,620 --> 00:27:26,640
+let's say I have a,you know,
+比如 我有
+
+469
+00:27:26,810 --> 00:27:33,670
+a very important try out coming up and I get nervous.
+一个非常重要的试镜 我很紧张
+
+470
+00:27:34,670 --> 00:27:37,110
+Cognitive therapy is not saying stop feeling nervous,
+认知疗法不是说停止紧张
+
+471
+00:27:37,340 --> 00:27:39,640
+let's change your evaluation or your thoughts,
+我们改变你的评估 或你的想法
+
+472
+00:27:40,260 --> 00:27:42,780
+because that's natural or I stand in front of a lion.
+因为那是自然的 又或者我站在狮子面前
+
+473
+00:27:43,210 --> 00:27:47,820
+It's natural,it's important,it's healthy to experience fear.
+感到害怕是自然的 重要的 健康的体验
+
+474
+00:27:49,210 --> 00:27:49,520
+But
+但是
+
+475
+00:27:49,750 --> 00:27:53,130
+what it is saying is that sometimes our thoughts are irrational,
+它说的是我们的想法有时是荒谬的
+
+476
+00:27:53,350 --> 00:27:54,940
+and we'll mention that last time,for example,
+我们上节课提到过 比如
+
+477
+00:27:55,460 --> 00:27:57,040
+I don't do well on one test
+我有一次考试成绩不好
+
+478
+00:27:57,290 --> 00:28:00,260
+and immediately I classified myself as stupid
+我立刻认为自己很笨
+
+479
+00:28:00,480 --> 00:28:03,740
+or the fact that I will never succeed in tests again.
+或认为我考试永远不会取得好成绩
+
+480
+00:28:06,060 --> 00:28:10,690
+Or,you know,I asked someone out and he says no,
+或者 我约别人出去 被拒绝了
+
+481
+00:28:10,910 --> 00:28:12,760
+and suddenly nobody wants me.
+突然觉得没有人需要我
+
+482
+00:28:13,930 --> 00:28:17,540
+That event led to an irrational thought,
+这个事件引发一个荒谬的想法
+
+483
+00:28:17,780 --> 00:28:19,780
+irrational evaluation of the situation.
+对情景的荒谬评估
+
+484
+00:28:20,010 --> 00:28:21,740
+It was just once,it was temporary,
+那只是一次性的 短暂的失败
+
+485
+00:28:23,840 --> 00:28:28,060
+and that led to difficult emotions such as resignation:
+而那会引发不好的情感 比如放弃
+
+486
+00:28:28,430 --> 00:28:29,990
+nobody will ever want me again.
+没人会再需要我了
+
+487
+00:28:31,840 --> 00:28:34,650
+And what cognitive therapy does is just restore
+而认知疗法做的是恢复理性
+
+488
+00:28:35,280 --> 00:28:39,900
+that rationality by saying: yeah,it hurts,it's tough,
+通过说“是的 这很伤人 很痛苦”
+
+489
+00:28:40,140 --> 00:28:46,710
+but,you know they are,what? 3200 other men at Harvard.
+但你知道 哈佛还有3200个其他男人
+
+490
+00:28:51,420 --> 00:28:54,580
+Cognitive therapy has been shown to be extremely effective,
+认知疗法极其有效
+
+491
+00:28:54,840 --> 00:28:56,890
+more effective than any of the other intervention,
+比其他干预手段都更有效
+
+492
+00:28:57,130 --> 00:28:58,570
+the jury still out
+虽然它对于
+
+493
+00:28:58,810 --> 00:29:03,820
+when it comes to extreme cases of psychopathology,
+极端棘手的精神病理学病例不太管用
+
+494
+00:29:04,470 --> 00:29:08,790
+but in terms of most psychopathologies,most anxiety,
+但对于大多数精神病理学病例 多数的焦虑症状
+
+495
+00:29:08,980 --> 00:29:11,290
+most depression,it has been shown to be the most successful,
+多数的忧郁症状 它已经被证明是最成功的
+
+496
+00:29:11,600 --> 00:29:15,500
+and it works the fastest. Not the only thing that works,
+且起效最快的方法 它不仅有用
+
+497
+00:29:15,750 --> 00:29:18,730
+but it works the best and much more promptly
+而且最有效 最迅速
+
+498
+00:29:18,960 --> 00:29:20,460
+than the other interventions.
+相对其他干预而言
+
+499
+00:29:20,690 --> 00:29:23,350
+On the whole,not right for everyone,but for most people.
+总体上 不是人人有效 但大多数有效
+
+500
+00:29:24,400 --> 00:29:27,260
+And finally,and this is the important thing we can learn it.
+最后 这是我们能学会的重要的内容
+
+501
+00:29:28,100 --> 00:29:29,370
+So we talk about right?
+我们提过
+
+502
+00:29:29,390 --> 00:29:32,180
+The five-year Cambridge Somerville study that failed.
+五年的剑桥-萨默维尔研究失败了
+
+503
+00:29:32,810 --> 00:29:35,690
+Well,Karen Reivich teaches these cognitive skills
+Karen Reivich在一个两周的项目中
+
+504
+00:29:35,910 --> 00:29:37,220
+in a two week program.
+教授这些认知技巧
+
+505
+00:29:37,530 --> 00:29:41,110
+And that two week program helps kids in inner cities,
+那个两周的项目旨在帮助市中心的
+
+506
+00:29:41,930 --> 00:29:43,380
+at risk population,
+危险人群中的孩子们
+
+507
+00:29:43,940 --> 00:29:50,960
+reduce the likelihood of falling into the trap of depression,
+降低陷入忧郁和吸毒困境的可能性
+
+508
+00:29:51,900 --> 00:29:56,560
+of drug abuse,increases the likelihood of wellbeing
+增加幸福的可能性
+
+509
+00:29:56,770 --> 00:29:59,010
+and success in the long term just as a result
+这个为期两周的认知疗法或技巧的课程
+
+510
+00:29:59,240 --> 00:30:03,530
+of two weeks teaching them cognitive therapy or these techniques,
+结果在长远看来是成功的
+
+511
+00:30:03,770 --> 00:30:04,690
+so it's an accquired skill
+所以这是可以学到的技能
+
+512
+00:30:04,910 --> 00:30:06,040
+and this is the important thing about it.
+这就是重要之处
+
+513
+00:30:06,290 --> 00:30:07,580
+That doesn't mean its easy,
+不是说很容易
+
+514
+00:30:07,810 --> 00:30:10,000
+doesn't mean you're just gonna hear a lecture now for the,
+不是说你听了一次课
+
+515
+00:30:10,200 --> 00:30:12,600
+the next ten minutes I'm gonna describe some of the ideas
+下面的十分钟我要讲一些概念
+
+516
+00:30:13,180 --> 00:30:15,420
+and that's gonna change your life. You need to apply it,
+就能改变你的生活 你要运用它
+
+517
+00:30:15,640 --> 00:30:17,590
+and you are going to apply it in the next two,
+你们将要把它运用到之后两节
+
+518
+00:30:18,440 --> 00:30:20,830
+next two classes,but you need to do more than that.
+之后两节课中 但你们要做的更多
+
+519
+00:30:22,050 --> 00:30:25,660
+So let me share with you a summary of cognitive therapy
+我给你们讲下认知疗法的概要
+
+520
+00:30:25,880 --> 00:30:28,960
+and this...the 3Ms is my acronym.
+这三个M是首字母缩写
+
+521
+00:30:29,210 --> 00:30:32,050
+And what I did there was to put together essentially the work
+我所做的是从本质上把
+
+522
+00:30:32,280 --> 00:30:34,180
+of Karen Reivich whom I just mentioned,
+我刚提到的Karen Reivich的成果
+
+523
+00:30:34,510 --> 00:30:36,680
+the work of Martin Seligman,
+Martin Seligman的成果
+
+524
+00:30:37,000 --> 00:30:39,020
+the work of Aaron Beck Seligman's teacher
+Seligman的老师Aaron Beck的成果
+
+525
+00:30:39,250 --> 00:30:42,870
+and the work of David Burns. Some of you may heard of him,
+还有David Burns的成果 你们也许有人知道他
+
+526
+00:30:43,150 --> 00:30:47,310
+The Feeling Good Handbook,who is also a student of Aaron Beck.
+《好心情手册》的作者 也是Aaron Beck的学生
+
+527
+00:30:47,540 --> 00:30:50,290
+So this is putting together their work
+把他们的成果结合起来
+
+528
+00:30:50,520 --> 00:30:57,070
+into 3Ms subdivided each into 2 suggestions.
+成为三个M 每个M有二个建议
+
+529
+00:30:57,300 --> 00:31:00,010
+They're inter connected as you'll see.
+你们会看到它们互相有联系
+
+530
+00:31:00,270 --> 00:31:04,050
+It's not a very clear distinction. However what you'll notice is
+区别不怎么明显 但你们会注意到
+
+531
+00:31:04,250 --> 00:31:08,720
+you could usually relate to one or two of the 3Ms.
+你们总能联系上三M中的一两个
+
+532
+00:31:08,910 --> 00:31:13,630
+Things that you do yourself. So beyond the lookout ask yourself:
+在你们行动之前先问自己
+
+533
+00:31:13,960 --> 00:31:17,010
+"Where do I distort the reality?
+“我在哪处扭曲了事实?
+
+534
+00:31:17,240 --> 00:31:20,610
+Where do I have distortion in terms of evaluation?
+我在评估方面 或者
+
+535
+00:31:20,840 --> 00:31:22,230
+In terms of my thought?"
+想法方面哪里歪曲了事实?”
+
+536
+00:31:22,500 --> 00:31:26,850
+That lead to certain negative emotions that are unnecessary,
+导致了某些不必要的消极情绪
+
+537
+00:31:27,810 --> 00:31:29,270
+because if I restore rationality
+因为如果我恢复理性
+
+538
+00:31:29,480 --> 00:31:32,020
+I will not feel the same emotion to the same degree.
+我就感觉不到同样程度的情感
+
+539
+00:31:33,190 --> 00:31:35,140
+So ask yourself when you look through the 3Ms.
+所以当你们学习三个M的时候问自己
+
+540
+00:31:36,410 --> 00:31:39,920
+The 3Ms...essentially the 3 traps of irrational thoughts.
+三个M指的是非理性想法的三个陷阱
+
+541
+00:31:40,180 --> 00:31:41,440
+The first one is magnifying.
+第一个是放大
+
+542
+00:31:41,670 --> 00:31:45,060
+It's exaggerating something that happens. For example,
+就是夸大发生的事情 比如
+
+543
+00:31:46,460 --> 00:31:49,670
+you know induction is something very natural.
+归纳法是天生的本能
+
+544
+00:31:49,950 --> 00:31:53,410
+A kid sees this and will call it a stool
+一个孩子看到这个 会叫它凳子
+
+545
+00:31:53,620 --> 00:31:55,390
+and then they see another stool in the bar
+然后他们在酒吧看到另一张凳子
+
+546
+00:31:55,640 --> 00:31:56,840
+when they go out at the age of one
+当他们一岁时出去
+
+547
+00:31:57,060 --> 00:31:59,860
+and then they see another stool. After they see 20 stools
+再看到另一张凳子 看过20张凳子后
+
+548
+00:32:00,060 --> 00:32:04,160
+they begin to form a concept they induce that this is a stool.
+开始形成一个观念 认为这东西就是凳子
+
+549
+00:32:04,970 --> 00:32:06,500
+And now they see one even one
+现在他们看到一张
+
+550
+00:32:06,680 --> 00:32:10,050
+that they have never seen before they know what it is.
+以前从没见过的凳子 他们也知道是它什么
+
+551
+00:32:10,080 --> 00:32:11,330
+Just like I see a person in the street
+就像我看见一个人在街上
+
+552
+00:32:11,560 --> 00:32:13,910
+whom I never encounter before I know this is a person,
+以前从没见过他 我知道这是个人
+
+553
+00:32:14,130 --> 00:32:16,860
+because I induce from all the other events
+因为我从其他发生过的事件中
+
+554
+00:32:17,100 --> 00:32:18,900
+that happened before that this is also a person.
+归纳出这个也是一个人
+
+555
+00:32:19,270 --> 00:32:21,270
+So that's induction. That's healthy. That's important.
+这就是归纳法 是健康的 重要的
+
+556
+00:32:21,520 --> 00:32:23,420
+That's how we develop concepts and language.
+我们就是这样形成观念和语言的
+
+557
+00:32:25,080 --> 00:32:29,750
+But sometimes we take this too far and we over generalize.
+但有时我们做得过头 归纳过度了
+
+558
+00:32:29,990 --> 00:32:34,670
+Once again,I did poorly on the midterm...conclusion,
+比如 我期中考成绩很差
+
+559
+00:32:34,900 --> 00:32:40,510
+generalization: I'm just not smart. I just can't succeed.
+归纳为 我不聪明 我不能成功
+
+560
+00:32:41,230 --> 00:32:46,090
+Here is a student. Over generalization,the evaluation,
+这个学生就是归纳过度了 他的评估
+
+561
+00:32:46,300 --> 00:32:48,400
+the thought,irrational.
+他的想法是非理性的
+
+562
+00:32:50,400 --> 00:32:57,970
+Or he just said no to me. Everyone is gonna say no.
+或他拒绝了我 因此大家都会拒绝我
+
+563
+00:32:58,210 --> 00:33:00,990
+instead of being realistic and saying,"wow,just look around.
+而不是实事求是地说 "看看周围
+
+564
+00:33:01,190 --> 00:33:05,960
+There are so many wonderful and sensitive and caring men in 1504"
+1504课堂上还有有很多帅哥"
+
+565
+00:33:12,570 --> 00:33:16,940
+So,another thing this is something we'll talk about a lot...
+另一件事我们经常讨论的是
+
+566
+00:33:17,140 --> 00:33:20,940
+the All or Nothing approach. The All or Nothing...
+全有或全无态度
+
+567
+00:33:21,130 --> 00:33:22,720
+we'll talk about it when we talk about perfectionism.
+我们会在讲完美主义时讨论它
+
+568
+00:33:23,060 --> 00:33:24,850
+It's catastrophizing failure,
+它是把失败小题大做
+
+569
+00:33:25,070 --> 00:33:27,490
+not seeing failure as an opportunity,
+而不是把失败当做一次机遇
+
+570
+00:33:27,690 --> 00:33:30,420
+as a stepping stone but seeing it as the end of the world.
+一个跳板 而是视之为世界末日
+
+571
+00:33:31,830 --> 00:33:36,280
+I got a B as a freshman. Now I'm going to be homeless.
+我大一时得了B 现在要无家可归了
+
+572
+00:33:36,510 --> 00:33:41,330
+Not finding a job ever. All or Nothing.
+永远找不到工作 全有或全无
+
+573
+00:33:41,680 --> 00:33:44,150
+Either straight As or complete failure.
+要么全是A 要么就是彻底的失败
+
+574
+00:33:45,890 --> 00:33:47,230
+We'll talk about that a lot.
+我们会多次提及它
+
+575
+00:33:47,980 --> 00:33:52,050
+Because it's one of the key elements that prevents us from coping
+因为这是阻止我们去面对的一个关键要素
+
+576
+00:33:52,410 --> 00:33:53,880
+from putting ourselves on the line.
+阻止我们投入进去
+
+577
+00:33:55,960 --> 00:33:56,930
+The other side of it,
+它的另一面
+
+578
+00:33:57,130 --> 00:33:59,980
+which is actually other side of the same coin is minimizing.
+同一个硬币的另一面 是极小化
+
+579
+00:34:00,550 --> 00:34:02,560
+This is something I do very often.
+这是我经常做的
+
+580
+00:34:02,790 --> 00:34:06,230
+This is my trap that I still have to be aware of,
+这是我仍要警惕的陷阱
+
+581
+00:34:06,420 --> 00:34:08,090
+I still think about today,
+我至今仍会考虑
+
+582
+00:34:08,260 --> 00:34:10,520
+even though I became aware of it years ago.
+虽然我几年前就注意到它了
+
+583
+00:34:10,770 --> 00:34:13,490
+Only now I catch myself doing it much promptly.
+直到现在我才能够迅速醒觉自己在这么做
+
+584
+00:34:14,030 --> 00:34:16,700
+So the first idea of minimizing is
+极小化的第一个概念是
+
+585
+00:34:16,930 --> 00:34:20,410
+what Karen Reivich calls tunnel vision.
+Karen Reivich称之为“隧道视野”
+
+586
+00:34:21,330 --> 00:34:28,310
+For example,let's say I have 620 students in my class.
+比如 我的课堂里有620个学生
+
+587
+00:34:29,850 --> 00:34:38,650
+And out of these 620 students 618 are engaged in the material.
+620个中618个在看教材
+
+588
+00:34:39,860 --> 00:34:43,860
+One is looking at the ceiling,at the lights.
+一个在看天花板 在看灯
+
+589
+00:34:44,520 --> 00:34:48,820
+And another one,out of the 620 students,is asleep.
+620个中的另外一个在睡觉
+
+590
+00:34:50,110 --> 00:34:54,000
+Tunnel Vision is when I focus on that one person who is asleep.
+隧道视野指的是当我关注那个睡觉的人
+
+591
+00:34:54,570 --> 00:34:56,000
+And I say to myself,
+对自己说
+
+592
+00:34:56,300 --> 00:35:00,260
+" Wow,I'm giving boring,sleep inducing lectures."
+“我的课肯定讲得让人无聊 犯困”
+
+593
+00:35:03,330 --> 00:35:08,670
+Or the other way around: I have 620 students,618 are asleep.
+或反过来 620个学生中618个睡着
+
+594
+00:35:09,620 --> 00:35:12,380
+One is looking around. And one is going "wow!"
+一个在开小差 一个听得十分入迷
+
+595
+00:35:13,990 --> 00:35:17,210
+and I only focus on that person and I say I'm a great lecturer.
+我只关注那个人 我说我是个好讲师
+
+596
+00:35:17,430 --> 00:35:18,370
+I'm so inspiring.
+我非常受鼓舞
+
+597
+00:35:20,530 --> 00:35:24,940
+Again,it's unrealistic. One way or the other. And
+然而不管怎样这都是不现实的
+
+598
+00:35:25,140 --> 00:35:29,370
+what cognitive therapy does is bring realism into the equation.
+认知疗法把现实主义引入这个等式
+
+599
+00:35:32,820 --> 00:35:35,980
+Again this is something I often fall into.
+我也经常因此而困扰
+
+600
+00:35:36,240 --> 00:35:39,580
+And just recently I fell into this. And it happened...
+我最近刚遇到这个情况
+
+601
+00:35:39,800 --> 00:35:42,060
+I know many of you saw the Jon Stewart show.
+你们许多人看过Jon Stewart脱口秀
+
+602
+00:35:42,430 --> 00:35:45,250
+So what happened in the Jon Stewart show...he was so fast,
+在Jon Stewart脱口秀中 他讲得太快
+
+603
+00:35:45,500 --> 00:35:49,080
+way too fast for me...I felt like I was 2 questions behind
+对我而言超级快 我感觉就像落后了两拍
+
+604
+00:35:49,350 --> 00:35:50,900
+still contemplating and thinking and saying
+还在深思和考虑着两个之前的问题
+
+605
+00:35:51,090 --> 00:35:52,360
+"well,this could be interesting research."
+“这会是个很有趣的研究”
+
+606
+00:35:52,580 --> 00:35:55,550
+And Jon was...he was already 10 steps ahead.
+而Jon已经领先了10步
+
+607
+00:35:56,030 --> 00:35:57,840
+So I fell behind and I felt slow.
+我落后了 感觉很迟钝
+
+608
+00:35:58,110 --> 00:36:00,430
+And I also said something that I later regretted.
+我也说了些后来让自己后悔的话
+
+609
+00:36:00,970 --> 00:36:02,170
+It was just one sentence.
+只是一句话
+
+610
+00:36:02,410 --> 00:36:04,690
+No big deal. But that is what I focus on.
+没什么大不了的 但我专注在这上面
+
+611
+00:36:06,290 --> 00:36:08,460
+You know I flew home after. I went back to Israel.
+我后来飞回家 飞回以色列
+
+612
+00:36:08,680 --> 00:36:10,640
+The whole flight that what I was thinking of.
+在飞机上我一直在想这事
+
+613
+00:36:11,240 --> 00:36:12,370
+Ignoring the other things.
+忽略了其他的事情
+
+614
+00:36:12,610 --> 00:36:15,090
+You know the fact that 2 hours after the Jon Stewart show,
+Jon Stewart脱口秀完了后二小时
+
+615
+00:36:15,300 --> 00:36:18,380
+the book became a best seller. Completely ignore that.
+这本书成了最畅销书 我完全忽略了这个
+
+616
+00:36:18,620 --> 00:36:20,060
+Didn't exist as far as I was concerned.
+我根本没去考虑那
+
+617
+00:36:20,280 --> 00:36:22,460
+It was just that one sentence. How could I say it?
+我一直在想那句话 我怎么会说出来的?
+
+618
+00:36:22,670 --> 00:36:24,930
+Why didn't I prepare for it better? And so on.
+为什么没有更好的准备? 等等
+
+619
+00:36:25,130 --> 00:36:27,850
+And then I suddenly said," Hey,wait a minute!" Tunnel Vision.
+然后我突然说"等一下" 隧道视野
+
+620
+00:36:28,160 --> 00:36:31,210
+And I zoomed out. I looked at the bigger picture.
+我把它缩小了 我把视野扩大
+
+621
+00:36:33,250 --> 00:36:36,620
+Then I said,"okay,so I said something that I regret. Big deal."
+然后我说”我说了一句让我后悔的话 超赞啊”
+
+622
+00:36:36,850 --> 00:36:39,820
+You know. It's comedy. It's fun. So many people,
+这是喜剧 很有趣 许多人在看
+
+623
+00:36:40,050 --> 00:36:42,150
+so many of your friends have watched and enjoyed it.
+你的许多朋友都看过 都很喜欢
+
+624
+00:36:43,310 --> 00:36:45,740
+It was a great opportunity. I looked at the bigger picture.
+这是个很好的机会 我看到了更大的方面
+
+625
+00:36:46,470 --> 00:36:48,340
+Gave myself the permission to be human.
+允许自己做回一个人
+
+626
+00:36:49,740 --> 00:36:52,460
+To regret it.But then overall,
+会感到后悔 但从总体上
+
+627
+00:36:52,800 --> 00:36:56,230
+I could see it in a much more rational light than before.
+我能用比以前更理性的目光看待它
+
+628
+00:36:58,150 --> 00:37:00,840
+Big dealSo again,as I said,I still apply...I still use these ideas.
+像我说的 我仍然在用这些想法
+
+629
+00:37:01,080 --> 00:37:01,660
+In the past,
+过去
+
+630
+00:37:01,880 --> 00:37:05,360
+it would take me months to get over this one sentence.
+我可能要花几个月才不会想这句话
+
+631
+00:37:06,210 --> 00:37:10,990
+Whereas now,zoom out. Evaluation thought,irrational.
+但是现在 视野变窄 评估想法 非理性的影响
+
+632
+00:37:11,250 --> 00:37:14,280
+And recover much more promptly.
+能更迅速地恢复
+
+633
+00:37:17,130 --> 00:37:20,220
+Dismissal of positives or negatives. So the person
+消除积极或者消极的影响
+
+634
+00:37:20,480 --> 00:37:25,140
+who has tunnel vision doesn't see the other 618 people
+有隧道视野的人不会去留意其他618个
+
+635
+00:37:25,360 --> 00:37:26,850
+who are engaged or asleep.
+专心听课或睡觉的人
+
+636
+00:37:28,420 --> 00:37:31,200
+The person who dismiss the positives see those
+忽视了积极面的人看到那些
+
+637
+00:37:31,500 --> 00:37:34,810
+but says they're unimportant; they are trivial in comparison to
+但说他们不重要 它们很微不足道
+
+638
+00:37:36,720 --> 00:37:41,910
+how I just failed or what I just did wrong. So for example,
+比起我的失败或我做的错事 比如
+
+639
+00:37:42,610 --> 00:37:46,680
+and this again,something that I...a trap that I often fall into.
+我经常会遇到的一个困境
+
+640
+00:37:47,830 --> 00:37:50,890
+When I was a senior,I applied for fellowships
+我大四时申请了奖学金
+
+641
+00:37:51,150 --> 00:37:53,230
+and I got a fellowship to go to Cambridge.
+我得到去剑桥的奖学金
+
+642
+00:37:53,620 --> 00:37:58,280
+And I got the John Elliot Fellowship.
+我得的是John Elliot奖学金
+
+643
+00:37:59,730 --> 00:38:02,600
+And there are 4 fellowships that go to Cambridge:
+剑桥有四个奖学金
+
+644
+00:38:02,860 --> 00:38:08,710
+the John Elliot,the Fiske,um...one other...Pembroke;
+John Elliot和Fiske 还有Pembroke
+
+645
+00:38:08,960 --> 00:38:11,240
+then there is the John Harvard fellowship.
+还有一个是John Harvard奖学金
+
+646
+00:38:11,530 --> 00:38:13,350
+So I got the John Elliot,one of the 4.
+我得到了John Elliot奖学金 四个之一
+
+647
+00:38:13,580 --> 00:38:17,920
+Immediately when I got it,I know that I got it obviously.
+我得到后不久 我就得到消息了
+
+648
+00:38:18,160 --> 00:38:19,750
+It wasn't that I was ignoring it.
+并不是我无视了它
+
+649
+00:38:19,980 --> 00:38:22,010
+But then I said why didn't I get the John Harvard fellowship.
+但我想为什么没能得到John Harvard奖学金
+
+650
+00:38:22,670 --> 00:38:25,620
+Now there is no difference between them except for the names.
+它们之间除名字不同外没任何区别
+
+651
+00:38:26,100 --> 00:38:28,530
+But that's immediately what my mind went to. And that,
+但那是我的脑袋里立刻想到的
+
+652
+00:38:28,770 --> 00:38:30,630
+that was very important experience for me because I said
+对我而言是很重要的经历 因为我说
+
+653
+00:38:30,890 --> 00:38:35,230
+"wow,look at you. "and that's when I started to recognize
+“看看你” 我在那个时候开始意识到
+
+654
+00:38:35,640 --> 00:38:40,280
+the importance and the power of our evaluation.
+我们的评估的重要性和威力
+
+655
+00:38:40,520 --> 00:38:42,410
+And how that can determine or even ruin
+它是怎样决定或甚至毁掉
+
+656
+00:38:42,700 --> 00:38:44,300
+what should have been a celebration.
+本该是一件值得庆祝的事
+
+657
+00:38:47,920 --> 00:38:50,110
+But once we recognize it,once we understand it,
+但一旦我们认识它 一旦了解它后
+
+658
+00:38:50,340 --> 00:38:53,270
+we can dispute it. We can challenge it.
+我们可以怀疑它 可以质疑它
+
+659
+00:38:54,160 --> 00:39:01,340
+We can reframe it and see the positive as well.
+可以重组它 也能看到积极的一面
+
+660
+00:39:01,970 --> 00:39:04,490
+Again,all it's saying in cognitive therapy is let's be real.
+此外 认知疗法就是要我们实际点
+
+661
+00:39:07,150 --> 00:39:09,400
+Making up or fabricating the 3rd M.
+第三个M是虚构 或称捏造
+
+662
+00:39:11,110 --> 00:39:13,960
+This is when we create something ex nihilo,from nothing.
+这是我们无中生有的时候
+
+663
+00:39:14,890 --> 00:39:18,570
+So for example,we personalize it or we blame.
+比如 我们个人化或者归咎他人
+
+664
+00:39:18,820 --> 00:39:21,830
+We see this very often with people who are abused.
+被虐待的人身上经常能看到这点
+
+665
+00:39:22,080 --> 00:39:25,480
+So an abused wife will very often say
+受虐待的妻子经常会说
+
+666
+00:39:25,760 --> 00:39:31,100
+"It's my doing. It's my fault. I'm not behaving appropriately."
+“是我做的 我的错 我做的不对”
+
+667
+00:39:32,200 --> 00:39:33,820
+Instead of rationally saying
+而不是理智地说
+
+668
+00:39:34,870 --> 00:39:36,880
+"This guy is abusive. I'm out of here."
+“这个家伙虐待我 我要离开”
+
+669
+00:39:39,480 --> 00:39:41,160
+That's irrational personalization.
+那是不理性地个人化
+
+670
+00:39:41,370 --> 00:39:42,990
+It can also be the other way around.
+它也会有别的方式
+
+671
+00:39:43,830 --> 00:39:46,190
+You know,I just did poorly on an exam
+我有次考试成绩很差
+
+672
+00:39:46,480 --> 00:39:49,700
+and I blame my boyfriend or girlfriend for it.
+我因此责怪我男朋友或女朋友
+
+673
+00:39:50,760 --> 00:39:53,060
+That's also unrealistic. I need to take responsibility.
+那也是不现实的 我得承担责任
+
+674
+00:39:53,940 --> 00:39:56,310
+You got to remember Nathaniel Branden. No one is coming.
+要记住Nathaniel Branden的例子 没有人会来
+
+675
+00:39:56,750 --> 00:39:58,440
+Take responsibility rather than blame.
+承担起责任而不是责备别人
+
+676
+00:39:58,640 --> 00:39:59,660
+One of the key ideas (that)
+Marva Collins和她的学生交流的
+
+677
+00:39:59,840 --> 00:40:02,010
+Marva Collins communicates to her students.
+重要的观点之一
+
+678
+00:40:03,630 --> 00:40:06,760
+So again,it's not going to the personalizing...over-personalizing
+不是过度个人化
+
+679
+00:40:07,050 --> 00:40:09,970
+or over-blaming,it's being real.
+或过度责备 而是面对现实
+
+680
+00:40:11,310 --> 00:40:13,410
+And finally,emotional reasoning.
+最后是情感的推理
+
+681
+00:40:17,270 --> 00:40:21,210
+I am envious; therefore I must be a bad person.
+我满怀妒嫉 因此我肯定是个坏人
+
+682
+00:40:21,770 --> 00:40:25,500
+Or I'm experiencing danger
+或我在试镜前
+
+683
+00:40:26,300 --> 00:40:29,130
+before a tryout therefore it must be dangerous.
+遇到了危险 所以肯定很危险
+
+684
+00:40:30,020 --> 00:40:33,150
+Taking an emotion and making it into reality
+选取一种情绪 让它成为现实
+
+685
+00:40:33,360 --> 00:40:36,550
+whereas instead of understanding an emotion is an emotion,
+而不是把情感只当做情感
+
+686
+00:40:36,760 --> 00:40:38,710
+it doesn't necessary capture reality,
+不必符合现实
+
+687
+00:40:38,880 --> 00:40:41,140
+it is my evaluation of reality.
+而是我对现实的评估
+
+688
+00:40:42,810 --> 00:40:47,860
+Or,I'm extremely scared of failing...and therefore...
+或者 我非常害怕失败 因此
+
+689
+00:40:48,990 --> 00:40:50,840
+it means that failing it's really dangerous,
+意味着失败是很危险的
+
+690
+00:40:51,070 --> 00:40:54,620
+while in fact it's not. I'll get back up again very quickly,
+实际不是的 我会马上回到这个话题
+
+691
+00:40:55,000 --> 00:40:56,650
+so it's having the correct evaluation,
+所以要有正确的评估
+
+692
+00:40:56,870 --> 00:41:00,970
+correcting for the track,correcting for these errors.
+更正轨迹 更正这些错误
+
+693
+00:41:04,470 --> 00:41:05,990
+Or feeling that,
+更正"我很平庸
+
+694
+00:41:06,830 --> 00:41:11,280
+I'm second-rate and I'm no good in psychology or maths,
+心理学或数学我学不好"之类的想法
+
+695
+00:41:12,500 --> 00:41:18,320
+and because I feel that,my evaluation of it is,well,
+因为我有那种感觉 我的评估就是
+
+696
+00:41:18,710 --> 00:41:20,820
+I must really be second-rate and no good,
+我肯定真的很平庸 学不好
+
+697
+00:41:21,450 --> 00:41:24,920
+instead having the rational belief of,well,let me try out,
+而不是理性的想法 让我试一下
+
+698
+00:41:25,170 --> 00:41:30,020
+let me see how things go,correcting the distortions.
+看看事情会怎么样 更正扭曲的想法
+
+699
+00:41:30,930 --> 00:41:32,810
+The key,once again,is to get real.
+再说一次 关键是真实化
+
+700
+00:41:33,040 --> 00:41:35,880
+How do we get real through the questions that we ask?
+我们如何通过我们的提问变真实?
+
+701
+00:41:36,110 --> 00:41:37,700
+I am going to give you just a few examples here;
+我在这要给你们举几个例子
+
+702
+00:41:37,920 --> 00:41:40,660
+you are going to practice with those on your own.
+你们要自己去练习
+
+703
+00:41:40,880 --> 00:41:42,550
+But here are just some of them.
+这些是其中几个
+
+704
+00:41:43,180 --> 00:41:45,780
+First of all,is my conclusion tied to reality?
+首先 我的结论和现实相关吗?
+
+705
+00:41:48,640 --> 00:41:53,190
+Second,is it rational? They are interconnected.
+第二 那合理吗? 它们是相关联的
+
+706
+00:41:54,850 --> 00:41:56,350
+Am I ignoring something important?
+我忽略了什么重要的事吗?
+
+707
+00:41:57,530 --> 00:42:00,990
+Like the fact that---you know the book did well afterwards---
+比如 之后那本书销量很好
+
+708
+00:42:01,270 --> 00:42:07,970
+like the fact that there are other cool guys in 1504,and so on.
+比如1504教室还有别的男孩 等等
+
+709
+00:42:09,230 --> 00:42:10,520
+What important evidence
+什么重要的迹象
+
+710
+00:42:10,700 --> 00:42:12,830
+do I still need to take into consideration?
+是我需要考虑的?
+
+711
+00:42:13,070 --> 00:42:15,540
+This is about disputing,it's evidence,it's get real.
+进行辩论 举出证据 现实化
+
+712
+00:42:15,740 --> 00:42:19,970
+Look out,don't just zoom in on the geometric shapes,
+但小心别只是进行几何形状的扩大
+
+713
+00:42:20,190 --> 00:42:21,490
+there are also children on the bus.
+公交车上还有孩子
+
+714
+00:42:22,660 --> 00:42:25,340
+And this is what questions do. They open us up,
+这是这些问题做的 让我们放开思绪
+
+715
+00:42:25,830 --> 00:42:29,170
+they open our vision and they create in your reality.
+它们打开我们的视野 创造现实
+
+716
+00:42:30,050 --> 00:42:33,230
+What am I magnifying? What am I minimizing?
+我夸大了什么?我在贬低什么?
+
+717
+00:42:33,450 --> 00:42:35,500
+Am I falling into the traps?
+我陷入困境了吗?
+
+718
+00:42:36,920 --> 00:42:39,610
+Am I ignoring anything that is going well?
+我忽略了什么进展很顺利的事吗?
+
+719
+00:42:42,000 --> 00:42:44,250
+Am I ignoring anything that is not going well?
+我忽略什么进展不顺的事吗?
+
+720
+00:42:44,560 --> 00:42:47,390
+It's not about Pollyanna feel good at all costs,
+这不是不计代价地盲目乐观
+
+721
+00:42:47,660 --> 00:42:53,640
+it's about being tied to reality. And finally,let me zoom out.
+是要联系现实 最终缩小范围
+
+722
+00:42:53,870 --> 00:42:55,220
+What is the big picture.
+大的画面是什么
+
+723
+00:43:03,540 --> 00:43:08,670
+To conclude,Ed Diener and Martin Seligman
+结论是 Ed Diener和Martin Seligman
+
+724
+00:43:10,520 --> 00:43:13,790
+did very important research on extremely happy people.
+对幸福无比的人们做了重要研究
+
+725
+00:43:14,020 --> 00:43:15,830
+This is tip of the stamp research.
+这是对高端的研究
+
+726
+00:43:16,050 --> 00:43:19,730
+Looking at the 10 per cent of the happiest people out there,
+看那些百分之十最幸福的人
+
+727
+00:43:20,030 --> 00:43:21,860
+people that we can learn from.
+我们能从他们那里取经
+
+728
+00:43:22,250 --> 00:43:24,590
+And what they found was very interesting.
+他们的研究结果很有趣
+
+729
+00:43:24,820 --> 00:43:29,040
+First of all,these people did not experience painful emotions
+首先 这些人经历痛苦
+
+730
+00:43:29,500 --> 00:43:32,550
+any less times than the rest of the people,
+不比其他人少
+
+731
+00:43:32,810 --> 00:43:37,190
+say the bottom 10 per cent or the mid 10 per cent.
+比如最不幸福的10%或中间的10%
+
+732
+00:43:38,040 --> 00:43:39,580
+They experience painful emotions,
+他们经历过痛苦
+
+733
+00:43:39,780 --> 00:43:45,630
+the difference between them and the rest was that they recovered
+他们与剩下的人之间的区别是
+
+734
+00:43:45,890 --> 00:43:49,710
+more promptly as a result of different interpretations.
+由于不同的诠释 他们恢复得更迅速
+
+735
+00:43:49,910 --> 00:43:54,450
+So when they felt down,they were optimistic instead of saying
+所以他们沮丧时 他们很乐观 不说
+
+736
+00:43:54,690 --> 00:43:57,280
+"ok,so I'm going to feel down for the rest of the month",
+“这个月剩下的日子我都会沮丧”
+
+737
+00:43:57,810 --> 00:44:00,360
+they said "ok,so I'm feeling down,big deal.
+他们说“我很沮丧 没什么大不了”
+
+738
+00:44:00,750 --> 00:44:02,050
+What can I learn from it? What happen?
+我能从中学到什么?发生了什么?
+
+739
+00:44:02,220 --> 00:44:03,650
+How can I make myself feel better?"
+我怎样让自己感觉好点?
+
+740
+00:44:03,890 --> 00:44:06,850
+And then they recovered more promptly than the pessimists,
+然后他们比悲观者恢复得更快
+
+741
+00:44:07,040 --> 00:44:10,640
+the people who remained depressed for a much longer time.
+悲观者会沮丧很长一段时间
+
+742
+00:44:11,570 --> 00:44:16,910
+You see,events happen,things happen in the world,
+事件发生 世上有很多事发生
+
+743
+00:44:18,280 --> 00:44:20,010
+very often out of our control.
+经常不受我们的控制
+
+744
+00:44:21,190 --> 00:44:24,110
+We don't create everything that we encounter.
+我们不能创造所有遇到的事物
+
+745
+00:44:24,410 --> 00:44:26,980
+And some of the events are bad,some are negative.
+有些事件是不好的 有些是消极的
+
+746
+00:44:28,700 --> 00:44:31,780
+What matters more is what we do with them after,
+更重要的是我们之后怎样对待它们
+
+747
+00:44:32,420 --> 00:44:36,030
+how we evaluate them. And what happens is that
+怎样评估它们 事实上
+
+748
+00:44:36,270 --> 00:44:38,360
+our evaluation becomes a self-fulfilling prophecy,
+我们的评估成了自我实现预言
+
+749
+00:44:38,600 --> 00:44:41,520
+because a pessimist will say "I'm in a bad mood now,
+因为悲观者会说"我现在心情不好
+
+750
+00:44:41,780 --> 00:44:43,810
+it's going to last for a very long time,
+会持续很长时间
+
+751
+00:44:44,040 --> 00:44:46,970
+it's not going to go away",whereas an optimist says
+不会消失" 而乐观者会说
+
+752
+00:44:48,820 --> 00:44:50,410
+"it's temporary,it's going to go away"
+"这是暂时的 会消失的"
+
+753
+00:44:50,650 --> 00:44:52,710
+and believes our self-fulfilling prophecies.
+并相信我们的自我实现预言
+
+754
+00:44:52,930 --> 00:44:56,040
+If I believe that it will last for six months,
+如果我认为它会持续六个月
+
+755
+00:44:56,300 --> 00:44:57,830
+it's much more likely,not necessarily,
+它更有可能 不一定
+
+756
+00:44:58,030 --> 00:45:00,430
+but it's much more likely to last for six months
+但更可能持续六个月
+
+757
+00:45:00,640 --> 00:45:02,620
+than if I say "that too shall pass".
+比我说“那也会过去的”
+
+758
+00:45:07,390 --> 00:45:08,810
+And what we do with our beliefs
+我们对待信仰的方式
+
+759
+00:45:09,030 --> 00:45:13,860
+is we create a downward spiral of depression,unhappiness,
+是造一个向下的忧伤沮丧的螺旋
+
+760
+00:45:14,110 --> 00:45:19,030
+sadness or an upward spiral,capitalizing positive emotions
+或一个向上的拥有积极情绪的螺旋
+
+761
+00:45:19,310 --> 00:45:21,510
+and having more and more of them,
+并越来越多
+
+762
+00:45:22,320 --> 00:45:23,550
+what Barbara Fredrickson talks about
+Barbara Fredrickson所说的
+
+763
+00:45:23,750 --> 00:45:28,470
+the "broaden and build" phenomenon. A lot of it is up to us.
+“扩大和构造”现象大部分取决于我们自身
+
+764
+00:45:34,290 --> 00:45:39,710
+There are no short cuts. There are no easy steps to wellbeing,
+没有捷径 通往幸福 成功
+
+765
+00:45:39,930 --> 00:45:42,180
+to success,to high level of beliefs in ourselves.
+和自身更高水平的信念的道路并不容易
+
+766
+00:45:42,380 --> 00:45:45,310
+It takes work,it takes effort,whether it's work visualizing,
+那需要付出和努力 无论是形象化
+
+767
+00:45:45,560 --> 00:45:47,930
+whether it's hard work and coping,
+还是努力奋斗和积极面对
+
+768
+00:45:48,250 --> 00:45:51,650
+or whether it's work learning to dispute irrational thoughts.
+或是学习如何消除非理性思想
+
+769
+00:45:53,600 --> 00:45:55,930
+And it's not enough to just understand it once
+并不是弄明白一次
+
+770
+00:45:56,150 --> 00:45:57,290
+and then we are all set,
+然后就一劳永逸
+
+771
+00:45:57,490 --> 00:45:59,790
+we are all inoculated for the rest of our lives.
+我们一生都必须持续努力
+
+772
+00:46:02,690 --> 00:46:04,100
+If you want to continue working,
+如果你想继续努力
+
+773
+00:46:04,310 --> 00:46:05,920
+we have to continue working at it.
+我们必须一直致力其中
+
+774
+00:46:10,880 --> 00:46:28,320
+Let me move on...And talk about the question of "focus".
+下个内容 讲"关注"的问题
+
+775
+00:46:31,480 --> 00:46:34,570
+Because just like if we focus on specific element
+因为我们关注某一要素
+
+776
+00:46:34,780 --> 00:46:37,080
+of an event or not makes a difference,
+或事件与否 有很大的区别
+
+777
+00:46:37,660 --> 00:46:41,630
+it applies on the macro level to our entire life.
+它对我们整个生命的宏观层面有巨大影响
+
+778
+00:46:41,850 --> 00:46:43,420
+What I am going to do now is elaborate,
+我现在要进行详细的阐述
+
+779
+00:46:43,760 --> 00:46:47,070
+go up higher level of the spiral of understanding and learning,
+对一些我们经常讨论的
+
+780
+00:46:47,290 --> 00:46:49,460
+of something that we have talked about time and again.
+关于某事的理解和学习螺旋进行更高层次分析
+
+781
+00:46:52,720 --> 00:46:56,800
+Ed Diener,who is also,I just mentioned his research,
+Ed Diener 我刚提到他的研究
+
+782
+00:46:57,010 --> 00:46:58,600
+he is also the president,first president
+他也是国际积极心理学协会的
+
+783
+00:46:58,830 --> 00:47:01,610
+of the International Positive Psychology Association,
+第一任会长
+
+784
+00:47:01,830 --> 00:47:06,990
+he's from Illinois. After years of research,concludes,
+他来自伊利诺州 经过多年研究 他发现
+
+785
+00:47:07,240 --> 00:47:09,970
+it appears that the way people perceive the world
+对幸福而言 人们感知世界的方式
+
+786
+00:47:10,250 --> 00:47:14,630
+is much more important to happiness than objective circumstances.
+比客观环境更重要
+
+787
+00:47:15,430 --> 00:47:17,490
+Now if you think about it,that makes a lot of sense.
+如果你想一下的话 很有道理
+
+788
+00:47:17,760 --> 00:47:19,870
+We know a lot of people who seemingly have everything,
+我们认识许多看起来拥有一切的人
+
+789
+00:47:20,350 --> 00:47:24,310
+whether it's wealth,whether it's wonderful friends and family,
+无论是财富 或很好的朋友或家人
+
+790
+00:47:25,310 --> 00:47:28,190
+all their dreams have come true,and they are still miserable.
+他们的梦想都已成真 但仍很痛苦
+
+791
+00:47:28,420 --> 00:47:29,480
+While there are people who have very little,
+而有些人拥有的很少
+
+792
+00:47:29,720 --> 00:47:32,170
+who have experienced hardship after hardship
+经历了一次次困境
+
+793
+00:47:33,240 --> 00:47:36,950
+and who never cease to celebrate life. Then there are people
+而从没停止为生活感到欢庆 还有些人
+
+794
+00:47:37,160 --> 00:47:41,090
+who have everything going for them and really appreciate it,
+他们拥有一切并很感激这一切
+
+795
+00:47:41,470 --> 00:47:43,570
+don't take it for granted and are happy. And there are people
+不觉得理所当然 他们很快乐 有些人
+
+796
+00:47:43,790 --> 00:47:48,090
+who don't have much and never cease to complain.
+拥有的不多 永远都在抱怨
+
+797
+00:47:51,400 --> 00:47:54,500
+In other words,it's not just the internal or...sorry,
+换句话说 不只是内在的...抱歉
+
+798
+00:47:54,730 --> 00:47:56,710
+it's not just the external that matters,
+重要的不只是外在
+
+799
+00:47:58,220 --> 00:48:00,510
+what matters more is the internal.
+更重要的是内在
+
+800
+00:48:00,830 --> 00:48:02,880
+Happiness is not contingent on our status,
+幸福不是取决于我们的处境
+
+801
+00:48:03,120 --> 00:48:04,920
+or the state of our bank account,
+或我们银行账户里的金额
+
+802
+00:48:04,970 --> 00:48:08,100
+it's much more dependent on our state of mind,
+更依赖于我们的思想状态
+
+803
+00:48:08,390 --> 00:48:11,200
+on what we choose to focus on.
+依赖于我们选择关注什么
+
+804
+00:48:11,610 --> 00:48:13,570
+Because our emotions are determined
+因为我们的感情
+
+805
+00:48:13,780 --> 00:48:16,750
+by external circumstances as well as internal,
+由外部和内部状况一起决定
+
+806
+00:48:17,890 --> 00:48:20,170
+interpretation matters. For example,
+如何去诠释很重要 比如
+
+807
+00:48:20,480 --> 00:48:25,040
+look at what Edison did,5,000 failures to the external observer,
+看爱迪生如何对待5000次的失败
+
+808
+00:48:25,210 --> 00:48:27,610
+for him the evaluation was very different.
+对他而言 评估和常人不同
+
+809
+00:48:27,860 --> 00:48:30,290
+The internal evaluation,the subjective evaluation,
+内部评估 主观的评估
+
+810
+00:48:30,510 --> 00:48:34,120
+it was 5,000 times where I showed what doesn't work.
+我证明了5000种方法不管用
+
+811
+00:48:38,800 --> 00:48:43,810
+And it's up to us to decide where we focus.
+要关注什么由我们自己决定
+
+812
+00:48:45,000 --> 00:48:48,730
+Do we celebrate successes or take it for granted?
+我们庆祝成功或视为理所当然?
+
+813
+00:48:48,960 --> 00:48:51,870
+Do we perceive failures and hardships as a disaster
+我们觉得失败和困难都是灾难
+
+814
+00:48:52,150 --> 00:48:58,730
+or as an opportunity for growth? Emerson:
+或是成长的机会? 爱默生说过
+
+815
+00:48:58,980 --> 00:49:03,310
+"to different minds the same world is a hell and a heaven."
+“对不同思想而言 世界既是天堂又是地狱”
+
+816
+00:49:03,670 --> 00:49:04,910
+And Shakespeare:
+莎士比亚说过
+
+817
+00:49:05,160 --> 00:49:08,270
+"Nothing is good or bad,but thinking makes it so."
+“事情没有好坏之分 只是思想使然”
+
+818
+00:49:08,650 --> 00:49:11,250
+Now,I don't 100 per cent agree with Shakespeare,
+我不是百分之一百同意莎士比亚
+
+819
+00:49:11,610 --> 00:49:15,020
+but he is to a great extent right. A person in ???
+但从很大程度上看他是对的 住在达尔富尔的人
+
+820
+00:49:15,340 --> 00:49:20,850
+is living in hell,and it's very difficult to reframe,
+就像生活在地狱中 很难改变环境
+
+821
+00:49:21,140 --> 00:49:24,300
+and to derive,and to look at the positive in that situation.
+并在那样的处境中表现得积极乐观
+
+822
+00:49:26,750 --> 00:49:29,590
+Same for a person living in a concentration camp.
+对住在集中营的人也一样
+
+823
+00:49:31,760 --> 00:49:33,910
+So there are external circumstances that matter.
+所以有的外部情况会有影响
+
+824
+00:49:34,180 --> 00:49:37,000
+A person,a homeless person,you know,
+一个人 无家可归的人
+
+825
+00:49:37,260 --> 00:49:40,550
+if you give them enough money for a home,for food,
+如果给他们足够的钱买房子 买食物
+
+826
+00:49:40,770 --> 00:49:42,980
+for basic education,of course they will become happier
+接受基础的教育 他们当然会更快乐
+
+827
+00:49:43,220 --> 00:49:46,280
+because of the change of external circumstances.
+因为外部情况的改变
+
+828
+00:49:47,040 --> 00:49:51,390
+However,beyond the basic needs,beyond the basic freedoms,
+然而 在基本需要和基本的自由外
+
+829
+00:49:51,660 --> 00:49:56,000
+it is mostly about how we perceive reality,
+主要和我们如何认知现实有关
+
+830
+00:49:56,200 --> 00:49:58,910
+and we are able to make it into a heaven or a hell.
+以及我们如何让生活变成天堂或地狱
+
+831
+00:50:01,590 --> 00:50:02,570
+Let's do an exercise
+我们做个练习
+
+832
+00:50:02,790 --> 00:50:08,700
+that will capture this idea of "focus creating reality".
+来帮助我们理解"专注创造现实"这一观点
+
+833
+00:50:09,730 --> 00:50:13,830
+So I have a question for you: how many geometric shapes?
+我有个问题问你们 有多少几何图形?
+
+834
+00:50:16,020 --> 00:50:18,370
+Unfortunate,it's a great exercise but it only works once.
+不幸 这个很棒的练习 只能做一次
+
+835
+00:50:20,200 --> 00:50:22,670
+Remember this,how you created your reality
+记住这点 你如何创造现实
+
+836
+00:50:22,960 --> 00:50:25,140
+just based on the question that you asked.
+基于你提的问题
+
+837
+00:50:25,370 --> 00:50:26,940
+We think when we look at the picture,
+当我们看这幅图时我们在思考
+
+838
+00:50:27,180 --> 00:50:28,690
+you know not everyone of course is looking on the children
+当然不是每个人都在看那个
+
+839
+00:50:28,870 --> 00:50:31,080
+on the bus on the clock,right?
+时钟上的公共汽车上的那个小孩 对吗?
+
+840
+00:50:31,310 --> 00:50:33,140
+But before it was right in front of you and you didn't,
+但它就在你面前 而你没看到
+
+841
+00:50:33,320 --> 00:50:40,000
+most of you,did not see it,because it is a question of focus.
+你们许多人没有看到这点 是专注的问题
+
+842
+00:50:40,260 --> 00:50:42,470
+Very often we complain about life and we think,
+我们经常抱怨生活 我们认为
+
+843
+00:50:42,650 --> 00:50:45,200
+you know,things are terrible and awful not realizing
+事情很糟糕 很可怕 而没意识到
+
+844
+00:50:45,420 --> 00:50:50,240
+that we're the cause of it,either by imaging it
+我们是它的起因 要么是在想象它时
+
+845
+00:50:50,400 --> 00:50:52,400
+and then beliefs become self-fulfilling prophesies,
+然后我们的信念变成自我实现预言
+
+846
+00:50:52,620 --> 00:50:55,900
+or,because we just focus on what is not working.
+或因为我们只专注于不对的方面
+
+847
+00:50:56,850 --> 00:50:58,050
+And one thing and this does not mean
+而这并不意味着
+
+848
+00:50:58,250 --> 00:51:01,720
+that there are no objective terrible circumstances out there.
+没有什么客观的糟糕的情况
+
+849
+00:51:02,010 --> 00:51:07,760
+But to a great extent,a great extent,we co-create our reality.
+但很大程度上 我们一起创造了现实
+
+850
+00:51:08,020 --> 00:51:09,500
+You know one of the students
+我的一个学生
+
+851
+00:51:09,690 --> 00:51:12,890
+who was in 1504 two years ago recommended this book to me---
+两年前在1504教室 向我推荐这本书
+
+852
+00:51:13,120 --> 00:51:15,780
+Way of the Peaceful Warrior. And it's a wonderful book,
+《深夜加油站遇见苏格拉底》是本好书
+
+853
+00:51:15,990 --> 00:51:19,490
+I just started reading it...and there is a movie on it,right...
+我刚开始看 它有部同名电影 对的
+
+854
+00:51:19,710 --> 00:51:22,070
+I just started reading it yesterday,and I came across this...
+我昨天才开始看 我看到这个...
+
+855
+00:51:23,070 --> 00:51:26,370
+you know coincidentally this parable,so I want to read it to you
+这个寓言很巧合 我想读给你们听
+
+856
+00:51:26,610 --> 00:51:33,300
+The story that Dan Millman,the author,tells:
+作者Dan Millman讲了一个故事
+
+857
+00:51:36,970 --> 00:51:40,410
+I met him on a construction site in the Middle West.
+我和他在中东一个建筑工地认识
+
+858
+00:51:41,710 --> 00:51:43,420
+When the lunch whistle blew,
+当午餐哨吹响时
+
+859
+00:51:43,640 --> 00:51:46,050
+all the workers would sit down together to eat.
+所有的工人都会坐在一起吃饭
+
+860
+00:51:46,830 --> 00:51:52,390
+And everyday Sam would open his lunch pail and start to complain.
+每天Sam都会打开午餐桶 开始抱怨
+
+861
+00:51:53,850 --> 00:51:55,810
+"Son of the gun,"he would cry,
+"该死的家伙"他会大叫
+
+862
+00:51:56,050 --> 00:51:57,980
+"not peanut butter and jelly sandwich again!
+"又是花生酱和果冻三明治
+
+863
+00:51:58,360 --> 00:52:00,370
+I hate peanut butter and jelly!"
+我讨厌花生酱和果冻"
+
+864
+00:52:01,350 --> 00:52:04,050
+He whined about his peanut butter and jelly sandwiches
+他埋怨着花生酱和果冻
+
+865
+00:52:04,250 --> 00:52:06,140
+day after day after day,
+日复一日
+
+866
+00:52:06,760 --> 00:52:11,060
+until one of the guys in the work crew finally said:
+直到一天工作组里的一个人终于说
+
+867
+00:52:11,260 --> 00:52:14,440
+"Sam,if you hate peanut butter and jelly so much,
+"Sam 如果你这么讨厌花生酱和果冻
+
+868
+00:52:14,820 --> 00:52:16,850
+why don't you just tell your old lady
+为什么不叫你老婆
+
+869
+00:52:17,100 --> 00:52:18,720
+to make you something different?"
+给你做点别的?"
+
+870
+00:52:20,640 --> 00:52:22,650
+"What do you mean my old lady?" Sam replied,
+"什么我老婆?"Sam回答说
+
+871
+00:52:22,870 --> 00:52:25,450
+"I'm not married,I make my own sandwiches."
+"我没结婚 我自己做三明治"
+
+872
+00:52:33,100 --> 00:52:36,240
+You know,very often we make our own sandwiches
+我们经常自己做三明治
+
+873
+00:52:36,550 --> 00:52:42,180
+and we don't even notice it. Because the questions that we ask,
+而没意识到这点 因为我们问的问题
+
+874
+00:52:42,410 --> 00:52:45,070
+the questions that we ask determine our reality:
+我们问的问题决定我们的现实
+
+875
+00:52:45,310 --> 00:52:49,390
+a peanut sandwich,or geometric shapes,or children on the bus,
+花生三明治 几何形状 或车上的孩子
+
+876
+00:52:49,810 --> 00:52:55,560
+or salami,whatever it is. We very often create our own reality.
+或香肠 无论什么 我们创造我们自己的现实
+
+877
+00:52:58,290 --> 00:53:02,590
+And if we understand this,we can transform,
+如果我们理解这点 我们能改变
+
+878
+00:53:02,770 --> 00:53:05,490
+change the way that we perceive,change our focus,
+改变我们认知的方式 改变关注的事
+
+879
+00:53:05,750 --> 00:53:07,810
+change our questions,
+改变我们的问题
+
+880
+00:53:08,200 --> 00:53:11,150
+whether it's questions disputing irrational evaluations,
+无论是辩论非理性评估
+
+881
+00:53:11,360 --> 00:53:13,790
+whether it's questions focusing on the positive,
+或是关注积极面
+
+882
+00:53:14,690 --> 00:53:17,450
+and questions create a new reality.
+还是创造新的现实的问题
+
+883
+00:53:20,910 --> 00:53:22,540
+There are essentially two archetypes
+我们将在这里讨论
+
+884
+00:53:22,770 --> 00:53:24,000
+that I would like to discuss here,
+本质上来说有两种原型
+
+885
+00:53:24,210 --> 00:53:26,640
+two archetypes that capture in many ways
+在如何认知性地重建 加强 创造现实等
+
+886
+00:53:26,820 --> 00:53:32,500
+how we can cognitively reconstruct,enhance,create our reality.
+多种途径有着两种原型
+
+887
+00:53:33,880 --> 00:53:40,020
+The two archetypes are the benefit-finder and the fault-finder.
+两个原型分别是积极者和消极者
+
+888
+00:53:41,210 --> 00:53:45,640
+First of all,the fault-finder,the fault-finder is a person
+首先消极者 消极者是
+
+889
+00:53:45,850 --> 00:53:48,290
+who always focuses on things that don't work,
+总是专注不成功的事情的人
+
+890
+00:53:48,810 --> 00:53:53,680
+on the peanut butter and jelly,on things that are not going well
+花生酱和果冻 专注进展不顺利的事
+
+891
+00:53:53,950 --> 00:53:57,550
+on problems in the relationship,on problem in him or herself,
+专注交往中的问题 他或她自己的问题
+
+892
+00:53:57,790 --> 00:54:00,830
+problems with the job---the consummate complainer.
+工作的问题 总是爱抱怨的人
+
+893
+00:54:01,060 --> 00:54:03,890
+Now,we all exist on the continuum of
+我们都存在于消极和
+
+894
+00:54:04,120 --> 00:54:08,240
+between extreme fault-finding and extreme benefit-finding.
+积极两个极端之间
+
+895
+00:54:09,480 --> 00:54:10,010
+You know there is no one
+没有人
+
+896
+00:54:10,220 --> 00:54:12,460
+who is all the way on the extreme this way or that way,
+总处于某一个极端
+
+897
+00:54:12,680 --> 00:54:15,230
+everyone is on somewhere on the continuum.
+每个人都在这个集合当中的某处
+
+898
+00:54:15,410 --> 00:54:18,050
+What I'm going to argue for is to move a little bit more
+我想要鼓励的是 从消极向积极的方向
+
+899
+00:54:18,260 --> 00:54:22,950
+from the fault-finding toward the benefit-finding,
+逐渐移动
+
+900
+00:54:23,210 --> 00:54:25,810
+because there are many benefits to it that I'll discuss later.
+因为这样有很多好处 我等下会讲到
+
+901
+00:54:26,970 --> 00:54:28,120
+The fault-finder,
+消极者
+
+902
+00:54:28,310 --> 00:54:31,020
+I got the name from the work of Henry David Thoreau,
+这名字出自梭罗的书中
+
+903
+00:54:31,310 --> 00:54:34,770
+the fault-finder will find faults even in paradise.
+消极者甚至在天堂都能找到缺陷
+
+904
+00:54:37,590 --> 00:54:42,240
+The extreme fault-finder experiences resignation,
+极端消极者总会经历辞职
+
+905
+00:54:44,140 --> 00:54:46,940
+learned helplessness. Why?
+感到无助感 为什么?
+
+906
+00:54:47,180 --> 00:54:49,950
+Because he or she begins to really believe
+因为他或她开始真的相信
+
+907
+00:54:50,270 --> 00:54:56,480
+that the terrible reality is very much out there independent of
+糟糕的现实真的存在
+
+908
+00:54:56,670 --> 00:54:57,480
+what he or she thinks,
+不受他或她的想法支配
+
+909
+00:54:57,640 --> 00:54:59,960
+not recognizing that they create that reality,
+而没意识到是他们创造了那个现实
+
+910
+00:55:01,060 --> 00:55:02,910
+they begin to believe that no matter what they do,
+他们开始相信无论他们做什么
+
+911
+00:55:03,130 --> 00:55:05,310
+no matter what job they find they have a terrible boss,
+无论找什么工作 总有个糟糕的老板
+
+912
+00:55:06,630 --> 00:55:07,950
+no matter what partners they have
+无论和什么人搭档
+
+913
+00:55:08,160 --> 00:55:10,200
+they are always awful and inconsiderate,
+他们都很糟糕 不顾及别人
+
+914
+00:55:12,700 --> 00:55:15,870
+no matter what restaurant they go to the service is always awful,
+无论去什么饭店 服务总是很糟糕
+
+915
+00:55:17,740 --> 00:55:20,520
+and they always keep on getting the same peanut butter
+他们总是吃同样的花生酱
+
+916
+00:55:20,740 --> 00:55:23,650
+and jelly sandwich that they made for themselves.
+和果冻三明治 是他们自己做的
+
+917
+00:55:24,280 --> 00:55:26,330
+And they resigned to the reality
+他们向现实屈服
+
+918
+00:55:26,550 --> 00:55:29,100
+and that becomes a self-fulfilling prophesy of course,
+那同时当然也让他们的存在
+
+919
+00:55:29,610 --> 00:55:30,500
+their existence.
+变成自我实现预言
+
+920
+00:55:32,130 --> 00:55:37,410
+A fault-finder makes lemonade out of lemons,
+消极者用柠檬榨柠檬汁
+
+921
+00:55:37,780 --> 00:55:40,320
+sorry,makes lemon out of lemonade.
+抱歉 用柠檬汁做柠檬
+
+922
+00:55:43,620 --> 00:55:49,270
+The benefit-finder,research Julian Bauer,now at UCLA,
+而积极者 加大洛杉矶分校的Julian Bauer做的研究
+
+923
+00:55:52,500 --> 00:55:57,370
+the benefit-finder is the opposite,focuses on what works.
+积极者相反 专注于成功的事物
+
+924
+00:55:58,010 --> 00:56:02,380
+The benefit-finder looks on the bright side of life,
+积极者专注生活的光明一面
+
+925
+00:56:04,610 --> 00:56:09,290
+finds the silver lining in the dark cloud,
+在乌云笼罩中找到一丝白光
+
+926
+00:56:09,490 --> 00:56:12,500
+makes lemonade out of lemons,
+用柠檬榨柠檬汁
+
+927
+00:56:13,560 --> 00:56:16,920
+不因讲师说太多陈词滥调而和他争吵 and doesn't fought an instructor for using too many clichés.
+
+928
+00:56:22,350 --> 00:56:28,520
+The benefit-finder finds the miracle in the common,
+积极者能在普通中找到奇迹
+
+929
+00:56:30,000 --> 00:56:32,850
+Ralph Waldo Emerson,the consummate benefit-finder,
+爱默生就是一个模范积极者
+
+930
+00:56:33,130 --> 00:56:35,420
+focusing on the positive and what works.
+专注于积极面和进展顺利的事上
+
+931
+00:56:36,020 --> 00:56:38,930
+Now the problem here may be that
+这里的问题也许是
+
+932
+00:56:39,190 --> 00:56:40,840
+the benefit-finder may be detached,
+积极者也许会孤立地...
+
+933
+00:56:41,070 --> 00:56:43,190
+this is one of the criticisms of people who always see,
+这是人们经常看到的一种批评
+
+934
+00:56:43,440 --> 00:56:45,010
+you know,the bright side of life,
+只看到生活的光明面
+
+935
+00:56:48,400 --> 00:56:51,250
+and that is the problem if that is the case. Again,
+这样的话的确是一个问题
+
+936
+00:56:51,490 --> 00:56:53,910
+this class is not advocating focusing only on the positive;
+这节课不提倡只专注积极面
+
+937
+00:56:54,110 --> 00:56:56,420
+its focus is advocating reality.
+它专注于提倡现实
+
+938
+00:56:57,530 --> 00:57:00,390
+And reality comprises both good and bad,
+现实包含好的和坏的食物
+
+939
+00:57:00,680 --> 00:57:02,570
+reality comprises both geometric shapes
+现实包含几何图形
+
+940
+00:57:02,760 --> 00:57:06,870
+and children on the bus,and the key is to focus on both.
+和车上的孩子 关键在于要同时关注两者
+
+941
+00:57:07,300 --> 00:57:08,350
+So the detachment,
+分离
+
+942
+00:57:08,560 --> 00:57:11,260
+the detached benefit-finder is certainly not an archetype
+分离地看待事物的积极者 不是一个原型
+
+943
+00:57:11,660 --> 00:57:14,470
+that I would advocate nor would it lead to mental health
+在长期条件下
+
+944
+00:57:15,030 --> 00:57:16,500
+in the long run.
+它当然也不会使人心理健康
+
+945
+00:57:18,190 --> 00:57:20,480
+"There is a need in the world" ---of Nathaniel Branden---
+Nathaniel Branden说过
+
+946
+00:57:20,720 --> 00:57:22,210
+"to respect reality."
+“世界上需要尊重现实”
+
+947
+00:57:30,330 --> 00:57:32,940
+We don't create reality simply by the focus,
+我们不能只凭专注创造现实
+
+948
+00:57:33,420 --> 00:57:35,050
+however,we are co-creator.
+我们是共同创造者
+
+949
+00:57:35,270 --> 00:57:37,930
+Let me read you extensively from William James,
+我给你们读一段William James的话
+
+950
+00:57:40,310 --> 00:57:43,520
+"Now however fixed these elements of reality may be,
+"但这些实在的因素 虽然都非常固定
+
+951
+00:57:43,790 --> 00:57:46,540
+we still have a certain freedom in our dealings with them.
+而我们对付它们 还是有一定自由的
+
+952
+00:57:47,300 --> 00:57:48,550
+Take our sensations,
+拿感觉来说
+
+953
+00:57:49,080 --> 00:57:51,710
+THAT they are is undoubtedly beyond our control;
+感觉的存在 我们虽不能控制
+
+954
+00:57:52,290 --> 00:57:55,050
+but WHICH we attend to,note,and
+但是在我们的结论里 我们注意哪个
+
+955
+00:57:55,260 --> 00:57:58,430
+make emphatic in our conclusions depends on our own interests;
+着重哪个 毕竟得凭我们个人的利益来决定
+
+956
+00:57:58,630 --> 00:58:01,620
+and,according as we lay the emphasis here or there,
+着重之点不同
+
+957
+00:58:01,870 --> 00:58:05,550
+quite different formulations of truth result.
+结果构成的真理可完全不同
+
+958
+00:58:06,140 --> 00:58:08,590
+We read the same facts differently.
+事实全同 我们的看法可各异
+
+959
+00:58:08,770 --> 00:58:10,680
+'Waterloo',with the same fixed details,
+同一个滑铁卢之战 具体情节绝无二致
+
+960
+00:58:10,890 --> 00:58:12,780
+spells a 'victory' for an Englishman;
+而英国人看来是"胜利"
+
+961
+00:58:13,100 --> 00:58:15,250
+for a Frenchman it spells 'defeat'.
+法国人看来是"失败"
+
+962
+00:58:15,510 --> 00:58:20,270
+So,for an optimist philosopher the universe spells victory,
+同样 宇宙也如此 乐观主义者看作是胜利
+
+963
+00:58:20,460 --> 00:58:24,870
+for a pessimist,defeat. What we say about reality thus
+悲观主义者看作是失败 我们对现实抱有怎样说法
+
+964
+00:58:25,090 --> 00:58:28,730
+depends on the perspective into which we throw it. "
+全看我们怎么给他配景"
+
+965
+00:58:29,670 --> 00:58:32,000
+William James said these back in 1890,
+这是William James在1890年说的
+
+966
+00:58:32,780 --> 00:58:34,980
+understanding how we co-create our reality.
+理解我们如何共同创造现实
+
+967
+00:58:35,350 --> 00:58:44,410
+Here is one of my...one of my favorite poems by R.L. Sharpe:
+这是我最喜欢的R.L. Sharpe的诗
+
+968
+00:58:44,690 --> 00:58:47,730
+Isn't it strange,how princes and kings,
+"是不是很奇怪 王子和国王
+
+969
+00:58:47,970 --> 00:58:50,240
+and clowns that caper in sawdust rings,
+在木屑圈裡跳來跳去的小丑
+
+970
+00:58:50,480 --> 00:58:52,310
+and common-people like you and me,
+一如你我的凡人
+
+971
+00:58:52,590 --> 00:58:54,770
+are builders for eternity?
+怎么会是永恒的打造者?
+
+972
+00:58:55,020 --> 00:58:56,670
+each is given a list of rules,
+人人都拿到了一份规则表
+
+973
+00:58:56,900 --> 00:58:59,000
+a shapeless mass and a bag of tools;
+一大块不成形的东西 一袋工具
+
+974
+00:58:59,270 --> 00:59:01,880
+and each must fashion your life is flown,
+在生命流逝之前 人人都必须雕出
+
+975
+00:59:02,340 --> 00:59:05,590
+a stumbling block or a stepping stone.
+一块绊脚石 或是一块垫脚石“
+
+976
+00:59:07,940 --> 00:59:10,950
+Very often what we get in the beginning
+经常我们在开始得到的东西
+
+977
+00:59:11,210 --> 00:59:16,490
+is a large piece of stone. What do we do with it?
+是一大块石头 我们怎么办?
+
+978
+00:59:17,360 --> 00:59:19,550
+Do we create it into a beautiful "David"?
+我们把它凿成漂亮的"大卫"?
+
+979
+00:59:20,020 --> 00:59:21,790
+Chipping away the excess stone?
+凿碎多余的石头?
+
+980
+00:59:22,790 --> 00:59:25,430
+Or,is it a barrier to our success?
+或者它只是我们通往成功的障碍
+
+981
+00:59:26,550 --> 00:59:30,960
+And very often it is up to us,as we co-create our reality.
+通常这是由我们决定的 因为我们共创现实
+
+982
+00:59:31,330 --> 00:59:34,850
+The stone is there,we are not responsible for it;
+石头就在那 我们不用负责
+
+983
+00:59:35,110 --> 00:59:38,570
+but what we do with it,we are responsible for.
+但我们用它做什么 我们要负责
+
+984
+00:59:47,280 --> 00:59:48,970
+Cognitive reconstruction
+认知重建
+
+985
+00:59:50,760 --> 00:59:55,280
+is about learning to interpret things optimistically,
+是要学习乐观地诠释事情
+
+986
+00:59:55,510 --> 00:59:58,080
+another words,in the positive light.
+换句话说 要积极的肯定值得肯定之处
+
+987
+01:00:01,590 --> 01:00:03,510
+Ann Harbison,colleague of mine,
+Ann Harbison 我同事
+
+988
+01:00:03,740 --> 01:00:05,520
+used to teach also with Philip Stone,
+以前也和Philip Stone一起教书
+
+989
+01:00:07,430 --> 01:00:10,220
+said that "never let a good crisis go to waste".
+说过“永远不要浪费一次好的危机”
+
+990
+01:00:10,640 --> 01:00:12,830
+Crises have the potential through growth.
+危机在发展中有潜力
+
+991
+01:00:13,870 --> 01:00:15,500
+One of the books that we will talk about
+我们将谈到的其中一本书
+
+992
+01:00:15,710 --> 01:00:18,570
+when we talk about relationships is Passionate Marriage
+《热情婚姻》是关于婚姻关系的
+
+993
+01:00:18,790 --> 01:00:23,600
+by David Schnarch,who talks about crucibles in marriage.
+作者David Schnarch 谈论婚姻中的考验
+
+994
+01:00:23,840 --> 01:00:27,480
+And what he says is that ...the thriving relationships,
+他说 成功的婚姻
+
+995
+01:00:27,700 --> 01:00:30,040
+a relationships,not that have been,you know,
+婚姻关系不是一直
+
+996
+01:00:30,270 --> 01:00:33,540
+all fine and dandy for years. These usually fail after a while.
+和睦融洽的 往往会有争吵
+
+997
+01:00:33,780 --> 01:00:36,260
+But the relationships that go through crucibles,
+而是经历过磨难
+
+998
+01:00:36,460 --> 01:00:42,920
+that have crises,disagreements and then,you know,
+有过危机 有过分歧的婚姻关系
+
+999
+01:00:43,170 --> 01:00:44,790
+Thesis and Antithesis and then there is a Synthesis,
+就像黑格尔的否定之否定规律
+
+1000
+01:00:44,950 --> 01:00:48,730
+and there is a growth as a result of these hardships.
+往往会因为经历过这些困难而获得更好的发展
+
+1001
+01:00:49,000 --> 01:00:50,360
+And he says that there is no other way,
+他说没有其他办法
+
+1002
+01:00:50,570 --> 01:00:51,770
+again learn to fail or fail to learn,
+学习失败或在失败中学习
+
+1003
+01:00:51,970 --> 01:00:56,050
+there is no other way for a long-term success of a relationship.
+维持长期的关系必须靠这个方法
+
+1004
+01:00:56,890 --> 01:00:59,870
+Relationship does not,cannot look like this.
+关系看起来不像这样
+
+1005
+01:01:00,920 --> 01:01:02,750
+It has to have these ups and downs.
+它必须有起有落
+
+1006
+01:01:05,080 --> 01:01:07,880
+Never let a good crisis in a relationship go to waste.
+从不错失关系中的一个好危机
+
+1007
+01:01:08,750 --> 01:01:10,590
+That doesn't mean that every crisis needs to be resolved
+不是说每个危机都要解决
+
+1008
+01:01:10,760 --> 01:01:14,010
+and there are some that could end,and should end a relationship.
+有些关系可以结束 也应该结束
+
+1009
+01:01:14,460 --> 01:01:17,510
+But most crises can be solved and need to be dealt with.
+但多数危机能被解决 需要处理好
+
+1010
+01:01:18,230 --> 01:01:23,450
+Same on individual level,work by Warren Bennis,
+在个人层面也是一样 Warren Bennis的研究表明
+
+1011
+01:01:23,680 --> 01:01:24,900
+he is from USC,
+他来自南加州大学
+
+1012
+01:01:25,090 --> 01:01:27,670
+taught for a few years here at the Business School,
+在这里的商学院执教过几年
+
+1013
+01:01:29,800 --> 01:01:33,070
+has identified the leading leaders,
+他鉴定了一群领袖人物
+
+1014
+01:01:33,420 --> 01:01:36,640
+whether it's younger ones what he called,
+无论是他称为“极客”的年轻一代
+
+1015
+01:01:36,880 --> 01:01:41,640
+whom he called "the geeks",the thirty-year-olds,or elder ones,
+或者是30多岁或更大的
+
+1016
+01:01:42,000 --> 01:01:43,620
+"the geezers" he called them.
+他称之为“怪杰”的老一辈
+
+1017
+01:01:43,840 --> 01:01:45,520
+He has a book called Geeks & Geezers,
+他出过一本叫《极客与怪杰》的书
+
+1018
+01:01:45,750 --> 01:01:48,000
+where he talks about the differences
+他在里面讨论了
+
+1019
+01:01:48,190 --> 01:01:53,020
+between the two leadership styles,approaches,passions,
+这两种领导风格 领导方式 激情以及
+
+1020
+01:01:53,450 --> 01:01:55,830
+interests and there are numerous differences.
+兴趣爱好的区别 有许多的不同之处
+
+1021
+01:01:56,050 --> 01:01:57,210
+For example,you know,
+比如
+
+1022
+01:01:57,440 --> 01:02:01,270
+the geeks---the younger one talk about work-life balance,
+极客 年轻一代会谈论工作生活平衡
+
+1023
+01:02:01,540 --> 01:02:04,790
+the geezers don't know what he means by that.
+怪杰们则不知道那是什么意思
+
+1024
+01:02:05,040 --> 01:02:06,340
+You know it was usually,he,a man,
+而男人工作
+
+1025
+01:02:06,560 --> 01:02:10,210
+worked while the woman took care of the family and the man.
+女人照顾家庭和男人
+
+1026
+01:02:11,000 --> 01:02:13,430
+So that was for the geezers,for the older generation.
+则是对怪杰而言的 对老的一代而言
+
+1027
+01:02:13,620 --> 01:02:15,690
+The younger generation,they talk about work-life balance
+年轻的一代 谈论工作生活平衡
+
+1028
+01:02:15,910 --> 01:02:18,460
+and how they can incorporate all the elements of their lives.
+他们如何结合生活中所有的元素
+
+1029
+01:02:18,690 --> 01:02:22,530
+There are of course many more women in the geeks than the geezers
+当然在极客中的女人数比怪杰中多
+
+1030
+01:02:22,770 --> 01:02:27,770
+Numerous differences among the generation,one similarity.
+两代人有无数不同点 但有一个相似点
+
+1031
+01:02:28,460 --> 01:02:29,630
+All the great leaders,
+所有的伟大的领袖
+
+1032
+01:02:29,870 --> 01:02:33,330
+whether they were thirty-year-old or eighty-five years old,
+无论是30岁或85岁
+
+1033
+01:02:33,700 --> 01:02:39,190
+all of them had been through very rough crucibles
+他们都经历过艰难的困境
+
+1034
+01:02:39,540 --> 01:02:41,390
+and leave to tell the tale.
+留下一段充满惊险的往事
+
+1035
+01:02:42,320 --> 01:02:44,630
+Our most people go through crucibles,
+我们大多数人经历过困境
+
+1036
+01:02:44,850 --> 01:02:45,290
+but there are certain people
+但有些人
+
+1037
+01:02:45,510 --> 01:02:48,040
+who are able to find benefit in these crucibles
+能从这些困境中找到益处
+
+1038
+01:02:48,240 --> 01:02:49,700
+and grow as a results.
+从而成长
+
+1039
+01:02:51,020 --> 01:02:52,780
+Never let a good crisis go to waste,
+永远不要错失一个好危机
+
+1040
+01:02:53,040 --> 01:02:55,140
+whether it's professionally,whether it's interpersonally,
+无论你在经历的是
+
+1041
+01:02:55,380 --> 01:02:58,470
+whether it's intra-personally in terms of
+职业上或人际关系上
+
+1042
+01:02:58,700 --> 01:03:00,230
+what you are experiencing.
+或是内在个性上的危机
+
+1043
+01:03:04,940 --> 01:03:07,200
+But four years ago or five years ago,
+四年或五年前
+
+1044
+01:03:07,440 --> 01:03:09,480
+when I was still a resident tutor in Leverett house,
+我还是Leverett宿舍的住宿导师
+
+1045
+01:03:10,060 --> 01:03:13,440
+and we had one of these pre-business events
+我们举办了开学前活动
+
+1046
+01:03:13,690 --> 01:03:15,490
+where we talked about the upcoming year
+我们讨论了即将来临的一年的情况
+
+1047
+01:03:15,690 --> 01:03:16,920
+and the recruiting and so on.
+和招聘事宜等等
+
+1048
+01:03:17,180 --> 01:03:18,910
+That particular year was a terrible year,
+那一年是很糟糕的一年
+
+1049
+01:03:19,170 --> 01:03:24,330
+Goldman Sachs was laying off,wasn't recruiting on campus,
+高盛在裁员 没有校园招聘
+
+1050
+01:03:24,750 --> 01:03:29,780
+Credit Suisse,First Boston they were laying off as well,
+瑞士信贷 第一波士顿银行也在裁员
+
+1051
+01:03:30,080 --> 01:03:34,650
+Deutsche Bank,first time in his history was laying off employees
+德意志银行建行以来第一次裁员
+
+1052
+01:03:34,910 --> 01:03:39,510
+really bad market. And we talked about this,each of us gave it,
+市场环境非常糟糕 我们讨论时每个人
+
+1053
+01:03:39,730 --> 01:03:41,690
+what should be about the market and what they can do,
+都在估测市场的形势和他们能做什么
+
+1054
+01:03:42,860 --> 01:03:48,370
+very sober presentation. And then one of the students,
+非常严肃的话题 然后一个学生
+
+1055
+01:03:48,710 --> 01:03:53,020
+you know my students Sean Fieldscoy,was a senior then,
+我的学生Sean Fieldscoy当时大四
+
+1056
+01:03:53,220 --> 01:03:55,860
+was sitting there,Had studied positive psychology there.
+他坐在那里 他学了积极心理学
+
+1057
+01:03:56,100 --> 01:03:56,900
+He put up his hand and said:
+他举起手说
+
+1058
+01:03:57,090 --> 01:04:02,750
+"Tal,you know,as...you know you portrait a very pessimistic
+"Tal 你描绘了一个非常悲观的
+
+1059
+01:04:02,940 --> 01:04:05,090
+and negative picture,
+消极的画面
+
+1060
+01:04:05,280 --> 01:04:07,820
+but as a teacher of Positive Psychology
+但作为一个积极心理学老师
+
+1061
+01:04:08,480 --> 01:04:11,890
+can you maybe shed some optimism here?" And you know,
+你能否说点积极的?"
+
+1062
+01:04:12,120 --> 01:04:14,980
+few chuckles in the audience and then silence.
+观众中有些窃笑 然后是一片寂静
+
+1063
+01:04:17,770 --> 01:04:19,220
+And everyone is looking at me,
+每个人都看着我
+
+1064
+01:04:19,430 --> 01:04:21,860
+I don't know what to say and my immediate reaction was to say
+我不知道说什么 我第一反应是说
+
+1065
+01:04:22,490 --> 01:04:29,750
+"Well Sean things happen for the best." Exactly. (laughs)
+“Sean 事出皆有因” 没错
+
+1066
+01:04:30,620 --> 01:04:31,320
+And then,
+然后
+
+1067
+01:04:31,550 --> 01:04:33,990
+just before it came out of my mouth I said...I thought to myself,
+当我说出口前 我心想
+
+1068
+01:04:34,220 --> 01:04:35,670
+"Actually I don't believe that."
+"其实我不相信"
+
+1069
+01:04:36,780 --> 01:04:38,830
+I don't believe that things happen for the best.
+我不相信事出皆有因
+
+1070
+01:04:43,700 --> 01:04:46,040
+But while I don't believe that things happen for the best,
+但虽然我不相信事出皆有因
+
+1071
+01:04:46,460 --> 01:04:50,200
+I do believe that some people are able to make the best
+我的确相信有些人能够因事制宜
+
+1072
+01:04:50,420 --> 01:04:56,120
+of things that happen,and there is a very big difference here.
+这里有一个很大的区别
+
+1073
+01:04:57,730 --> 01:05:01,470
+Because when I say "I'm not happy about what just happen here,
+因为当我说“我不满意刚发生的事”
+
+1074
+01:05:01,700 --> 01:05:05,810
+I don't like it,I much rather have the market be a good market,
+我不喜欢它 我更希望市场是好市场
+
+1075
+01:05:06,060 --> 01:05:07,090
+where people are hiring,
+人们就业很容易
+
+1076
+01:05:07,310 --> 01:05:10,800
+where they all come to me on a silver platter and offer me a job.
+许多人争相向我提供工作
+
+1077
+01:05:11,040 --> 01:05:13,530
+Of course,I would much rather have that.
+当然 我更情愿那样
+
+1078
+01:05:13,980 --> 01:05:16,420
+So things don't happen for the best necessarily,
+所以事出未必有因
+
+1079
+01:05:16,920 --> 01:05:20,530
+but there are some people who accept the situation
+但有些人接受这种情况
+
+1080
+01:05:21,080 --> 01:05:23,280
+and then are able to make the best of it.
+并且能够因事制宜
+
+1081
+01:05:25,740 --> 01:05:27,910
+The same with any crisis. Do you think the leaders,
+对任何危机而言都一样 你们以为领袖们
+
+1082
+01:05:28,150 --> 01:05:30,160
+whether they are the eighty- or ninety-year-olds,
+无论他们80或90岁
+
+1083
+01:05:30,540 --> 01:05:32,750
+invited those crucibles into their lives
+会主动在生活中寻求严酷的考验吗
+
+1084
+01:05:32,970 --> 01:05:34,460
+want these crucibles to happen?
+会想让这些困难发生吗?
+
+1085
+01:05:34,720 --> 01:05:36,920
+Do you think partners go into a relationship and say
+你觉得处在关系中的伙伴会说
+
+1086
+01:05:37,310 --> 01:05:38,710
+"let's look for that crucible,
+"我们寻找考验
+
+1087
+01:05:38,890 --> 01:05:41,800
+let's really fight so that we can have a healthy relationship"?
+我们吵一架让我们的关系更健康吧"?
+
+1088
+01:05:42,060 --> 01:05:46,250
+Of course not! But when it happens,
+当然不会 但如果真的发生这种情况
+
+1089
+01:05:47,740 --> 01:05:49,920
+that's when they make the best of it.
+他们会充分利用它
+
+1090
+01:05:50,590 --> 01:05:53,140
+You know,stuff happens,
+有些事会发生
+
+1091
+01:05:55,000 --> 01:05:59,970
+and we can either let it pollute or make fertilizer out of it.
+我们要么无动于衷要么从中获取利益
+
+1092
+01:06:03,390 --> 01:06:07,130
+I want to show you an example once again of a leader,
+我再举一个领袖的例子
+
+1093
+01:06:07,500 --> 01:06:11,480
+who is a consummate benefit-finder.
+他是一个模范积极者
+
+1094
+01:06:18,010 --> 01:06:23,040
+[MUSIC]
+
+1095
+01:06:58,300 --> 01:07:01,440
+Wow. We are honored to be talking with Neilson Mandela,
+我们很荣幸能和曼德拉聊天
+
+1096
+01:07:01,680 --> 01:07:05,200
+the former president of South Africa,whose unshakable courage,
+南非前任总统 他不可动摇的勇气
+
+1097
+01:07:05,480 --> 01:07:09,210
+his faith and integrity have inspired millions to see
+他的信仰和正直鼓舞了数千万人
+
+1098
+01:07:09,490 --> 01:07:11,840
+what is possible in their own lives.
+看到自己生命中的可能
+
+1099
+01:07:12,080 --> 01:07:14,840
+I've had the pleasure,the honor of meeting Mr. Mandela
+我很高兴 很荣幸在此之前几次见过
+
+1100
+01:07:15,030 --> 01:07:16,890
+on a couple of occasions before and I will tell you,
+曼德拉先生 我告诉你们
+
+1101
+01:07:17,120 --> 01:07:19,190
+to be in his presence is really,to be in your presence
+和他在一起真的 和你在一起
+
+1102
+01:07:19,360 --> 01:07:24,470
+is like being a presence of royalty and grace at the same time.
+就像同时和庄严和优雅在一起
+
+1103
+01:07:25,030 --> 01:07:31,020
+I would think,I wonder how does a man spend 27 years in prison,
+我想知道一个人在狱中度过27年
+
+1104
+01:07:31,260 --> 01:07:33,130
+put there by an oppressor,
+被压迫者迫害入狱
+
+1105
+01:07:33,400 --> 01:07:37,960
+and come out of that experience with not a heart of stone,
+出来后没有铁石心肠
+
+1106
+01:07:38,160 --> 01:07:39,010
+not a cold heart
+没有漠不关心
+
+1107
+01:07:39,240 --> 01:07:42,450
+but a heart that is willing to forgive and embrace.
+而怀着愿意原谅和容纳的心
+
+1108
+01:07:42,690 --> 01:07:45,510
+I remember talking to you one night of our dinner,
+我记得一晚吃晚饭时和你聊天
+
+1109
+01:07:45,760 --> 01:07:49,050
+and you had said to me that our hatred for the oppressor
+你对我说 我们对压制者的憎恨
+
+1110
+01:07:49,310 --> 01:07:53,580
+was so intense we did not see the value of talking to him.
+太过强烈 我们没有看到和他谈话的价值
+
+1111
+01:07:53,980 --> 01:07:58,690
+So at what point did you see the value of letting go of that hatred
+那么你看到了什么价值 要放下仇恨
+
+1112
+01:07:58,920 --> 01:08:01,070
+and begin the process of talking?
+并开展对话?
+
+1113
+01:08:02,010 --> 01:08:07,350
+Well,let me say first,that is a great tragedy
+首先我想说 这是一个很好的策略
+
+1114
+01:08:08,340 --> 01:08:11,890
+to spend the best of your lives in prison.
+把一生最好的时间花监狱中
+
+1115
+01:08:13,830 --> 01:08:19,460
+But although it looks ironical,there are advantages in that.
+虽然看起来很讽刺 但有好处
+
+1116
+01:08:21,070 --> 01:08:25,320
+If I had not been at the prison,I have not...
+如果我没有入狱 不会有...
+
+1117
+01:08:25,540 --> 01:08:28,470
+I would not be able to achieve the most difficult,
+我不会完成毕生中
+
+1118
+01:08:29,360 --> 01:08:33,190
+a task in life,and that is changing yourself.
+最困难的任务 那改变了你自己
+
+1119
+01:08:34,450 --> 01:08:36,430
+I would not have an opportunity.
+我不会有那样的机会
+
+1120
+01:08:37,040 --> 01:08:41,940
+I had that opportunity because in prison you have
+我有那个机会是因为 在监狱里你有
+
+1121
+01:08:42,200 --> 01:08:45,640
+what we don't have in our work outside prison,
+在监狱外工作所没有的
+
+1122
+01:08:46,680 --> 01:08:53,370
+the opportunity to sit down and think,which is an important part
+机会 可以坐下思考 这是重要部分
+
+1123
+01:08:53,660 --> 01:08:55,960
+Did you need 27 years of it though?
+但你需要27年吗?
+
+1124
+01:08:59,330 --> 01:09:03,330
+You could have taken a few days,a week,a vacation.
+你可以用几天 几周 一个假期
+
+1125
+01:09:03,590 --> 01:09:05,160
+Did you need 27 years?
+你需要27年吗?
+
+1126
+01:09:10,200 --> 01:09:11,030
+Now,
+好
+
+1127
+01:09:12,660 --> 01:09:15,280
+did it happen for the best that he spent 27 years of his life?
+他花了27年是有意义的吗?
+
+1128
+01:09:15,470 --> 01:09:18,090
+Certainly when he experienced it,it was painful,it was awful,
+当然他经历时 很痛苦 很可怕
+
+1129
+01:09:18,300 --> 01:09:20,550
+but he was able to transform this.
+但他能改变这个
+
+1130
+01:09:21,910 --> 01:09:24,470
+And to,even in that situation,to see the positive.
+甚至在那个情况下 看到积极方面
+
+1131
+01:09:24,680 --> 01:09:25,460
+And when we transform that,
+当我们改变那个
+
+1132
+01:09:25,690 --> 01:09:27,960
+those who know the history of what happen to him,
+那些知道他经历过什么事的人
+
+1133
+01:09:28,470 --> 01:09:30,100
+when he started to look at the positive,
+当他开始看这积极方面
+
+1134
+01:09:30,320 --> 01:09:34,260
+even there are the opportunities in prison
+即使在监狱也有机会
+
+1135
+01:09:35,530 --> 01:09:37,630
+when he changes his mind set. In other words,
+当他改变思维模式 换句话说
+
+1136
+01:09:37,830 --> 01:09:39,190
+not the external circumstances,
+不是外部情况
+
+1137
+01:09:39,810 --> 01:09:42,430
+the external circumstances actually begin to change.
+外部情况确实开始改变
+
+1138
+01:09:48,710 --> 01:09:50,450
+Another benefit-finder,
+另一个积极者
+
+1139
+01:09:50,750 --> 01:09:53,320
+"a pessimist sees difficulty in every opportunity,
+"悲观者在每个机会中看到困难
+
+1140
+01:09:53,590 --> 01:09:56,880
+an optimist sees the opportunity in every difficulty."
+乐观者在每个困难中看到机会"
+
+1141
+01:09:59,120 --> 01:10:00,640
+And you don't want to argue with him.
+你不会想跟他争论
+
+1142
+01:10:07,660 --> 01:10:11,190
+I want to end by telling you a story,
+我想在结尾给你讲一个故事
+
+1143
+01:10:12,060 --> 01:10:16,530
+a personal story about my experiences throughout the years.
+一个关于我几年间经历的个人故事
+
+1144
+01:10:16,760 --> 01:10:17,830
+Some biographical detail,
+一些自传细节
+
+1145
+01:10:18,070 --> 01:10:21,090
+something that most of you did not know.
+一些你们多数人不知道的事
+
+1146
+01:10:21,880 --> 01:10:24,900
+And I am going to tell it to you first
+我要告诉你们
+
+1147
+01:10:25,100 --> 01:10:28,360
+from the perspective of the fault-finder.
+先从消极者的角度
+
+1148
+01:10:33,060 --> 01:10:35,780
+I have a mild case of ADD,
+我有轻微的注意力缺陷障碍
+
+1149
+01:10:36,970 --> 01:10:39,260
+it makes things very difficult for me,
+这让事情变得非常困难
+
+1150
+01:10:39,520 --> 01:10:41,960
+it's difficult for me to focus,my mind wanders often,
+我很难集中精神 我的脑子经常游离
+
+1151
+01:10:42,940 --> 01:10:45,570
+and I really struggle with it constantly.
+我真的不断地与它斗争
+
+1152
+01:10:49,860 --> 01:10:51,490
+When I was in high school,
+当我读高中时
+
+1153
+01:10:51,990 --> 01:10:59,370
+I really wanted to get into a lucrative program in mathematics,
+我很想进入一个数学的赚钱项目中
+
+1154
+01:10:59,760 --> 01:11:03,640
+did not pass the entry exam,I was very disappointed,
+没通过入选考试 我很失望
+
+1155
+01:11:03,880 --> 01:11:11,950
+I did not make it. Becoming a professional squash player
+我没做到 成了专业壁球运动员
+
+1156
+01:11:13,220 --> 01:11:15,930
+was a dream for me since the age of 11.
+是我11岁以来的梦想
+
+1157
+01:11:16,410 --> 01:11:19,050
+That is the thing that I thought about constantly,
+那是我一直会想的事情
+
+1158
+01:11:19,310 --> 01:11:22,030
+that was the most important thing for me at the time.
+那时这是我最重要的事
+
+1159
+01:11:22,490 --> 01:11:24,360
+I wanna to be a professional player.
+我想当一个专业选手
+
+1160
+01:11:27,100 --> 01:11:28,130
+At the age of twenty,
+20岁时
+
+1161
+01:11:28,370 --> 01:11:34,050
+I was about to complete my military service in Israel
+我在以色列马上就要服满兵役
+
+1162
+01:11:34,670 --> 01:11:37,490
+and I got injured on the squash court
+我在壁球场受了伤
+
+1163
+01:11:38,260 --> 01:11:40,440
+and pulled the muscle in my back.
+拉坏了背部的肌肉
+
+1164
+01:11:40,720 --> 01:11:46,480
+The doctor gave me an option of being operated on,
+医生让我选择 或者动手术
+
+1165
+01:11:47,560 --> 01:11:51,480
+which was a big risk,or giving up my professional career.
+这有很大风险 或者放弃职业生涯
+
+1166
+01:11:52,350 --> 01:11:54,180
+I chose to give up my professional career,
+我选择放弃我的职业生涯
+
+1167
+01:11:54,430 --> 01:12:00,920
+a dream that I had from a very young age. It was a real blow.
+一个我儿时的梦想 这个打击很大
+
+1168
+01:12:06,970 --> 01:12:08,310
+I went to Cambridge,
+我去了剑桥
+
+1169
+01:12:09,000 --> 01:12:12,460
+after graduating from Harvard and I enrolled in a PhD program.
+哈佛毕业后 我参加一个博士项目
+
+1170
+01:12:13,660 --> 01:12:19,350
+I was the only student in my PhD program to fail,
+我是那个项目中唯一没通过的
+
+1171
+01:12:19,820 --> 01:12:25,000
+I was thrown out of the program. It was humiliating;
+我被赶出了这个项目 很没面子
+
+1172
+01:12:26,530 --> 01:12:27,750
+it seemed like a waste of a year
+像浪费了一年
+
+1173
+01:12:28,010 --> 01:12:29,730
+because I did not even get a master's degree.
+因为我甚至没拿到硕士学位
+
+1174
+01:12:32,350 --> 01:12:33,820
+It was a real tough experience.
+这真的是个很艰难的经历
+
+1175
+01:12:37,480 --> 01:12:41,150
+At Harvard,as a graduate student,I took,
+在哈佛 作为研究生
+
+1176
+01:12:41,380 --> 01:12:44,710
+with all the other students,my qualifying general exams.
+我和其他学生一起 参加资格统考
+
+1177
+01:12:46,710 --> 01:12:49,220
+Out of all the graduate students who took that exam,
+在所有参加那个考试的研究生中
+
+1178
+01:12:49,790 --> 01:12:51,400
+I was the only one who failed it.
+我是唯一没有通过的
+
+1179
+01:12:52,530 --> 01:12:54,930
+Once again,a really humiliating experience,
+又是一个非常丢脸的经历
+
+1180
+01:12:55,250 --> 01:12:57,880
+walking around William James and everyone knows their results,
+走在William James楼边 大家都知道成绩
+
+1181
+01:12:58,300 --> 01:13:02,850
+it was tough. Not only that,I was given provisional,
+这很难堪 不只那样 我被临时
+
+1182
+01:13:06,800 --> 01:13:09,000
+the provisional option of staying in the program.
+临时选择留在这个项目中
+
+1183
+01:13:09,230 --> 01:13:12,660
+They said to me,not only do you need to pass next year's exam
+他们对我说 你不仅要通过明年考试
+
+1184
+01:13:12,880 --> 01:13:14,230
+when you take it with the next class,
+要和下一届一起考
+
+1185
+01:13:14,450 --> 01:13:16,800
+you have to pass it with flying colors or you are out.
+你还要出色地通过考试 否则就出局
+
+1186
+01:13:18,880 --> 01:13:20,060
+So,while the rest of the semester,
+剩下的这个学期
+
+1187
+01:13:20,280 --> 01:13:22,380
+while working on the dissertations,writing,
+忙着于论文和写作的同时
+
+1188
+01:13:22,590 --> 01:13:26,110
+almost graduating I had to go back to the basics
+我几乎快毕业还得回去看最基本的知识
+
+1189
+01:13:26,450 --> 01:13:30,240
+and go over the whole material again.
+把所有教材再复习一遍
+
+1190
+01:13:35,820 --> 01:13:38,980
+God,I am so unlucky.
+天啊 我太不幸了
+
+1191
+01:13:44,510 --> 01:13:48,350
+I want to share with you some biographical facts about my life,
+我想说一些我生活中的某些自传性事实
+
+1192
+01:13:48,630 --> 01:13:50,740
+you know,I have a mild case of ADD,
+我有轻微注意力缺陷障碍
+
+1193
+01:13:51,240 --> 01:13:52,510
+which is great,you know why?
+这很棒 知道为什么吗?
+
+1194
+01:13:52,730 --> 01:13:57,150
+Because,it actually forces me to only study things
+因为 这实际迫使我只能学
+
+1195
+01:13:57,340 --> 01:13:59,050
+that I love,things that I care about,
+我喜欢的东西 我关心的东西
+
+1196
+01:13:59,270 --> 01:14:03,120
+because anything else,my concentration just goes away.
+因为其他的事情 我就集中不了精神
+
+1197
+01:14:03,310 --> 01:14:04,710
+So it's like,I have an internal mechanism
+所以就像我有一个内部机制
+
+1198
+01:14:04,910 --> 01:14:07,260
+that forces me to focus on the ultimate currency,
+强迫我专注最终的东西
+
+1199
+01:14:07,980 --> 01:14:09,710
+on things that make me happy. And
+专注让我快乐的东西
+
+1200
+01:14:09,930 --> 01:14:12,910
+I only study things that I'm passionate about,it is wonderful.
+我只学我热爱的东西 这很棒
+
+1201
+01:14:14,010 --> 01:14:16,340
+You know,when I was in high school,
+我读高中时
+
+1202
+01:14:16,580 --> 01:14:18,360
+I really wanted to get into a certain program,
+非常想进某个项目
+
+1203
+01:14:18,600 --> 01:14:22,640
+in a very lucrative program,and I didn't get in,
+一个可以赚钱的项目 但没能进去
+
+1204
+01:14:22,860 --> 01:14:25,080
+I failed the entrance exam,
+我入选考试没通过
+
+1205
+01:14:26,170 --> 01:14:27,950
+which turned out to be a blessing in disguise,
+这最终是塞翁失马
+
+1206
+01:14:28,180 --> 01:14:31,370
+because it gave me so much more time to practice and play squash,
+因为它让我有更多时间练习打壁球
+
+1207
+01:14:31,610 --> 01:14:33,220
+and I ended up winning international championships
+我最终赢得了国际冠军
+
+1208
+01:14:33,420 --> 01:14:34,410
+in the following year,
+在第二年
+
+1209
+01:14:34,630 --> 01:14:36,950
+which I wouldn't have done had I been in that program.
+如果我进了那个项目就不会做到了
+
+1210
+01:14:44,140 --> 01:14:46,350
+When I was in the University of Cambridge,
+当我在剑桥大学时
+
+1211
+01:14:47,300 --> 01:14:52,870
+I was in a PhD program,and I was the only one in my class,
+我在一个博士项目 我是班里唯一
+
+1212
+01:14:54,810 --> 01:14:55,470
+and as far as I know,
+据我所知
+
+1213
+01:14:55,710 --> 01:14:58,180
+the only one in years to be thrown out of the program.
+数年来唯一被赶出这个项目的人
+
+1214
+01:15:00,120 --> 01:15:02,420
+And it was actually a very important experience,you know,
+这其实是个很重要的经历
+
+1215
+01:15:02,640 --> 01:15:04,640
+I got out of Harvard,I was arrogant,
+我哈佛毕业时 很自负
+
+1216
+01:15:04,870 --> 01:15:06,390
+I thought I was holier than thou,
+我认为自己比谁都神圣
+
+1217
+01:15:06,600 --> 01:15:08,870
+and this was a real humbling experience
+这是个非常令人羞辱的经历
+
+1218
+01:15:09,150 --> 01:15:10,970
+that was especially important for me,
+对我而言尤其重要
+
+1219
+01:15:11,230 --> 01:15:14,080
+because the next year I went to work in Asia,
+因为第二年我去亚洲工作
+
+1220
+01:15:14,740 --> 01:15:18,410
+and there,the worst that I could do was to be arrogant.
+在那里 自负是最糟糕的事情
+
+1221
+01:15:18,750 --> 01:15:21,010
+So this humbling experience actually helped me
+所以这个令人羞辱的经历
+
+1222
+01:15:21,330 --> 01:15:23,730
+a great deal in my future career,
+对我后来的生活有很大帮助
+
+1223
+01:15:24,760 --> 01:15:26,920
+as well as helped me put things in perspective.
+也帮助我正确对待事情
+
+1224
+01:15:30,130 --> 01:15:33,320
+When I came to Harvard,I was the only one in my program
+当我来到哈佛 我是项目中唯一
+
+1225
+01:15:33,820 --> 01:15:36,560
+to fail the general qualifying exams,
+没通过资格统考的人
+
+1226
+01:15:37,450 --> 01:15:39,070
+it was a hard blow,it was difficult,
+这是沉重的打击 很艰难
+
+1227
+01:15:41,120 --> 01:15:44,230
+but it turned out to be a very good experience,you know why?
+但结果是个很好的经历 知道为什么?
+
+1228
+01:15:44,460 --> 01:15:47,730
+Because I had to study the exact same material
+因为我得把相同的教材
+
+1229
+01:15:47,980 --> 01:15:51,190
+and these huge books and articles all over again,
+这些厚厚的书和文章重新学习一遍
+
+1230
+01:15:51,400 --> 01:15:52,800
+and know them not just at the basic level,
+不只是达到基本水平
+
+1231
+01:15:53,030 --> 01:15:56,320
+I had to know them extremely well because that was the condition
+我要学得非常好 因为这是条件
+
+1232
+01:15:56,950 --> 01:15:59,700
+that the professors gave for me staying in the program.
+是教授让我留在这个项目组的条件
+
+1233
+01:16:01,040 --> 01:16:03,990
+And it was so good because I learned the material so well
+这非常好 因为我把教材融会贯通
+
+1234
+01:16:04,470 --> 01:16:06,880
+that I know social psychology today probably
+我的社会心理学 现在大概
+
+1235
+01:16:07,080 --> 01:16:11,160
+better than anyone I know,and that helps me a great deal.
+比我认识的任何人都好 这帮了我很大忙
+
+1236
+01:16:11,390 --> 01:16:18,040
+It helps me a great deal in putting together this course 1504,
+它帮我把这个1504课程整合起来
+
+1237
+01:16:18,430 --> 01:16:21,380
+and there is no place I would rather be than here.
+没什么地方比这里更让我喜欢待的
+
+1238
+01:16:21,660 --> 01:16:23,570
+God,I am so lucky.
+天 我真幸运
+
+1239
+01:16:26,860 --> 01:16:38,830
+Thank you. Same reality,different interpretations.
+谢谢 同样的事实 不同的诠释
+
+1240
+01:16:40,840 --> 01:16:43,170
+Just remember,much of what we experience,
+只要记住 我们经历的大部分事情
+
+1241
+01:16:43,460 --> 01:16:45,840
+we co-create. See you next week.
+我们参与创造 下星期见
+

@@ -30,6 +30,6 @@
 - Beliefs are self-fullifing prophecies.
 - Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will became he can and should be.
 - 奖励喜欢的人或物的照片，或名言放在房间周围以作为映射。
-- 当内部思维和外界现实不一致时会：改变内部思维、忽视外界现实或是创造现实。
+- When intertnal thinking is not consistent with external reality: change internal thinking, ignore external reality , or create reality.
 - learn to fail and learn from failure.
 
