@@ -33,4 +33,6 @@
 - When intertnal thinking is not consistent with external reality: change internal thinking, ignore external reality , or create reality.
 - learn to fail and learn from failure.
 - I didn't fail 5000 times. I succeeded 5000 times. I succeeded in showing what doesn't work.
+- No one is coming. Take responsibility rather than blame.
+- Ú¹ÊÍ: subtitle(p1)
 
