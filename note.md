@@ -6,9 +6,9 @@
 - “谢谢提醒了我一些我熟知事情”
 - 一个事物总是有多面性的，如果你只看它的负面性，那你不会感到好的。
 - 问题会让你关注某一点而忽略其他的，所以要问对问题。
-- 在关注自生缺点的同时也要多多关注自生的优点
+- 在关注自身缺点的同时也要多多关注自身的优点
 - 停止抱怨，展开行动
-- 逃避痛苦还不够，要追求幸福---
+- 逃避痛苦还不够，要追求幸福
 - 我人生中什么是有意义的，我的目的是什么？我为什么在这里，毕业后我真正想做的是什么？提出这些问题并认真思考这些问题的人所追求的，不是避免痛苦，而是追求更多快乐，使生活更有意义，更成功。
 - 疾病模式： “我们感到不适是因为生病了”，听到吗？我们病了是因为我们在生病，真的很深奥，你们可能要好好想一下这句话，可能要给点时间大家消化这话。我重新说一遍，如果治好病，就会变得健康，这是个传统的模型，把病治好，就会变得健康。
 - 健康模型：”你生病了，是因为你还不够健康，因为你不去追求那些让你健康的东西”，什么使你健康？这我之前已谈过，追求有意义的生活，人生的目的，培养健康的人际关系，如果不具备这些，疾病就会趁虚而入。
@@ -29,10 +29,17 @@
 - 主啊，请赐我安详，接纳我不能改变的事物。请赐我勇气，去改变我可以改变的东西。并赐我智慧去认识这两者的差别
 - Beliefs are self-fullifing prophecies.
 - Treat a man as he is and he will remain as he is. Treat a man as he can and should be and he will became he can and should be.
-- 奖励喜欢的人或物的照片，或名言放在房间周围以作为映射。
+- 将喜欢的人或物的照片，或名言放在房间周围以作为映射。
 - When intertnal thinking is not consistent with external reality: change internal thinking, ignore external reality , or create reality.
 - learn to fail and learn from failure.
 - I didn't fail 5000 times. I succeeded 5000 times. I succeeded in showing what doesn't work.
 - No one is coming. Take responsibility rather than blame.
-- 诠释: subtitle(p1)
+- interpret: subtitle(p1)
+- Aristotle once said, "fiction is more important than history." Because history depicts life as it is, where the fiction depicts life as it can or ought to be. As it can or ought to be. The human potential. And that paved the way to much higher levels of freedom and equality in the world. 
+- We adapt to what is common and what drives us, what's interesting to us is the uncommon. The exception rather than the rule.
+- when we are grateful,by definition, we don't take something for granted.
+- 每天都要写下感激，从不同的方向，并在闹中想象。
+- "what can I be grateful for my mom? What has she done to me?
+- One of the most effective interventions out there today is expressing gratitude to others especially this one: writting a letter of gratitude and then visiting the person to whom you are writting and reading them the letter.
+
 
