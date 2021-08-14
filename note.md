@@ -38,8 +38,11 @@
 - Aristotle once said, "fiction is more important than history." Because history depicts life as it is, where the fiction depicts life as it can or ought to be. As it can or ought to be. The human potential. And that paved the way to much higher levels of freedom and equality in the world. 
 - We adapt to what is common and what drives us, what's interesting to us is the uncommon. The exception rather than the rule.
 - when we are grateful,by definition, we don't take something for granted.
-- 每天都要写下感激，从不同的方向，并在闹中想象。
+- 每天都要写下感激，从不同的方向，并在脑中想象。
 - "what can I be grateful for my mom? What has she done to me?
 - One of the most effective interventions out there today is expressing gratitude to others especially this one: writting a letter of gratitude and then visiting the person to whom you are writting and reading them the letter.
+- if we write that letter, we get the spike in wellbeing even if we don't send it. Obviously if we send it and we get feedback, the spike is even higher.
+- we'll talk about journalling next week you know the most effective interventions both for positive as well as negative experiences  only we are writting in different way: one we analyze; the other,we simply replay.
+- Make the most of every sense. Glory in all the facets and pleasures and beauty which the world reveals to you." Take a minute twice a day to focus on what is going on around you
 
 
