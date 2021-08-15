@@ -46,7 +46,7 @@
 - Make the most of every sense. Glory in all the facets and pleasures and beauty which the world reveals to you." Take a minute twice a day to focus on what is going on around you
 - 分心，体会自身的感受
 - 对消极和积极的事不敏感
-- 晚上写日记，回顾一天
+- 晚上写日记，回顾一天。感激自己应该做的，它会增值。
 - 联系：焦虑与责任感
-
+- 行为与态度互相影响，就像内心与外在。
 
