@@ -44,5 +44,9 @@
 - if we write that letter, we get the spike in wellbeing even if we don't send it. Obviously if we send it and we get feedback, the spike is even higher.
 - we'll talk about journalling next week you know the most effective interventions both for positive as well as negative experiences  only we are writting in different way: one we analyze; the other,we simply replay.
 - Make the most of every sense. Glory in all the facets and pleasures and beauty which the world reveals to you." Take a minute twice a day to focus on what is going on around you
+- 分心，体会自身的感受
+- 对消极和积极的事不敏感
+- 晚上写日记，回顾一天
+- 联系：焦虑与责任感
 
 
