@@ -47,7 +47,7 @@
 - we'll talk about journalling next week you know the most effective interventions both for positive as well as negative experiences  only we are writting in different way: one we analyze; the other,we simply replay.
 - Make the most of every sense. Glory in all the facets and pleasures and beauty which the world reveals to you." Take a minute twice a day to focus on what is going on around you
 - 分心，体会自身的感受
-- 对消极和积极的事不敏感
+- 我对消极和积极的事不敏感
 - 联系：焦虑与责任感
 - 行为与态度互相影响，就像内心与外在。
 - 吹口哨壮胆绝不仅仅是一种比喻；同样，无精打采的坐一天、哀声叹气、语气阴沉，都会加重你的忧郁；舒展眉头、发亮双眼、挺胸收腹、声音洪亮、友善的夸奖别人，除非你的心如钢铁。
@@ -61,7 +61,20 @@
 - 晚上写日记，回顾一天。感激自己应该做的，它会增值。
 
 - 养成一个习惯需要大量的自律而保持要的比较少，在30天内养成1，2个习惯。
-- 
+
+- 写一写一生中的深刻经历
+
+- 找出你能做的事，然后再从中找出你想做的事，把它们一一写下来，写张清单，长短都无所谓。接着从你想做的事中，找出你最想做的事，看着这些，从中找出……你最最想做的事，然后就做那些事
+
+- 尝试
+
+- 自我和谐的目标，可以延迟，但不能一直延迟
+
+- 什么时候我最能感受到真实的自我？勇猛？求知？
+
+- 问卷调查
+
+- 死亡诗社
 
   
 
